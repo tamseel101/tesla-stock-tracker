@@ -1,4 +1,11 @@
 # tesla-stock-tracker
+## Lates
+
+## Tesla Stock Chart
+
+![Tesla Stock Chart](charts/tesla_stock_chart.png?20230422182407)
+
+
 ## Latest Tesla News
 
 **[Tesla Investor Relations](https://ir.tesla.com/)**
