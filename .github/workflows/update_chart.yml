@@ -1,0 +1,33 @@
+name: Update Tesla Chart
+on:
+  schedule:
+    - cron: '0 20 * * 1-5' # Run weekdays at 4 PM (UTC)
+
+jobs:
+  update_chart:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Fetch stock data
+        run: python fetch_data.py
+
+      - name: Plot chart
+        run: python plot_chart.py
+
+      - name: Commit and push changes
+        uses: EndBug/add-and-commit@v7
+        with:
+          author_name: 'Your Name'
+          author_email: 'your@email.com'
+          message: 'Update Tesla chart'
+          add: 'charts/*.png'

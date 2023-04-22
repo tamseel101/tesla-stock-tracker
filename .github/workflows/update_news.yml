@@ -1,0 +1,25 @@
+name: Update Tesla News
+on:
+  schedule:
+    - cron: '0 12 * * 6,0' # Run on weekends at 12 PM (UTC)
+
+jobs:
+  update_news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Fetch news
+        run: python fetch_news.py
+
+      - name: Update README
+        run: python update
