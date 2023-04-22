@@ -27,7 +27,7 @@ jobs:
       - name: Commit and push changes
         uses: EndBug/add-and-commit@v7
         with:
-          author_name: 'Your Name'
-          author_email: 'your@email.com'
+          author_name: 'tamseel chart bot'
+          author_email: 'tamseel6000@gmail.com'
           message: 'Update Tesla chart'
           add: 'charts/*.png'
