@@ -1,7 +1,8 @@
 name: Update Tesla News
 on:
   schedule:
-    - cron: '0 12 * * 6,0' # Run on weekends at 12 PM (UTC)
+    - cron: '0 13 * * *' # Run daily at 9 AM Eastern Time (Standard Time)
+      # Adjust the hour for Daylight Saving Time (if necessary)
 
 jobs:
   update_news:
@@ -18,8 +19,22 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      - name: Fetch stock data
+        run: python fetch_data.py
+
+      - name: Plot chart
+        run: python plot_chart.py
+
       - name: Fetch news
         run: python fetch_news.py
 
       - name: Update README
-        run: python update
+        run: python update_readme.py
+
+      - name: Commit and push changes
+        uses: EndBug/add-and-commit@v7
+        with:
+          author_name: 'tamseel bot'
+          author_email: 'tamseel.sheikh@mail.utoronto.ca'
+          message: 'Updated Tesla news and chart'
+          add: 'charts/*.png README.md'
