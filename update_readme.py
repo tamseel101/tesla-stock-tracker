@@ -10,8 +10,8 @@ def update_readme():
         news_section += f"**[{news_item['headline']}]({news_item['link']})**\n\n"
         news_section += f"_Source: {news_item['source']} - {news_item['date']}_\n\n"
 
-    with open("README.md", "r") as f:
-        readme_contents = f.read()
+    with open("README.md", "r", encoding="ISO-8859-1") as f:
+    readme_contents = f.read()
 
     lines = readme_contents.split("\n")
     new_readme_contents = ""
@@ -25,8 +25,8 @@ def update_readme():
 
     new_readme_contents += news_section
 
-    with open("README.md", "w") as f:
-        f.write(new_readme_contents)
+    with open("README.md", "w", encoding="ISO-8859-1") as f:
+    f.write(new_readme_contents)
 
 if __name__ == "__main__":
     update_readme()
