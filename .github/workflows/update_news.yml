@@ -5,7 +5,7 @@ on:
       # Adjust the hour for Daylight Saving Time (if necessary)
 
 jobs:
-  update_chart:
+  update_news:
     runs-on: ubuntu-20.04
     steps:
       - name: Checkout repo
