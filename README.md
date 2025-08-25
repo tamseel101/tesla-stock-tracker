@@ -1,5 +1,5 @@
 # tesla-stock-tracker
-
+[![Daily Tesla Update](https://github.com/tamseel101/tesla-stock-tracker/actions/workflows/daily_update.yml/badge.svg)](https://github.com/tamseel101/tesla-stock-tracker/actions/workflows/daily_update.yml)
 
 ## Tesla Stock Chart
 
