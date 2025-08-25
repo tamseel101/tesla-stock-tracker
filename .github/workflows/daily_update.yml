@@ -8,6 +8,8 @@ on:
 jobs:
   daily_update:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # Grant write permissions for contents
 
     env:
       ALPHA_VANTAGE_API_KEY: ${{ secrets.ALPHA_VANTAGE_API_KEY }}
