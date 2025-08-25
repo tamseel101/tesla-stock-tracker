@@ -68,4 +68,4 @@ jobs:
           author_email: 'actions@github.com'
           message: 'Daily update: Tesla stock chart and news'
           add: 'charts/*.png data/*.csv news/*.json README.md'
-          pull: false # Add this line to prevent pulling before committing
+          pull: '' # Changed from pull: false to pull: '' to explicitly prevent pulling before committing
