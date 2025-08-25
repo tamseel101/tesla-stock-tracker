@@ -2,7 +2,8 @@ name: Daily Tesla Update
 
 on:
   schedule:
-    - cron: '0 13 * * *' # Run daily at 9 AM Eastern Time (13:00 UTC)
+     - cron: '*/5 * * * *' # Run every 5 minutes
+    #- cron: '0 13 * * *' # Run daily at 9 AM Eastern Time (13:00 UTC)
 
 jobs:
   daily_update:
