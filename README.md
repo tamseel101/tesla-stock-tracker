@@ -3,6 +3,70 @@
 
 This project tracks Tesla stock data and news, generating a daily chart and updating the `README.md` automatically via GitHub Actions.
 
+## Setup and Usage
+
+### Running Locally
+
+1.  **Clone the repository**:
+    ```bash
+    git clone https://github.com/your-username/tesla-stock-tracker.git
+    cd tesla-stock-tracker
+    ```
+
+2.  **Install dependencies**:
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+3.  **API Keys (Optional - for live data)**:
+
+    By default, the project uses static data files (`data/tesla_stock_data.csv` and `news/tesla_news.json`) included in the repository, allowing it to run out-of-the-box without any API keys.
+
+    To fetch live stock data from Alpha Vantage and live news from Google Custom Search, you'll need to obtain free API keys:
+
+    *   **Alpha Vantage**: [Get your free API key](https://www.alphavantage.co/support/#api-key)
+    *   **Google Custom Search**: [Get your API key and Custom Search Engine ID (CX)](https://developers.google.com/custom-search/v1/overview)
+
+    Once you have your keys, set them as environment variables (e.g., in your shell or a `.env` file that you don't commit to Git):
+
+    ```bash
+    export ALPHA_VANTAGE_API_KEY="YOUR_ALPHA_VANTAGE_API_KEY"
+    export GOOGLE_API_KEY="YOUR_GOOGLE_API_KEY"
+    export GOOGLE_CX="YOUR_GOOGLE_CUSTOM_SEARCH_ENGINE_ID"
+    ```
+
+4.  **Run the scripts**:
+    ```bash
+    python fetch_data.py
+    python plot_chart.py
+    python fetch_news.py
+    python update_readme.py
+    ```
+
+### GitHub Actions Workflow (for automated daily updates)
+
+For automated daily updates on GitHub, you need to set your API keys as **GitHub Secrets** in your repository settings:
+
+1.  Go to your repository on GitHub.
+2.  Navigate to `Settings` > `Secrets and variables` > `Actions`.
+3.  Add the following secrets:
+    *   `ALPHA_VANTAGE_API_KEY`
+    *   `GOOGLE_API_KEY`
+    *   `GOOGLE_CX`
+
+    The workflow `.github/workflows/daily_update.yml` will then use these secrets to fetch live data and update the `README.md` automatically.
+
+## Project Structure
+
+*   `fetch_data.py`: Fetches Tesla stock data (from Alpha Vantage or uses static data).
+*   `plot_chart.py`: Plots a candlestick chart of Tesla stock data.
+*   `fetch_news.py`: Fetches Tesla news (from Google Custom Search or uses static data).
+*   `update_readme.py`: Updates the `README.md` with the latest chart and news.
+*   `data/`: Stores `tesla_stock_data.csv`.
+*   `news/`: Stores `tesla_news.json`.
+*   `charts/`: Stores `tesla_stock_chart.png`.
+
+
 ## Tesla Stock Chart
 
 ![Tesla Stock Chart](charts/tesla_stock_chart.png?20250825181115)
