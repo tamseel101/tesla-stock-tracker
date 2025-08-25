@@ -2,7 +2,7 @@ name: Daily Tesla Update
 
 on:
   schedule:
-    - cron: '*/5 * * * *' # Run every 5 minutes
+    - cron: '*/5 * * * *' # Run every 5 minutes for testing
   workflow_dispatch:       # Allow manual runs for testing
 
 jobs:
@@ -22,13 +22,15 @@ jobs:
           echo "Repository: $GITHUB_REPOSITORY"
           echo "======================"
 
-      - name: Set up Python
+      - name: Set up Python 3.11
         uses: actions/setup-python@v3
         with:
-          python-version: '3.x'
+          python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
 
       - name: Fetch stock data
         run: python fetch_data.py
@@ -41,6 +43,14 @@ jobs:
 
       - name: Update README
         run: python update_readme.py
+
+      - name: List generated files
+        run: |
+          echo "===== Generated files ====="
+          ls -lh charts/ || true
+          ls -lh data/ || true
+          ls -lh news/ || true
+          echo "==========================="
 
       - name: Commit and push changes
         uses: EndBug/add-and-commit@v7
