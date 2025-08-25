@@ -19,6 +19,9 @@ def plot_tesla_chart():
 
     # Ensure the DataFrame has the required columns for mplfinance
     df.index.name = "Date"
+    # Ensure the index is a DatetimeIndex before passing to mplfinance
+    if not isinstance(df.index, pd.DatetimeIndex):
+        df.index = pd.to_datetime(df.index)
     df = df[["Open", "High", "Low", "Close", "Volume"]]
 
     # Calculate basic support and resistance levels
@@ -29,11 +32,11 @@ def plot_tesla_chart():
 
     for i in range(window, len(df)):
         # Simple support: if current low is a new low within the window
-        if df["Low"][i] == df["Low"][i-window:i].min():
-            support_levels.append((df.index[i], df["Low"][i]))
+        if df["Low"].iloc[i] == df["Low"].iloc[i-window:i].min():
+            support_levels.append((df.index[i], df["Low"].iloc[i]))
         # Simple resistance: if current high is a new high within the window
-        if df["High"][i] == df["High"][i-window:i].max():
-            resistance_levels.append((df.index[i], df["High"][i]))
+        if df["High"].iloc[i] == df["High"].iloc[i-window:i].max():
+            resistance_levels.append((df.index[i], df["High"].iloc[i]))
 
     # Convert S/R levels to scatter plots for mplfinance
     apds = []
