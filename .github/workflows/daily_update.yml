@@ -2,12 +2,17 @@ name: Daily Tesla Update
 
 on:
   schedule:
-    - cron: '*/5 * * * *' # Run every 5 minutes for testing
+    - cron: '0 0 * * *' # Run daily at midnight UTC
   workflow_dispatch:       # Allow manual runs for testing
 
 jobs:
   daily_update:
     runs-on: ubuntu-latest
+
+    env:
+      ALPHA_VANTAGE_API_KEY: ${{ secrets.ALPHA_VANTAGE_API_KEY }}
+      GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+      GOOGLE_CX: ${{ secrets.GOOGLE_CX }}
 
     steps:
       - name: Checkout repository

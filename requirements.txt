@@ -1,5 +1,7 @@
-yfinance==0.2.28
+# pandas_datareader==0.10.0 # Previously used for fetching stock data from Yahoo Finance, but Google Finance API is not available.
+# yfinance==0.2.28 # Previously used for fetching stock data
 pandas==2.2.1
+alpha_vantage
 numpy==1.26.4
 matplotlib==3.8.3
 beautifulsoup4==4.12.2

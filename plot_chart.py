@@ -67,7 +67,7 @@ def plot_tesla_chart():
     # Create 'charts' directory if it doesn't exist
     os.makedirs("charts", exist_ok=True)
     # Save the chart
-    mpf.savefig("charts/tesla_stock_chart.png", fig=fig)
+    fig.savefig("charts/tesla_stock_chart.png")
     print("Candlestick chart with S/R levels saved to charts/tesla_stock_chart.png")
 
 if __name__ == "__main__":
