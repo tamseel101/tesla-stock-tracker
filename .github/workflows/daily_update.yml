@@ -1,14 +1,15 @@
-name: Update Tesla News
+name: Daily Tesla Update
+
 on:
   schedule:
-    - cron: '0 13 * * *' # Run daily at 9 AM Eastern Time (Standard Time)
-      # Adjust the hour for Daylight Saving Time (if necessary)
+    - cron: '0 13 * * *' # Run daily at 9 AM Eastern Time (13:00 UTC)
 
 jobs:
-  update_news:
-    runs-on: ubuntu-20.04
+  daily_update:
+    runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v3
 
       - name: Set up Python
@@ -34,7 +35,7 @@ jobs:
       - name: Commit and push changes
         uses: EndBug/add-and-commit@v7
         with:
-          author_name: 'tamseel bot'
-          author_email: 'tamseel.sheikh@mail.utoronto.ca'
-          message: 'Updated Tesla news and chart'
-          add: 'charts/*.png README.md'
+          author_name: 'Tesla Bot'
+          author_email: 'actions@github.com'
+          message: 'Daily update: Tesla stock chart and news'
+          add: 'charts/*.png data/*.csv news/*.json README.md'
