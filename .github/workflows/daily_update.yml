@@ -2,9 +2,9 @@ name: Daily Tesla Update
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Run daily at midnight UTC
-  workflow_dispatch:       # Allow manual runs for testing
-
+    # Run at 9:30 AM EST every day
+    - cron: '30 14 * * *'  # GitHub Actions uses UTC, EST is UTC-5, so 9:30 AM EST = 14:30 UTC 
+  workflow_dispatch:       # Allow manual runs
 jobs:
   daily_update:
     runs-on: ubuntu-latest
