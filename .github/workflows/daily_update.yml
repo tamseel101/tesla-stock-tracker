@@ -2,8 +2,8 @@ name: Daily Tesla Update
 
 on:
   schedule:
-     - cron: '*/1 * * * *' # Run every 5 minutes
-    #- cron: '0 13 * * *' # Run daily at 9 AM Eastern Time (13:00 UTC)
+    - cron: '*/5 * * * *' # Run every 5 minutes
+  workflow_dispatch:       # Allow manual runs for testing
 
 jobs:
   daily_update:
@@ -12,6 +12,15 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+
+      - name: Debug info
+        run: |
+          echo "===== DEBUG INFO ====="
+          echo "Current UTC time: $(date -u)"
+          echo "Branch: $GITHUB_REF"
+          echo "Commit SHA: $GITHUB_SHA"
+          echo "Repository: $GITHUB_REPOSITORY"
+          echo "======================"
 
       - name: Set up Python
         uses: actions/setup-python@v3
