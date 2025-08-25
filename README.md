@@ -1,7 +1,5 @@
 # tesla-stock-tracker
-[![Update Tesla Chart](https://github.com/tamseel101/tesla-stock-tracker/actions/workflows/update_chart.yml/badge.svg?branch=main)](https://github.com/tamseel101/tesla-stock-tracker/actions/workflows/update_chart.yml)
 
-[![Update Tesla News](https://github.com/tamseel101/tesla-stock-tracker/actions/workflows/update_news.yml/badge.svg)](https://github.com/tamseel101/tesla-stock-tracker/actions/workflows/update_news.yml)
 
 ## Tesla Stock Chart
 
