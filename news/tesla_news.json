@@ -18,12 +18,6 @@
         "link": "https://ir.tesla.com/press"
     },
     {
-        "headline": "Tesla, Inc. (TSLA) Stock Price, News, Quote & History - Yahoo Finance",
-        "source": "ca.finance.yahoo.com",
-        "date": "Find the latest Tesla, Inc. (TSLA) stock quote, history, news and other vital information to help you with your stock trading and investing.",
-        "link": "https://ca.finance.yahoo.com/quote/TSLA/"
-    },
-    {
         "headline": "Tesla Motors Begins Regular Production of 2008 Tesla Roadster ...",
         "source": "ir.tesla.com",
         "date": "Mar 16, 2008 ... Regular production of the 2008 Tesla Roadster commenced today, marking an historical milestone for Tesla Motors and a watershed in the development of clean,\u00a0...",
@@ -34,6 +28,12 @@
         "source": "ir.tesla.com",
         "date": "Apr 2, 2025 ... At that time, Tesla will issue a brief advisory containing a link to the Q1 2025 update which will be available on Tesla's Investor Relations\u00a0...",
         "link": "https://ir.tesla.com/press-release/tesla-first-quarter-2025-production-deliveries-and-deployments"
+    },
+    {
+        "headline": "Tesla, Inc. (TSLA) Stock Price, News, Quote & History - Yahoo Finance",
+        "source": "ca.finance.yahoo.com",
+        "date": "Find the latest Tesla, Inc. (TSLA) stock quote, history, news and other vital information to help you with your stock trading and investing.",
+        "link": "https://ca.finance.yahoo.com/quote/TSLA/"
     },
     {
         "headline": "Tesla Motors Announces Offerings of Common Stock and ...",
