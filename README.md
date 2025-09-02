@@ -69,7 +69,8 @@ For automated daily updates on GitHub, you need to set your API keys as **GitHub
 
 ## Tesla Stock Chart
 
-![Tesla Stock Chart](charts/tesla_stock_chart.png?20250901144047)
+![Tesla Stock Chart](charts/tesla_stock_chart.png?20250902144247)
+
 
 
 
@@ -98,6 +99,10 @@ _Source: ir.tesla.com - Tesla has released its financial results for the first q
 
 _Source: ir.tesla.com - Mar 16, 2008 ... Regular production of the 2008 Tesla Roadster commenced today, marking an historical milestone for Tesla Motors and a watershed in the development of clean, ..._
 
+**[Tesla gets around 600 orders since India launch, Bloomberg News ...](https://ca.finance.yahoo.com/news/tesla-gets-around-600-orders-050758832.html)**
+
+_Source: ca.finance.yahoo.com - 10 hours ago ... (Reuters) -Tesla has received orders for just over 600 cars since launching sales in India in mid-July, a number that has fallen short of ..._
+
 **[Tesla First Quarter 2025 Production, Deliveries & Deployments](https://ir.tesla.com/press-release/tesla-first-quarter-2025-production-deliveries-and-deployments)**
 
 _Source: ir.tesla.com - Apr 2, 2025 ... At that time, Tesla will issue a brief advisory containing a link to the Q1 2025 update which will be available on Tesla's Investor Relations ..._
@@ -106,6 +111,10 @@ _Source: ir.tesla.com - Apr 2, 2025 ... At that time, Tesla will issue a brief a
 
 _Source: ir.tesla.com - May 15, 2013 ... PALO ALTO, CA -- (Marketwired) -- 05/15/13 -- Tesla Motors, Inc. (NASDAQ: TSLA) announced today offerings of 2703027 shares of common stock ..._
 
+**[Tesla, Inc. (TSLA) Stock Price, News, Quote & History - Yahoo Finance](https://ca.finance.yahoo.com/quote/TSLA/)**
+
+_Source: ca.finance.yahoo.com - Find the latest Tesla, Inc. (TSLA) stock quote, history, news and other vital information to help you with your stock trading and investing._
+
 **[Tesla Motors Releases Second Quarter 2011 Financial Results ...](https://ir.tesla.com/press-release/tesla-motors-releases-second-quarter-2011-financial-results)**
 
 _Source: ir.tesla.com - Aug 3, 2011 ... PALO ALTO, CA -- (MARKET WIRE) -- 08/03/11 -- Tesla Motors, Inc. (NASDAQ: TSLA) today released its second quarter 2011 financial results by ..._
@@ -113,12 +122,4 @@ _Source: ir.tesla.com - Aug 3, 2011 ... PALO ALTO, CA -- (MARKET WIRE) -- 08/03/
 **[Tesla Motors Launches Revolutionary Supercharger Enabling ...](https://ir.tesla.com/press-release/tesla-motors-launches-revolutionary-supercharger-enabling)**
 
 _Source: ir.tesla.com - Sep 24, 2012 ... Tesla revealed the locations of the first six Supercharger stations, which will allow the Model S to travel long distances with ultra fast charging._
-
-**[Tesla Motors and Toyota Motor Corporation Intend to Work Jointly ...](https://ir.tesla.com/press-release/tesla-motors-and-toyota-motor-corporation-intend-work-jointly-ev)**
-
-_Source: ir.tesla.com - May 19, 2010 ... The two companies intend to form a specialist team to further those efforts. TMC has agreed to purchase $50 million of Tesla's common stock ..._
-
-**[Tesla Motors Wins Three Stevie Awards in 9th Annual American ...](https://ir.tesla.com/press-release/tesla-motors-wins-three-stevie-awards-9th-annual-american)**
-
-_Source: ir.tesla.com - Jun 23, 2011 ... Tesla's site beat out entries from Accenture, AT&T, Webs, Inc., and other highly respected companies in winning the Stevies. Overall, more than ..._
 
