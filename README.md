@@ -69,7 +69,8 @@ For automated daily updates on GitHub, you need to set your API keys as **GitHub
 
 ## Tesla Stock Chart
 
-![Tesla Stock Chart](charts/tesla_stock_chart.png?20250903144043)
+![Tesla Stock Chart](charts/tesla_stock_chart.png?20250904144056)
+
 
 
 
@@ -100,17 +101,17 @@ _Source: ir.tesla.com - Tesla has released its financial results for the first q
 
 _Source: ir.tesla.com - Mar 16, 2008 ... Regular production of the 2008 Tesla Roadster commenced today, marking an historical milestone for Tesla Motors and a watershed in the development of clean, ..._
 
-**[Tesla gets around 600 orders since India launch, Bloomberg News ...](https://ca.finance.yahoo.com/news/tesla-gets-around-600-orders-050758832.html)**
+**[Tesla First Quarter 2025 Production, Deliveries & Deployments](https://ir.tesla.com/press-release/tesla-first-quarter-2025-production-deliveries-and-deployments)**
 
-_Source: ca.finance.yahoo.com - 1 day ago ... The Elon Musk-led EV maker now plans to ship between 350 and 500 cars to India this year, of which the first batch is slated to land from ..._
+_Source: ir.tesla.com - Apr 2, 2025 ... At that time, Tesla will issue a brief advisory containing a link to the Q1 2025 update which will be available on Tesla's Investor Relations ..._
 
 **[Tesla Motors Announces Offerings of Common Stock and ...](https://ir.tesla.com/press-release/tesla-motors-announces-offerings-common-stock-and-convertible)**
 
 _Source: ir.tesla.com - May 15, 2013 ... PALO ALTO, CA -- (Marketwired) -- 05/15/13 -- Tesla Motors, Inc. (NASDAQ: TSLA) announced today offerings of 2703027 shares of common stock ..._
 
-**[Tesla First Quarter 2025 Production, Deliveries & Deployments](https://ir.tesla.com/press-release/tesla-first-quarter-2025-production-deliveries-and-deployments)**
+**[Tesla gets around 600 orders since India launch, Bloomberg News ...](https://ca.finance.yahoo.com/news/tesla-gets-around-600-orders-050758832.html)**
 
-_Source: ir.tesla.com - Apr 2, 2025 ... At that time, Tesla will issue a brief advisory containing a link to the Q1 2025 update which will be available on Tesla's Investor Relations ..._
+_Source: ca.finance.yahoo.com - 2 days ago ... The Elon Musk-led EV maker now plans to ship between 350 and 500 cars to India this year, of which the first batch is slated to land from ..._
 
 **[Tesla Motors Releases Second Quarter 2011 Financial Results ...](https://ir.tesla.com/press-release/tesla-motors-releases-second-quarter-2011-financial-results)**
 
