@@ -69,7 +69,8 @@ For automated daily updates on GitHub, you need to set your API keys as **GitHub
 
 ## Tesla Stock Chart
 
-![Tesla Stock Chart](charts/tesla_stock_chart.png?20250905143947)
+![Tesla Stock Chart](charts/tesla_stock_chart.png?20250906143632)
+
 
 
 
@@ -92,7 +93,7 @@ _Source: ir.tesla.com - Tesla's mission is to accelerate the world's transition 
 
 **[UNITED STATES SECURITIES AND EXCHANGE COMMISSION ...](https://ir.tesla.com/_flysystem/s3/sec/000110465925087598/tm252289-4_pre14a-gen.pdf)**
 
-_Source: ir.tesla.com - 2 days ago ... ... news about the Interim. Award, we told you that our work was ... Tesla by billions; in 2025, he has to grow Tesla by trillions — to ..._
+_Source: ir.tesla.com - 3 days ago ... ... news about the Interim. Award, we told you that our work was ... Tesla by billions; in 2025, he has to grow Tesla by trillions — to ..._
 
 **[Tesla Motors to Manufacture Sedan in California | Tesla Investor ...](https://ir.tesla.com/press-release/tesla-motors-manufacture-sedan-california)**
 
@@ -114,9 +115,9 @@ _Source: ir.tesla.com - Tesla has released its financial results for the first q
 
 _Source: ir.tesla.com - May 15, 2013 ... PALO ALTO, CA -- (Marketwired) -- 05/15/13 -- Tesla Motors, Inc. (NASDAQ: TSLA) announced today offerings of 2703027 shares of common stock ..._
 
-**[Tesla gets around 600 orders since India launch, Bloomberg News ...](https://ca.finance.yahoo.com/news/tesla-gets-around-600-orders-050758832.html)**
+**[Tesla Motors Announces Date for Fourth Quarter & Year-End 2012 ...](https://ir.tesla.com/press-release/tesla-motors-announces-date-fourth-quarter-year-end-2012)**
 
-_Source: ca.finance.yahoo.com - 3 days ago ... The Elon Musk-led EV maker now plans to ship between 350 and 500 cars to India this year, of which the first batch is slated to land from ..._
+_Source: ir.tesla.com - Feb 11, 2013 ... Tesla Motors, Inc. (NASDAQ: TSLA) announced today that it will post its financial results for the fourth quarter and calendar year ended December 31, 2012._
 
 **[Tesla Motors Announces Date for Third Quarter 2012 Financial ...](https://ir.tesla.com/press-release/tesla-motors-announces-date-third-quarter-2012-financial-results)**
 
