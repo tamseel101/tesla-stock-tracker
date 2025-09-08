@@ -69,7 +69,8 @@ For automated daily updates on GitHub, you need to set your API keys as **GitHub
 
 ## Tesla Stock Chart
 
-![Tesla Stock Chart](charts/tesla_stock_chart.png?20250907143631)
+![Tesla Stock Chart](charts/tesla_stock_chart.png?20250908144317)
+
 
 
 
@@ -96,10 +97,6 @@ _Source: ir.tesla.com - Tesla's mission is to accelerate the world's transition 
 
 _Source: ir.tesla.com - Jun 29, 2008 ... Tesla's next product, a 4-door, 5-passenger sedan, will be manufactured at a facility in the state of California._
 
-**[UNITED STATES SECURITIES AND EXCHANGE COMMISSION ...](https://ir.tesla.com/_flysystem/s3/sec/000110465925087598/tm252289-4_pre14a-gen.pdf)**
-
-_Source: ir.tesla.com - 4 days ago ... ... news about the Interim. Award, we told you that our work was ... Tesla by billions; in 2025, he has to grow Tesla by trillions — to ..._
-
 **[Tesla Motors Begins Regular Production of 2008 Tesla Roadster ...](https://ir.tesla.com/press-release/tesla-motors-begins-regular-production-2008-tesla-roadster)**
 
 _Source: ir.tesla.com - Mar 16, 2008 ... Regular production of the 2008 Tesla Roadster commenced today, marking an historical milestone for Tesla Motors and a watershed in the development of clean, ..._
@@ -115,6 +112,10 @@ _Source: ir.tesla.com - Tesla has released its financial results for the first q
 **[Tesla Motors Announces Offerings of Common Stock and ...](https://ir.tesla.com/press-release/tesla-motors-announces-offerings-common-stock-and-convertible)**
 
 _Source: ir.tesla.com - May 15, 2013 ... PALO ALTO, CA -- (Marketwired) -- 05/15/13 -- Tesla Motors, Inc. (NASDAQ: TSLA) announced today offerings of 2703027 shares of common stock ..._
+
+**[Tesla Motors Announces 2011 Annual Stockholder Meeting | Tesla ...](https://ir.tesla.com/press-release/tesla-motors-announces-2011-annual-stockholder-meeting)**
+
+_Source: ir.tesla.com - Feb 25, 2011 ... PALO ALTO, Calif.--(BUSINESS WIRE)-- Tesla Motors, Inc. (Nasdaq: TSLA) announced today that its 2011 annual meeting of stockholders will be ..._
 
 **[Tesla Motors Announces Date for Fourth Quarter & Year-End 2012 ...](https://ir.tesla.com/press-release/tesla-motors-announces-date-fourth-quarter-year-end-2012)**
 
