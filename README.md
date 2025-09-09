@@ -69,7 +69,8 @@ For automated daily updates on GitHub, you need to set your API keys as **GitHub
 
 ## Tesla Stock Chart
 
-![Tesla Stock Chart](charts/tesla_stock_chart.png?20250908144317)
+![Tesla Stock Chart](charts/tesla_stock_chart.png?20250909144110)
+
 
 
 
@@ -97,6 +98,10 @@ _Source: ir.tesla.com - Tesla's mission is to accelerate the world's transition 
 
 _Source: ir.tesla.com - Jun 29, 2008 ... Tesla's next product, a 4-door, 5-passenger sedan, will be manufactured at a facility in the state of California._
 
+**[Tesla Motors Announces Offerings of Common Stock and ...](https://ir.tesla.com/press-release/tesla-motors-announces-offerings-common-stock-and-convertible)**
+
+_Source: ir.tesla.com - May 15, 2013 ... PALO ALTO, CA -- (Marketwired) -- 05/15/13 -- Tesla Motors, Inc. (NASDAQ: TSLA) announced today offerings of 2703027 shares of common stock ..._
+
 **[Tesla Motors Begins Regular Production of 2008 Tesla Roadster ...](https://ir.tesla.com/press-release/tesla-motors-begins-regular-production-2008-tesla-roadster)**
 
 _Source: ir.tesla.com - Mar 16, 2008 ... Regular production of the 2008 Tesla Roadster commenced today, marking an historical milestone for Tesla Motors and a watershed in the development of clean, ..._
@@ -109,9 +114,9 @@ _Source: ir.tesla.com - Apr 2, 2025 ... At that time, Tesla will issue a brief a
 
 _Source: ir.tesla.com - Tesla has released its financial results for the first quarter of 2025 by posting an update on its Investor Relations website._
 
-**[Tesla Motors Announces Offerings of Common Stock and ...](https://ir.tesla.com/press-release/tesla-motors-announces-offerings-common-stock-and-convertible)**
+**[Tesla, Inc. (TSLA) Stock Price, News, Quote & History - Yahoo Finance](https://ca.finance.yahoo.com/quote/TSLA/)**
 
-_Source: ir.tesla.com - May 15, 2013 ... PALO ALTO, CA -- (Marketwired) -- 05/15/13 -- Tesla Motors, Inc. (NASDAQ: TSLA) announced today offerings of 2703027 shares of common stock ..._
+_Source: ca.finance.yahoo.com - Find the latest Tesla, Inc. (TSLA) stock quote, history, news and other vital information to help you with your stock trading and investing._
 
 **[Tesla Motors Announces 2011 Annual Stockholder Meeting | Tesla ...](https://ir.tesla.com/press-release/tesla-motors-announces-2011-annual-stockholder-meeting)**
 
@@ -124,8 +129,4 @@ _Source: ir.tesla.com - Feb 11, 2013 ... Tesla Motors, Inc. (NASDAQ: TSLA) annou
 **[Tesla Motors Announces Date for Third Quarter 2012 Financial ...](https://ir.tesla.com/press-release/tesla-motors-announces-date-third-quarter-2012-financial-results)**
 
 _Source: ir.tesla.com - Oct 17, 2012 ... Tesla Motors, Inc. (NASDAQ: TSLA) announced today that it will post its financial results for the third quarter ended September 30, 2012, after market close on ..._
-
-**[Tesla Motors Releases Second Quarter 2011 Financial Results ...](https://ir.tesla.com/press-release/tesla-motors-releases-second-quarter-2011-financial-results)**
-
-_Source: ir.tesla.com - Aug 3, 2011 ... PALO ALTO, CA -- (MARKET WIRE) -- 08/03/11 -- Tesla Motors, Inc. (NASDAQ: TSLA) today released its second quarter 2011 financial results by ..._
 
