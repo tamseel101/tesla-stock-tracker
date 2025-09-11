@@ -69,7 +69,8 @@ For automated daily updates on GitHub, you need to set your API keys as **GitHub
 
 ## Tesla Stock Chart
 
-![Tesla Stock Chart](charts/tesla_stock_chart.png?20250910144014)
+![Tesla Stock Chart](charts/tesla_stock_chart.png?20250911144017)
+
 
 
 
@@ -119,15 +120,15 @@ _Source: ir.tesla.com - Oct 17, 2013 ... PALO ALTO, CA -- (Marketwired) -- 10/17
 
 _Source: ir.tesla.com - Apr 2, 2025 ... At that time, Tesla will issue a brief advisory containing a link to the Q1 2025 update which will be available on Tesla's Investor Relations ..._
 
+**[Tesla Motors Announces Date for Second Quarter 2013 Financial ...](https://ir.tesla.com/press-release/tesla-motors-announces-date-second-quarter-2013-financial)**
+
+_Source: ir.tesla.com - Jul 16, 2013 ... PALO ALTO, CA -- (Marketwired) -- 07/16/13 -- Tesla Motors, Inc. (NASDAQ: TSLA) announced today that it will post its financial results for ..._
+
 **[Tesla Motors Announces 2012 Annual Shareholder Meeting | Tesla ...](https://ir.tesla.com/press-release/tesla-motors-announces-2012-annual-shareholder-meeting)**
 
 _Source: ir.tesla.com - May 2, 2012 ... PALO ALTO, CA -- (Marketwire) -- 05/02/12 -- Tesla Motors, Inc. (NASDAQ: TSLA) today announced the date and location of its 2012 Annual ..._
 
-**[Panasonic Invests $30 Million in Tesla: Companies Strengthen ...](https://ir.tesla.com/press-release/panasonic-invests-30-million-tesla-companies-strengthen)**
+**[Tesla Motors Announces Date for First Quarter 2014 Financial Results](https://ir.tesla.com/press-release/tesla-motors-announces-date-first-quarter-2014-financial-results)**
 
-_Source: ir.tesla.com - Nov 3, 2010 ... PALO ALTO, Calif.--(BUSINESS WIRE)-- Panasonic Corporation and Tesla Motors (NASDAQ:TSLA) today announced that Panasonic has invested $30 ..._
-
-**[Tesla Motors Announces Date for Fourth Quarter & Year-End 2012 ...](https://ir.tesla.com/press-release/tesla-motors-announces-date-fourth-quarter-year-end-2012)**
-
-_Source: ir.tesla.com - Feb 11, 2013 ... Tesla Motors, Inc. (NASDAQ: TSLA) announced today that it will post its financial results for the fourth quarter and calendar year ended December 31, 2012._
+_Source: ir.tesla.com - Apr 18, 2014 ... PALO ALTO, CA -- (Marketwired) -- 04/18/14 -- Tesla announced today that it will post its financial results for the first quarter ended ..._
 
