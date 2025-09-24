@@ -20,7 +20,7 @@
     {
         "headline": "Tesla, Inc. (TSLA) Stock Price, News, Quote & History - Yahoo Finance",
         "source": "ca.finance.yahoo.com",
-        "date": "Tesla stock closes at new 2025 high: Top takeaways. Tesla (TSLA) shares have been on a tear, rising over 27% in the last month and closing Monday's session at a\u00a0...",
+        "date": "Tesla: Shares Rally on Expanded Robotaxi Testing. Tesla is a vertically integrated battery electric vehicle automaker and developer of autonomous driving\u00a0...",
         "link": "https://ca.finance.yahoo.com/quote/TSLA/"
     },
     {
@@ -30,16 +30,22 @@
         "link": "https://ir.tesla.com/press-release/tesla-motors-announces-date-third-quarter-2013-financial-results"
     },
     {
-        "headline": "Tesla Motors Announces Date for Second Quarter 2012 Financial ...",
-        "source": "ir.tesla.com",
-        "date": "Jul 19, 2012 ... Tesla Motors, Inc. (NASDAQ: TSLA) announced today that it will post its financial results for the second quarter ended June 30, 2012, after market close on\u00a0...",
-        "link": "https://ir.tesla.com/press-release/tesla-motors-announces-date-second-quarter-2012-financial"
-    },
-    {
         "headline": "Press Releases | Tesla Investor Relations",
         "source": "ir.tesla.com",
         "date": "Tesla has released its financial results for the first quarter of 2025 by posting an update on its Investor Relations website.",
         "link": "https://ir.tesla.com/press"
+    },
+    {
+        "headline": "Tesla Motors Releases First Quarter 2013 Financial Results | Tesla ...",
+        "source": "ir.tesla.com",
+        "date": "May 8, 2013 ... PALO ALTO, CA -- (Marketwired) -- 05/08/13 -- Tesla Motors, Inc. (NASDAQ: TSLA) today released its financial results for the first quarter\u00a0...",
+        "link": "https://ir.tesla.com/news-releases/news-release-details/tesla-motors-releases-first-quarter-2013-financial-results"
+    },
+    {
+        "headline": "Tesla Motors Announces Date for Second Quarter 2012 Financial ...",
+        "source": "ir.tesla.com",
+        "date": "Jul 19, 2012 ... Tesla Motors, Inc. (NASDAQ: TSLA) announced today that it will post its financial results for the second quarter ended June 30, 2012, after market close on\u00a0...",
+        "link": "https://ir.tesla.com/press-release/tesla-motors-announces-date-second-quarter-2012-financial"
     },
     {
         "headline": "Tesla Motors Announces Date for Second Quarter 2013 Financial ...",
@@ -52,11 +58,5 @@
         "source": "ir.tesla.com",
         "date": "Mar 16, 2008 ... Regular production of the 2008 Tesla Roadster commenced today, marking an historical milestone for Tesla Motors and a watershed in the development of clean,\u00a0...",
         "link": "https://ir.tesla.com/press-release/tesla-motors-begins-regular-production-2008-tesla-roadster"
-    },
-    {
-        "headline": "Tesla Motors Announces 2012 Annual Shareholder Meeting | Tesla ...",
-        "source": "ir.tesla.com",
-        "date": "May 2, 2012 ... PALO ALTO, CA -- (Marketwire) -- 05/02/12 -- Tesla Motors, Inc. (NASDAQ: TSLA) today announced the date and location of its 2012 Annual\u00a0...",
-        "link": "https://ir.tesla.com/press-release/tesla-motors-announces-2012-annual-shareholder-meeting"
     }
 ]
