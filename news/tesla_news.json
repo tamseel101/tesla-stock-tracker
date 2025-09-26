@@ -20,7 +20,7 @@
     {
         "headline": "Tesla, Inc. (TSLA) Stock Price, News, Quote & History - Yahoo Finance",
         "source": "ca.finance.yahoo.com",
-        "date": "Find the latest Tesla, Inc. (TSLA) stock quote, history, news and other vital information to help you with your stock trading and investing.",
+        "date": "Tesla: Shares Rally on Expanded Robotaxi Testing. Tesla is a vertically integrated battery electric vehicle automaker and developer of autonomous driving\u00a0...",
         "link": "https://ca.finance.yahoo.com/quote/TSLA/"
     },
     {
@@ -34,12 +34,6 @@
         "source": "ir.tesla.com",
         "date": "Tesla has released its financial results for the first quarter of 2025 by posting an update on its Investor Relations website.",
         "link": "https://ir.tesla.com/press"
-    },
-    {
-        "headline": "Tesla Motors Releases First Quarter 2013 Financial Results | Tesla ...",
-        "source": "ir.tesla.com",
-        "date": "May 8, 2013 ... PALO ALTO, CA -- (Marketwired) -- 05/08/13 -- Tesla Motors, Inc. (NASDAQ: TSLA) today released its financial results for the first quarter\u00a0...",
-        "link": "https://ir.tesla.com/news-releases/news-release-details/tesla-motors-releases-first-quarter-2013-financial-results"
     },
     {
         "headline": "Tesla Motors Announces Date for Second Quarter 2012 Financial ...",
@@ -58,5 +52,11 @@
         "source": "ir.tesla.com",
         "date": "Mar 16, 2008 ... Regular production of the 2008 Tesla Roadster commenced today, marking an historical milestone for Tesla Motors and a watershed in the development of clean,\u00a0...",
         "link": "https://ir.tesla.com/press-release/tesla-motors-begins-regular-production-2008-tesla-roadster"
+    },
+    {
+        "headline": "Tesla Motors Announces 2012 Annual Shareholder Meeting | Tesla ...",
+        "source": "ir.tesla.com",
+        "date": "May 2, 2012 ... PALO ALTO, CA -- (Marketwire) -- 05/02/12 -- Tesla Motors, Inc. (NASDAQ: TSLA) today announced the date and location of its 2012 Annual\u00a0...",
+        "link": "https://ir.tesla.com/press-release/tesla-motors-announces-2012-annual-shareholder-meeting"
     }
 ]
