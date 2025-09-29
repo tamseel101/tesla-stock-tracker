@@ -20,8 +20,14 @@
     {
         "headline": "Tesla, Inc. (TSLA) Stock Price, News, Quote & History - Yahoo Finance",
         "source": "ca.finance.yahoo.com",
-        "date": "Tesla: Shares Rally on Expanded Robotaxi Testing. Tesla is a vertically integrated battery electric vehicle automaker and developer of autonomous driving\u00a0...",
+        "date": "Find the latest Tesla, Inc. (TSLA) stock quote, history, news and other vital information to help you with your stock trading and investing.",
         "link": "https://ca.finance.yahoo.com/quote/TSLA/"
+    },
+    {
+        "headline": "Tesla Motors Releases Fourth Quarter & Full Year 2011 Financial ...",
+        "source": "ir.tesla.com",
+        "date": "Feb 15, 2012 ... Tesla has delivered more than 2,150 Roadsters, the world's first electric sports car, to customers world-wide. Model S, the first premium sedan\u00a0...",
+        "link": "https://ir.tesla.com/press-release/tesla-motors-releases-fourth-quarter-full-year-2011-financial"
     },
     {
         "headline": "Tesla Motors Announces Date for Third Quarter 2013 Financial ...",
@@ -52,11 +58,5 @@
         "source": "ir.tesla.com",
         "date": "Mar 16, 2008 ... Regular production of the 2008 Tesla Roadster commenced today, marking an historical milestone for Tesla Motors and a watershed in the development of clean,\u00a0...",
         "link": "https://ir.tesla.com/press-release/tesla-motors-begins-regular-production-2008-tesla-roadster"
-    },
-    {
-        "headline": "Tesla Motors Announces 2012 Annual Shareholder Meeting | Tesla ...",
-        "source": "ir.tesla.com",
-        "date": "May 2, 2012 ... PALO ALTO, CA -- (Marketwire) -- 05/02/12 -- Tesla Motors, Inc. (NASDAQ: TSLA) today announced the date and location of its 2012 Annual\u00a0...",
-        "link": "https://ir.tesla.com/press-release/tesla-motors-announces-2012-annual-shareholder-meeting"
     }
 ]
