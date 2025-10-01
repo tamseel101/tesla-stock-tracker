@@ -69,7 +69,8 @@ For automated daily updates on GitHub, you need to set your API keys as **GitHub
 
 ## Tesla Stock Chart
 
-![Tesla Stock Chart](charts/tesla_stock_chart.png?20250930144010)
+![Tesla Stock Chart](charts/tesla_stock_chart.png?20251001144315)
+
 
 
 
@@ -133,7 +134,7 @@ _Source: ir.tesla.com - Tesla has released its financial results for the first q
 
 **[Tesla Motors Releases Fourth Quarter & Full Year 2011 Financial ...](https://ir.tesla.com/press-release/tesla-motors-releases-fourth-quarter-full-year-2011-financial)**
 
-_Source: ir.tesla.com - Feb 15, 2012 ... (NASDAQ: TSLA) today released its fourth quarter and full year 2011 financial results by posting the current Shareholder Letter on its website._
+_Source: ir.tesla.com - Feb 15, 2012 ... Tesla has delivered more than 2,150 Roadsters, the world's first electric sports car, to customers world-wide. Model S, the first premium sedan ..._
 
 **[Tesla Motors Announces Date for Third Quarter 2013 Financial ...](https://ir.tesla.com/press-release/tesla-motors-announces-date-third-quarter-2013-financial-results)**
 
