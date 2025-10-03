@@ -69,7 +69,8 @@ For automated daily updates on GitHub, you need to set your API keys as **GitHub
 
 ## Tesla Stock Chart
 
-![Tesla Stock Chart](charts/tesla_stock_chart.png?20251002144039)
+![Tesla Stock Chart](charts/tesla_stock_chart.png?20251003144012)
+
 
 
 
@@ -117,14 +118,6 @@ For automated daily updates on GitHub, you need to set your API keys as **GitHub
 
 _Source: ir.tesla.com - Tesla's mission is to accelerate the world's transition to sustainable energy. Today, Tesla builds not only all-electric vehicles but also infinitely ..._
 
-**[Press Releases | Tesla Investor Relations](https://ir.tesla.com/press)**
-
-_Source: ir.tesla.com - Tesla has released its financial results for the first quarter of 2025 by posting an update on its Investor Relations website._
-
-**[Tesla, Inc. (TSLA) Stock Price, News, Quote & History - Yahoo Finance](https://ca.finance.yahoo.com/quote/TSLA/)**
-
-_Source: ca.finance.yahoo.com - Find the latest Tesla, Inc. (TSLA) stock quote, history, news and other vital information to help you with your stock trading and investing._
-
 **[Tesla First Quarter 2025 Production, Deliveries & Deployments](https://ir.tesla.com/press-release/tesla-first-quarter-2025-production-deliveries-and-deployments)**
 
 _Source: ir.tesla.com - Apr 2, 2025 ... At that time, Tesla will issue a brief advisory containing a link to the Q1 2025 update which will be available on Tesla's Investor Relations ..._
@@ -133,13 +126,17 @@ _Source: ir.tesla.com - Apr 2, 2025 ... At that time, Tesla will issue a brief a
 
 _Source: ir.tesla.com - Jun 29, 2008 ... Tesla's next product, a 4-door, 5-passenger sedan, will be manufactured at a facility in the state of California._
 
+**[Press Releases | Tesla Investor Relations](https://ir.tesla.com/press)**
+
+_Source: ir.tesla.com - Tesla has released its financial results for the first quarter of 2025 by posting an update on its Investor Relations website._
+
+**[Tesla, Inc. (TSLA) Stock Price, News, Quote & History - Yahoo Finance](https://ca.finance.yahoo.com/quote/TSLA/)**
+
+_Source: ca.finance.yahoo.com - Tesla: Shares Down Despite Record Deliveries. Tesla is a vertically integrated battery electric vehicle automaker and developer of autonomous driving software._
+
 **[Tesla Motors Announces Offerings of Common Stock and ...](https://ir.tesla.com/press-release/tesla-motors-announces-offerings-common-stock-and-convertible)**
 
 _Source: ir.tesla.com - May 15, 2013 ... PALO ALTO, CA -- (Marketwired) -- 05/15/13 -- Tesla Motors, Inc. (NASDAQ: TSLA) announced today offerings of 2703027 shares of common stock ..._
-
-**[Tesla Motors Releases Fourth Quarter & Full Year 2011 Financial ...](https://ir.tesla.com/press-release/tesla-motors-releases-fourth-quarter-full-year-2011-financial)**
-
-_Source: ir.tesla.com - Feb 15, 2012 ... Tesla has delivered more than 2,150 Roadsters, the world's first electric sports car, to customers world-wide. Model S, the first premium sedan ..._
 
 **[Tesla Motors Announces Date for Third Quarter 2013 Financial ...](https://ir.tesla.com/press-release/tesla-motors-announces-date-third-quarter-2013-financial-results)**
 
@@ -152,4 +149,8 @@ _Source: ir.tesla.com - Jul 19, 2012 ... Tesla Motors, Inc. (NASDAQ: TSLA) annou
 **[Tesla Motors Announces Date for Second Quarter 2013 Financial ...](https://ir.tesla.com/press-release/tesla-motors-announces-date-second-quarter-2013-financial)**
 
 _Source: ir.tesla.com - Jul 16, 2013 ... PALO ALTO, CA -- (Marketwired) -- 07/16/13 -- Tesla Motors, Inc. (NASDAQ: TSLA) announced today that it will post its financial results for ..._
+
+**[Tesla, Inc. (TSLA) Latest Stock News & Headlines - Yahoo Finance](https://ca.finance.yahoo.com/quote/TSLA/news/)**
+
+_Source: ca.finance.yahoo.com - Tesla Stock Drops Despite Record Quarterly Deliveries. What Drove the Big Beat. ... Tesla Delivers Record 497,099 EVs In Q3 On Expiring Tax Credits. TSLA Stock ..._
 
