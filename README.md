@@ -69,7 +69,8 @@ For automated daily updates on GitHub, you need to set your API keys as **GitHub
 
 ## Tesla Stock Chart
 
-![Tesla Stock Chart](charts/tesla_stock_chart.png?20251003144012)
+![Tesla Stock Chart](charts/tesla_stock_chart.png?20251004143603)
+
 
 
 
@@ -130,13 +131,13 @@ _Source: ir.tesla.com - Jun 29, 2008 ... Tesla's next product, a 4-door, 5-passe
 
 _Source: ir.tesla.com - Tesla has released its financial results for the first quarter of 2025 by posting an update on its Investor Relations website._
 
-**[Tesla, Inc. (TSLA) Stock Price, News, Quote & History - Yahoo Finance](https://ca.finance.yahoo.com/quote/TSLA/)**
-
-_Source: ca.finance.yahoo.com - Tesla: Shares Down Despite Record Deliveries. Tesla is a vertically integrated battery electric vehicle automaker and developer of autonomous driving software._
-
 **[Tesla Motors Announces Offerings of Common Stock and ...](https://ir.tesla.com/press-release/tesla-motors-announces-offerings-common-stock-and-convertible)**
 
 _Source: ir.tesla.com - May 15, 2013 ... PALO ALTO, CA -- (Marketwired) -- 05/15/13 -- Tesla Motors, Inc. (NASDAQ: TSLA) announced today offerings of 2703027 shares of common stock ..._
+
+**[Tesla Motors Begins Regular Production of 2008 Tesla Roadster ...](https://ir.tesla.com/press-release/tesla-motors-begins-regular-production-2008-tesla-roadster)**
+
+_Source: ir.tesla.com - Mar 16, 2008 ... Regular production of the 2008 Tesla Roadster commenced today, marking an historical milestone for Tesla Motors and a watershed in the development of clean, ..._
 
 **[Tesla Motors Announces Date for Third Quarter 2013 Financial ...](https://ir.tesla.com/press-release/tesla-motors-announces-date-third-quarter-2013-financial-results)**
 
@@ -150,7 +151,7 @@ _Source: ir.tesla.com - Jul 19, 2012 ... Tesla Motors, Inc. (NASDAQ: TSLA) annou
 
 _Source: ir.tesla.com - Jul 16, 2013 ... PALO ALTO, CA -- (Marketwired) -- 07/16/13 -- Tesla Motors, Inc. (NASDAQ: TSLA) announced today that it will post its financial results for ..._
 
-**[Tesla, Inc. (TSLA) Latest Stock News & Headlines - Yahoo Finance](https://ca.finance.yahoo.com/quote/TSLA/news/)**
+**[Tesla Motors Announces 2012 Annual Shareholder Meeting | Tesla ...](https://ir.tesla.com/press-release/tesla-motors-announces-2012-annual-shareholder-meeting)**
 
-_Source: ca.finance.yahoo.com - Tesla Stock Drops Despite Record Quarterly Deliveries. What Drove the Big Beat. ... Tesla Delivers Record 497,099 EVs In Q3 On Expiring Tax Credits. TSLA Stock ..._
+_Source: ir.tesla.com - May 2, 2012 ... PALO ALTO, CA -- (Marketwire) -- 05/02/12 -- Tesla Motors, Inc. (NASDAQ: TSLA) today announced the date and location of its 2012 Annual ..._
 
