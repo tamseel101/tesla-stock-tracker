@@ -69,7 +69,8 @@ For automated daily updates on GitHub, you need to set your API keys as **GitHub
 
 ## Tesla Stock Chart
 
-![Tesla Stock Chart](charts/tesla_stock_chart.png?20251021144103)
+![Tesla Stock Chart](charts/tesla_stock_chart.png?20251022144630)
+
 
 
 
@@ -148,10 +149,6 @@ _Source: ir.tesla.com - Jun 29, 2008 ... Tesla's next product, a 4-door, 5-passe
 
 _Source: ir.tesla.com - May 15, 2013 ... PALO ALTO, CA -- (Marketwired) -- 05/15/13 -- Tesla Motors, Inc. (NASDAQ: TSLA) announced today offerings of 2703027 shares of common stock ..._
 
-**[Tesla First Quarter 2025 Production, Deliveries & Deployments](https://ir.tesla.com/press-release/tesla-first-quarter-2025-production-deliveries-and-deployments)**
-
-_Source: ir.tesla.com - Apr 2, 2025 ... At that time, Tesla will issue a brief advisory containing a link to the Q1 2025 update which will be available on Tesla's Investor Relations ..._
-
 **[Tesla Motors Announces Date for First Quarter 2011 Results | Tesla ...](https://ir.tesla.com/press-release/tesla-motors-announces-date-first-quarter-2011-results)**
 
 _Source: ir.tesla.com - Apr 18, 2011 ... PALO ALTO, Calif.--(BUSINESS WIRE)-- Tesla Motors, Inc. (Nasdaq: TSLA) announced today that it will release its financial results for the ..._
@@ -163,6 +160,10 @@ _Source: ir.tesla.com - Mar 16, 2008 ... Regular production of the 2008 Tesla Ro
 **[Tesla Motors Announces Date for Third Quarter 2013 Financial ...](https://ir.tesla.com/press-release/tesla-motors-announces-date-third-quarter-2013-financial-results)**
 
 _Source: ir.tesla.com - Oct 17, 2013 ... PALO ALTO, CA -- (Marketwired) -- 10/17/13 -- Tesla Motors, Inc. (NASDAQ: TSLA) announced today that it will post its financial results for ..._
+
+**[Tesla First Quarter 2025 Production, Deliveries & Deployments](https://ir.tesla.com/press-release/tesla-first-quarter-2025-production-deliveries-and-deployments)**
+
+_Source: ir.tesla.com - Apr 2, 2025 ... At that time, Tesla will issue a brief advisory containing a link to the Q1 2025 update which will be available on Tesla's Investor Relations ..._
 
 **[Tesla Motors Announces Date for Second Quarter 2013 Financial ...](https://ir.tesla.com/press-release/tesla-motors-announces-date-second-quarter-2013-financial)**
 
