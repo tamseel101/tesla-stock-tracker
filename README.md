@@ -69,7 +69,8 @@ For automated daily updates on GitHub, you need to set your API keys as **GitHub
 
 ## Tesla Stock Chart
 
-![Tesla Stock Chart](charts/tesla_stock_chart.png?20251024144325)
+![Tesla Stock Chart](charts/tesla_stock_chart.png?20251025143733)
+
 
 
 
@@ -141,7 +142,7 @@ _Source: ir.tesla.com - Tesla's mission is to accelerate the world's transition 
 
 **[Tesla, Inc.](https://ir.tesla.com/_flysystem/s3/sec/000162828025045861/tsla-20251022-gen.pdf)**
 
-_Source: ir.tesla.com - 2 days ago ... ... News definition). O P E R A T I O N A L S U M M A R Y (Unaudited) 6. Page 9. A U T O M O T I V E Current Installed Annual Vehicle Capacity ..._
+_Source: ir.tesla.com - 3 days ago ... ... News definition). O P E R A T I O N A L S U M M A R Y (Unaudited) 6. Page 9. A U T O M O T I V E Current Installed Annual Vehicle Capacity ..._
 
 **[Press Releases | Tesla Investor Relations](https://ir.tesla.com/press)**
 
