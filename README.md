@@ -69,7 +69,8 @@ For automated daily updates on GitHub, you need to set your API keys as **GitHub
 
 ## Tesla Stock Chart
 
-![Tesla Stock Chart](charts/tesla_stock_chart.png?20251025143733)
+![Tesla Stock Chart](charts/tesla_stock_chart.png?20251026143754)
+
 
 
 
@@ -140,10 +141,6 @@ For automated daily updates on GitHub, you need to set your API keys as **GitHub
 
 _Source: ir.tesla.com - Tesla's mission is to accelerate the world's transition to sustainable energy. Today, Tesla builds not only all-electric vehicles but also infinitely ..._
 
-**[Tesla, Inc.](https://ir.tesla.com/_flysystem/s3/sec/000162828025045861/tsla-20251022-gen.pdf)**
-
-_Source: ir.tesla.com - 3 days ago ... ... News definition). O P E R A T I O N A L S U M M A R Y (Unaudited) 6. Page 9. A U T O M O T I V E Current Installed Annual Vehicle Capacity ..._
-
 **[Press Releases | Tesla Investor Relations](https://ir.tesla.com/press)**
 
 _Source: ir.tesla.com - Tesla has released its financial results for the first quarter of 2025 by posting an update on its Investor Relations website._
@@ -175,4 +172,8 @@ _Source: ir.tesla.com - Jul 16, 2013 ... PALO ALTO, CA -- (Marketwired) -- 07/16
 **[Tesla First Quarter 2025 Production, Deliveries & Deployments](https://ir.tesla.com/press-release/tesla-first-quarter-2025-production-deliveries-and-deployments)**
 
 _Source: ir.tesla.com - Apr 2, 2025 ... At that time, Tesla will issue a brief advisory containing a link to the Q1 2025 update which will be available on Tesla's Investor Relations ..._
+
+**[Tesla Motors Announces Date for Second Quarter 2012 Financial ...](https://ir.tesla.com/press-release/tesla-motors-announces-date-second-quarter-2012-financial)**
+
+_Source: ir.tesla.com - Jul 19, 2012 ... Tesla Motors, Inc. (NASDAQ: TSLA) announced today that it will post its financial results for the second quarter ended June 30, 2012, after market close on ..._
 
