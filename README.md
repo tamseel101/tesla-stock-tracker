@@ -69,7 +69,8 @@ For automated daily updates on GitHub, you need to set your API keys as **GitHub
 
 ## Tesla Stock Chart
 
-![Tesla Stock Chart](charts/tesla_stock_chart.png?20251026143754)
+![Tesla Stock Chart](charts/tesla_stock_chart.png?20251027144116)
+
 
 
 
@@ -147,7 +148,7 @@ _Source: ir.tesla.com - Tesla has released its financial results for the first q
 
 **[Tesla Motors to Manufacture Sedan in California | Tesla Investor ...](https://ir.tesla.com/press-release/tesla-motors-manufacture-sedan-california)**
 
-_Source: ir.tesla.com - Jun 29, 2008 ... Tesla's next product, a 4-door, 5-passenger sedan, will be manufactured at a facility in the state of California._
+_Source: ir.tesla.com - Jun 29, 2008 ... Tesla's sedan, which is targeted for late 2010 production, will utilize Tesla Motors' leading electric powertrain design in a car that is both ..._
 
 **[Tesla Motors Announces Offerings of Common Stock and ...](https://ir.tesla.com/press-release/tesla-motors-announces-offerings-common-stock-and-convertible)**
 
