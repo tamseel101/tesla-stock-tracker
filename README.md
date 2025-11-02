@@ -69,7 +69,8 @@ For automated daily updates on GitHub, you need to set your API keys as **GitHub
 
 ## Tesla Stock Chart
 
-![Tesla Stock Chart](charts/tesla_stock_chart.png?20251101143725)
+![Tesla Stock Chart](charts/tesla_stock_chart.png?20251102143715)
+
 
 
 
@@ -179,7 +180,7 @@ _Source: ir.tesla.com - Jul 19, 2012 ... Tesla Motors, Inc. (NASDAQ: TSLA) annou
 
 _Source: ir.tesla.com - Jul 16, 2013 ... PALO ALTO, CA -- (Marketwired) -- 07/16/13 -- Tesla Motors, Inc. (NASDAQ: TSLA) announced today that it will post its financial results for ..._
 
-**[Tesla, Inc. (TSLA) Stock Price, News, Quote & History - Yahoo Finance](https://ca.finance.yahoo.com/quote/TSLA/)**
+**[Tesla Motors Sets New Pricing for Award-Winning Model S | Tesla ...](https://ir.tesla.com/press-release/tesla-motors-sets-new-pricing-award-winning-model-s)**
 
-_Source: ca.finance.yahoo.com - Tesla Earnings: Shares Fall as Market Focuses on Uncertainty Near Term; FVE Up to $300 From $250. Tesla is a vertically integrated battery electric vehicle ..._
+_Source: ir.tesla.com - Nov 29, 2012 ... A straight 8.75 percent CPI increase would now yield a base price for Model S of $62,400, an increase of $5,000. Tesla is increasing prices only ..._
 
