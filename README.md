@@ -69,7 +69,8 @@ For automated daily updates on GitHub, you need to set your API keys as **GitHub
 
 ## Tesla Stock Chart
 
-![Tesla Stock Chart](charts/tesla_stock_chart.png?20251102143715)
+![Tesla Stock Chart](charts/tesla_stock_chart.png?20251103144353)
+
 
 
 
@@ -146,7 +147,7 @@ For automated daily updates on GitHub, you need to set your API keys as **GitHub
 
 **[Tesla Investor Relations](https://ir.tesla.com/)**
 
-_Source: ir.tesla.com - Tesla's mission is to accelerate the world's transition to sustainable energy. Today, Tesla builds not only all-electric vehicles but also infinitely ..._
+_Source: ir.tesla.com - Tesla's mission is to accelerate the world's transition to sustainable energy. Today, Tesla ... Tesla Motors Corporate Presentation. Footer. Tesla © 2025 ..._
 
 **[Press Releases | Tesla Investor Relations](https://ir.tesla.com/press)**
 
