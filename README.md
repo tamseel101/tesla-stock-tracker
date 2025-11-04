@@ -69,7 +69,8 @@ For automated daily updates on GitHub, you need to set your API keys as **GitHub
 
 ## Tesla Stock Chart
 
-![Tesla Stock Chart](charts/tesla_stock_chart.png?20251103144353)
+![Tesla Stock Chart](charts/tesla_stock_chart.png?20251104144416)
+
 
 
 
@@ -147,7 +148,7 @@ For automated daily updates on GitHub, you need to set your API keys as **GitHub
 
 **[Tesla Investor Relations](https://ir.tesla.com/)**
 
-_Source: ir.tesla.com - Tesla's mission is to accelerate the world's transition to sustainable energy. Today, Tesla ... Tesla Motors Corporate Presentation. Footer. Tesla © 2025 ..._
+_Source: ir.tesla.com - Tesla's mission is to accelerate the world's transition to sustainable energy. Today, Tesla builds not only all-electric vehicles but also infinitely ..._
 
 **[Press Releases | Tesla Investor Relations](https://ir.tesla.com/press)**
 
@@ -173,6 +174,10 @@ _Source: ir.tesla.com - Apr 18, 2011 ... PALO ALTO, Calif.--(BUSINESS WIRE)-- Te
 
 _Source: ir.tesla.com - Oct 17, 2013 ... PALO ALTO, CA -- (Marketwired) -- 10/17/13 -- Tesla Motors, Inc. (NASDAQ: TSLA) announced today that it will post its financial results for ..._
 
+**[Tesla, Inc. (TSLA) Stock Price, News, Quote & History - Yahoo Finance](https://ca.finance.yahoo.com/quote/TSLA/)**
+
+_Source: ca.finance.yahoo.com - 6 days ago ... Third quarter 2025 profit down 31%; too early for an upgrade. Tesla Inc. manufactures and sells electric vehicles and energy generation and ..._
+
 **[Tesla Motors Announces Date for Second Quarter 2012 Financial ...](https://ir.tesla.com/press-release/tesla-motors-announces-date-second-quarter-2012-financial)**
 
 _Source: ir.tesla.com - Jul 19, 2012 ... Tesla Motors, Inc. (NASDAQ: TSLA) announced today that it will post its financial results for the second quarter ended June 30, 2012, after market close on ..._
@@ -180,8 +185,4 @@ _Source: ir.tesla.com - Jul 19, 2012 ... Tesla Motors, Inc. (NASDAQ: TSLA) annou
 **[Tesla Motors Announces Date for Second Quarter 2013 Financial ...](https://ir.tesla.com/press-release/tesla-motors-announces-date-second-quarter-2013-financial)**
 
 _Source: ir.tesla.com - Jul 16, 2013 ... PALO ALTO, CA -- (Marketwired) -- 07/16/13 -- Tesla Motors, Inc. (NASDAQ: TSLA) announced today that it will post its financial results for ..._
-
-**[Tesla Motors Sets New Pricing for Award-Winning Model S | Tesla ...](https://ir.tesla.com/press-release/tesla-motors-sets-new-pricing-award-winning-model-s)**
-
-_Source: ir.tesla.com - Nov 29, 2012 ... A straight 8.75 percent CPI increase would now yield a base price for Model S of $62,400, an increase of $5,000. Tesla is increasing prices only ..._
 
