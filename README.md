@@ -69,7 +69,8 @@ For automated daily updates on GitHub, you need to set your API keys as **GitHub
 
 ## Tesla Stock Chart
 
-![Tesla Stock Chart](charts/tesla_stock_chart.png?20251116143755)
+![Tesla Stock Chart](charts/tesla_stock_chart.png?20251117144407)
+
 
 
 
@@ -172,7 +173,7 @@ _Source: ir.tesla.com - Mar 16, 2008 ... Regular production of the 2008 Tesla Ro
 
 **[Tesla, Inc. (TSLA) Stock Price, News, Quote & History - Yahoo Finance](https://ca.finance.yahoo.com/quote/TSLA/)**
 
-_Source: ca.finance.yahoo.com - Third quarter 2025 profit down 31%; too early for an upgrade. Tesla Inc. manufactures and sells electric vehicles and energy generation and storage systems. The ..._
+_Source: ca.finance.yahoo.com - Oct 29, 2025 ... Third quarter 2025 profit down 31%; too early for an upgrade. Tesla Inc. manufactures and sells electric vehicles and energy generation and storage systems. The ..._
 
 **[Tesla Motors to Begin Customer Deliveries of Model S on June 22nd ...](https://ir.tesla.com/press-release/tesla-motors-begin-customer-deliveries-model-s-june-22nd)**
 
