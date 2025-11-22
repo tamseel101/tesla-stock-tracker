@@ -69,7 +69,8 @@ For automated daily updates on GitHub, you need to set your API keys as **GitHub
 
 ## Tesla Stock Chart
 
-![Tesla Stock Chart](charts/tesla_stock_chart.png?20251121144142)
+![Tesla Stock Chart](charts/tesla_stock_chart.png?20251122143809)
+
 
 
 
@@ -185,11 +186,11 @@ _Source: ir.tesla.com - Jun 29, 2008 ... Tesla's next product, a 4-door, 5-passe
 
 **[Tesla, Inc. (TSLA) Stock Price, News, Quote & History - Yahoo Finance](https://ca.finance.yahoo.com/quote/TSLA/)**
 
-_Source: ca.finance.yahoo.com - Third quarter 2025 profit down 31%; too early for an upgrade. Tesla Inc. manufactures and sells electric vehicles and energy generation and storage systems. The ..._
+_Source: ca.finance.yahoo.com - 30,775.52% · Previous Close 395.05 · Open 402.30 · Bid 390.76 x 200 · Ask 392.12 x 200 · Day's Range 383.76 - 402.80 · 52 Week Range 214.25 - 488.54 · Volume ..._
 
 **[Tesla Motors Announces Offerings of Common Stock and ...](https://ir.tesla.com/press-release/tesla-motors-announces-offerings-common-stock-and-convertible)**
 
-_Source: ir.tesla.com - May 15, 2013 ... PALO ALTO, CA -- (Marketwired) -- 05/15/13 -- Tesla Motors, Inc. (NASDAQ: TSLA) announced today offerings of 2703027 shares of common stock ..._
+_Source: ir.tesla.com - May 15, 2013 ... In addition, Tesla has granted the underwriters a 30-day option to purchase up to an additional 405,454 shares of common stock and $67.5 million ..._
 
 **[Tesla Announces Pricing of Initial Public Offering | Tesla Investor ...](https://ir.tesla.com/press-release/tesla-announces-pricing-initial-public-offering)**
 
@@ -197,9 +198,9 @@ _Source: ir.tesla.com - Jun 27, 2010 ... About Tesla Motors, Inc. Tesla designs,
 
 **[Tesla Motors Announces Date for Second Quarter 2013 Financial ...](https://ir.tesla.com/press-release/tesla-motors-announces-date-second-quarter-2013-financial)**
 
-_Source: ir.tesla.com - Jul 16, 2013 ... PALO ALTO, CA -- (Marketwired) -- 07/16/13 -- Tesla Motors, Inc. (NASDAQ: TSLA) announced today that it will post its financial results for ..._
+_Source: ir.tesla.com - Jul 16, 2013 ... Tesla Motors Announces Date for Second Quarter 2013 Financial Results ... PALO ALTO, CA -- (Marketwired) -- 07/16/13 -- Tesla Motors, Inc. (NASDAQ ..._
 
 **[Tesla Motors Announces Date for First Quarter 2011 Results | Tesla ...](https://ir.tesla.com/press-release/tesla-motors-announces-date-first-quarter-2011-results)**
 
-_Source: ir.tesla.com - Apr 18, 2011 ... PALO ALTO, Calif.--(BUSINESS WIRE)-- Tesla Motors, Inc. (Nasdaq: TSLA) announced today that it will release its financial results for the ..._
+_Source: ir.tesla.com - Apr 18, 2011 ... Tesla Motors Announces Date for First Quarter 2011 Results ... PALO ALTO, Calif.--(BUSINESS WIRE)-- Tesla Motors, Inc. (Nasdaq: TSLA) announced ..._
 
