@@ -69,7 +69,8 @@ For automated daily updates on GitHub, you need to set your API keys as **GitHub
 
 ## Tesla Stock Chart
 
-![Tesla Stock Chart](charts/tesla_stock_chart.png?20251124144444)
+![Tesla Stock Chart](charts/tesla_stock_chart.png?20251125144507)
+
 
 
 
@@ -186,6 +187,10 @@ _Source: ir.tesla.com - May 22, 2012 ... Tesla Motors (NASDAQ: TSLA) will begin 
 
 _Source: ir.tesla.com - Jun 29, 2008 ... Tesla's next product, a 4-door, 5-passenger sedan, will be manufactured at a facility in the state of California._
 
+**[Tesla, Inc. (TSLA) Stock Price, News, Quote & History - Yahoo Finance](https://ca.finance.yahoo.com/quote/TSLA/)**
+
+_Source: ca.finance.yahoo.com - Oct 29, 2025 ... 32,882.62% · Previous Close 391.09 · Open 402.16 · Bid 415.52 x 400 · Ask 417.83 x 400 · Day's Range 401.09 - 421.71 · 52 Week Range 214.25 - ..._
+
 **[Tesla Motors Announces Offerings of Common Stock and ...](https://ir.tesla.com/press-release/tesla-motors-announces-offerings-common-stock-and-convertible)**
 
 _Source: ir.tesla.com - May 15, 2013 ... In addition, Tesla has granted the underwriters a 30-day option to purchase up to an additional 405,454 shares of common stock and $67.5 million ..._
@@ -201,8 +206,4 @@ _Source: ir.tesla.com - Jul 16, 2013 ... Tesla Motors Announces Date for Second 
 **[Tesla Motors Announces Date for First Quarter 2011 Results | Tesla ...](https://ir.tesla.com/press-release/tesla-motors-announces-date-first-quarter-2011-results)**
 
 _Source: ir.tesla.com - Apr 18, 2011 ... Tesla Motors Announces Date for First Quarter 2011 Results ... PALO ALTO, Calif.--(BUSINESS WIRE)-- Tesla Motors, Inc. (Nasdaq: TSLA) announced ..._
-
-**[Tesla, Inc. (TSLA) Stock Price, News, Quote & History - Yahoo Finance](https://ca.finance.yahoo.com/quote/TSLA/)**
-
-_Source: ca.finance.yahoo.com - Oct 29, 2025 ... 30,775.52% · Previous Close 395.04 · Open 402.30 · Bid 390.76 x 200 · Ask 392.12 x 200 · Day's Range 383.76 - 402.80 · 52 Week Range 214.25 - ..._
 
