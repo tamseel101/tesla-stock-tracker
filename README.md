@@ -69,7 +69,8 @@ For automated daily updates on GitHub, you need to set your API keys as **GitHub
 
 ## Tesla Stock Chart
 
-![Tesla Stock Chart](charts/tesla_stock_chart.png?20251203144644)
+![Tesla Stock Chart](charts/tesla_stock_chart.png?20251204144658)
+
 
 
 
@@ -179,17 +180,9 @@ For automated daily updates on GitHub, you need to set your API keys as **GitHub
 
 _Source: ir.tesla.com - Tesla's mission is to accelerate the world's transition to sustainable energy. Today, Tesla builds not only all-electric vehicles but also infinitely ..._
 
-**[Tesla Motors Begins Regular Production of 2008 Tesla Roadster ...](https://ir.tesla.com/press-release/tesla-motors-begins-regular-production-2008-tesla-roadster)**
-
-_Source: ir.tesla.com - Mar 16, 2008 ... Regular production of the 2008 Tesla Roadster commenced today, marking an historical milestone for Tesla Motors and a watershed in the development of clean, ..._
-
 **[Tesla Motors to Begin Customer Deliveries of Model S on June 22nd ...](https://ir.tesla.com/press-release/tesla-motors-begin-customer-deliveries-model-s-june-22nd)**
 
 _Source: ir.tesla.com - May 22, 2012 ... Tesla Motors (NASDAQ: TSLA) will begin delivering Model S, the world's first premium electric sedan, to customers on June 22nd, 2012._
-
-**[Tesla Motors to Manufacture Sedan in California | Tesla Investor ...](https://ir.tesla.com/press-release/tesla-motors-manufacture-sedan-california)**
-
-_Source: ir.tesla.com - Jun 29, 2008 ... Tesla's next product, a 4-door, 5-passenger sedan, will be manufactured at a facility in the state of California._
 
 **[Tesla First Quarter 2025 Production, Deliveries & Deployments](https://ir.tesla.com/press-release/tesla-first-quarter-2025-production-deliveries-and-deployments)**
 
@@ -199,13 +192,9 @@ _Source: ir.tesla.com - Apr 2, 2025 ... At that time, Tesla will issue a brief a
 
 _Source: ir.tesla.com - May 15, 2013 ... PALO ALTO, CA -- (Marketwired) -- 05/15/13 -- Tesla Motors, Inc. (NASDAQ: TSLA) announced today offerings of 2703027 shares of common stock ..._
 
-**[Tesla Motors Announces Major European Distribution Center in the ...](https://ir.tesla.com/press-release/tesla-motors-announces-major-european-distribution-center)**
+**[Tesla Motors to Manufacture Sedan in California | Tesla Investor ...](https://ir.tesla.com/press-release/tesla-motors-manufacture-sedan-california)**
 
-_Source: ir.tesla.com - Dec 12, 2012 ... The new Tesla European Distribution Center will lead to the creation of approximately 50 jobs in the next few years. Tesla's decision to locate ..._
-
-**[Tesla Motors Announces Date for Second Quarter 2013 Financial ...](https://ir.tesla.com/press-release/tesla-motors-announces-date-second-quarter-2013-financial)**
-
-_Source: ir.tesla.com - Jul 16, 2013 ... PALO ALTO, CA -- (Marketwired) -- 07/16/13 -- Tesla Motors, Inc. (NASDAQ: TSLA) announced today that it will post its financial results for ..._
+_Source: ir.tesla.com - Jun 29, 2008 ... Tesla's next product, a 4-door, 5-passenger sedan, will be manufactured at a facility in the state of California._
 
 **[Tesla, Inc. (TSLA) Stock Price, News, Quote & History - Yahoo Finance](https://ca.finance.yahoo.com/quote/TSLA/)**
 
@@ -214,4 +203,16 @@ _Source: ca.finance.yahoo.com - Third quarter 2025 profit down 31%; too early fo
 **[Tesla Third Quarter 2025 Production, Deliveries & Deployments](https://ir.tesla.com/press-release/tesla-third-quarter-2025-production-deliveries-deployments)**
 
 _Source: ir.tesla.com - Oct 2, 2025 ... At that time, Tesla will issue a brief advisory containing a link to the Q3 2025 update, which will be available on Tesla's Investor Relations ..._
+
+**[Tesla Motors Sets New Pricing for Award-Winning Model S | Tesla ...](https://ir.tesla.com/press-release/tesla-motors-sets-new-pricing-award-winning-model-s)**
+
+_Source: ir.tesla.com - Nov 29, 2012 ... A straight 8.75 percent CPI increase would now yield a base price for Model S of $62,400, an increase of $5,000. Tesla is increasing prices only ..._
+
+**[Tesla Motors Announces 2012 Annual Shareholder Meeting | Tesla ...](https://ir.tesla.com/press-release/tesla-motors-announces-2012-annual-shareholder-meeting)**
+
+_Source: ir.tesla.com - May 2, 2012 ... PALO ALTO, CA -- (Marketwire) -- 05/02/12 -- Tesla Motors, Inc. (NASDAQ: TSLA) today announced the date and location of its 2012 Annual ..._
+
+**[Tesla Motors Announces Major European Distribution Center in the ...](https://ir.tesla.com/press-release/tesla-motors-announces-major-european-distribution-center)**
+
+_Source: ir.tesla.com - Dec 12, 2012 ... This new facility will serve as Tesla's European service and parts headquarters, as well as the final assembly and distribution point for Model S vehicles sold ..._
 
