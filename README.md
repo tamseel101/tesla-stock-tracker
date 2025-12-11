@@ -69,7 +69,8 @@ For automated daily updates on GitHub, you need to set your API keys as **GitHub
 
 ## Tesla Stock Chart
 
-![Tesla Stock Chart](charts/tesla_stock_chart.png?20251210144816)
+![Tesla Stock Chart](charts/tesla_stock_chart.png?20251211144437)
+
 
 
 
@@ -196,7 +197,7 @@ _Source: ir.tesla.com - May 22, 2012 ... Tesla Motors (NASDAQ: TSLA) will begin 
 
 **[Tesla, Inc. (TSLA) Stock Price, News, Quote & History - Yahoo Finance](https://ca.finance.yahoo.com/quote/TSLA/)**
 
-_Source: ca.finance.yahoo.com - 35,044.99% · Previous Close 439.58 · Open 437.61 · Bid 444.51 x 100 · Ask 445.72 x 200 · Day's Range 435.70 - 452.39 · 52 Week Range 214.25 - 488.54 · Volume ..._
+_Source: ca.finance.yahoo.com - Third quarter 2025 profit down 31%; too early for an upgrade. Tesla Inc. manufactures and sells electric vehicles and energy generation and storage systems. The ..._
 
 **[Tesla Motors to Manufacture Sedan in California | Tesla Investor ...](https://ir.tesla.com/press-release/tesla-motors-manufacture-sedan-california)**
 
@@ -204,15 +205,15 @@ _Source: ir.tesla.com - Jun 29, 2008 ... Tesla's next product, a 4-door, 5-passe
 
 **[Tesla Motors Announces Offerings of Common Stock and ...](https://ir.tesla.com/press-release/tesla-motors-announces-offerings-common-stock-and-convertible)**
 
-_Source: ir.tesla.com - May 15, 2013 ... In addition, Tesla has granted the underwriters a 30-day option to purchase up to an additional 405,454 shares of common stock and $67.5 million ..._
+_Source: ir.tesla.com - May 15, 2013 ... PALO ALTO, CA -- (Marketwired) -- 05/15/13 -- Tesla Motors, Inc. (NASDAQ: TSLA) announced today offerings of 2703027 shares of common stock ..._
+
+**[Tesla Motors Announces Date for Second Quarter 2013 Financial ...](https://ir.tesla.com/press-release/tesla-motors-announces-date-second-quarter-2013-financial)**
+
+_Source: ir.tesla.com - Jul 16, 2013 ... PALO ALTO, CA -- (Marketwired) -- 07/16/13 -- Tesla Motors, Inc. (NASDAQ: TSLA) announced today that it will post its financial results for ..._
 
 **[Tesla First Quarter 2025 Production, Deliveries & Deployments](https://ir.tesla.com/press-release/tesla-first-quarter-2025-production-deliveries-and-deployments)**
 
 _Source: ir.tesla.com - Apr 2, 2025 ... At that time, Tesla will issue a brief advisory containing a link to the Q1 2025 update which will be available on Tesla's Investor Relations ..._
-
-**[Tesla Motors Announces Date for Second Quarter 2013 Financial ...](https://ir.tesla.com/press-release/tesla-motors-announces-date-second-quarter-2013-financial)**
-
-_Source: ir.tesla.com - Jul 16, 2013 ... Tesla Motors Announces Date for Second Quarter 2013 Financial Results ... PALO ALTO, CA -- (Marketwired) -- 07/16/13 -- Tesla Motors, Inc. (NASDAQ ..._
 
 **[Tesla Third Quarter 2025 Production, Deliveries & Deployments](https://ir.tesla.com/press-release/tesla-third-quarter-2025-production-deliveries-deployments)**
 
@@ -220,5 +221,5 @@ _Source: ir.tesla.com - Oct 2, 2025 ... At that time, Tesla will issue a brief a
 
 **[Tesla Motors Sets New Pricing for Award-Winning Model S | Tesla ...](https://ir.tesla.com/press-release/tesla-motors-sets-new-pricing-award-winning-model-s)**
 
-_Source: ir.tesla.com - Nov 29, 2012 ... Tesla Motors Sets New Pricing for Award-Winning Model S ... PALO ALTO, CA -- (Marketwire) -- 11/29/12 -- Tesla Motors (NASDAQ: TSLA) originally ..._
+_Source: ir.tesla.com - Nov 29, 2012 ... A straight 8.75 percent CPI increase would now yield a base price for Model S of $62,400, an increase of $5,000. Tesla is increasing prices only ..._
 
