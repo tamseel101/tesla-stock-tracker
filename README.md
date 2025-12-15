@@ -69,7 +69,8 @@ For automated daily updates on GitHub, you need to set your API keys as **GitHub
 
 ## Tesla Stock Chart
 
-![Tesla Stock Chart](charts/tesla_stock_chart.png?20251214144020)
+![Tesla Stock Chart](charts/tesla_stock_chart.png?20251215145220)
+
 
 
 
@@ -198,21 +199,21 @@ _Source: ir.tesla.com - Mar 16, 2008 ... Regular production of the 2008 Tesla Ro
 
 _Source: ir.tesla.com - Tesla has released its financial results for the first quarter of 2025 by posting an update on its Investor Relations website._
 
-**[Tesla Motors Announces Offerings of Common Stock and ...](https://ir.tesla.com/press-release/tesla-motors-announces-offerings-common-stock-and-convertible)**
-
-_Source: ir.tesla.com - May 15, 2013 ... PALO ALTO, CA -- (Marketwired) -- 05/15/13 -- Tesla Motors, Inc. (NASDAQ: TSLA) announced today offerings of 2703027 shares of common stock ..._
-
-**[Tesla Motors to Begin Customer Deliveries of Model S on June 22nd ...](https://ir.tesla.com/press-release/tesla-motors-begin-customer-deliveries-model-s-june-22nd)**
-
-_Source: ir.tesla.com - May 22, 2012 ... Tesla Motors (NASDAQ: TSLA) will begin delivering Model S, the world's first premium electric sedan, to customers on June 22nd, 2012._
-
 **[Tesla Motors to Manufacture Sedan in California | Tesla Investor ...](https://ir.tesla.com/press-release/tesla-motors-manufacture-sedan-california)**
 
 _Source: ir.tesla.com - Jun 29, 2008 ... Tesla's next product, a 4-door, 5-passenger sedan, will be manufactured at a facility in the state of California._
 
+**[Tesla Motors Announces Offerings of Common Stock and ...](https://ir.tesla.com/press-release/tesla-motors-announces-offerings-common-stock-and-convertible)**
+
+_Source: ir.tesla.com - May 15, 2013 ... PALO ALTO, CA -- (Marketwired) -- 05/15/13 -- Tesla Motors, Inc. (NASDAQ: TSLA) announced today offerings of 2703027 shares of common stock ..._
+
 **[Tesla First Quarter 2025 Production, Deliveries & Deployments](https://ir.tesla.com/press-release/tesla-first-quarter-2025-production-deliveries-and-deployments)**
 
 _Source: ir.tesla.com - Apr 2, 2025 ... At that time, Tesla will issue a brief advisory containing a link to the Q1 2025 update which will be available on Tesla's Investor Relations ..._
+
+**[Tesla Motors to Begin Customer Deliveries of Model S on June 22nd ...](https://ir.tesla.com/press-release/tesla-motors-begin-customer-deliveries-model-s-june-22nd)**
+
+_Source: ir.tesla.com - May 22, 2012 ... Tesla Motors (NASDAQ: TSLA) will begin delivering Model S, the world's first premium electric sedan, to customers on June 22nd, 2012._
 
 **[Tesla Motors Announces Date for Second Quarter 2013 Financial ...](https://ir.tesla.com/press-release/tesla-motors-announces-date-second-quarter-2013-financial)**
 
