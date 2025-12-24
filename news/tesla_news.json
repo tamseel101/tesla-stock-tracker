@@ -42,12 +42,6 @@
         "link": "https://ir.tesla.com/press-release/tesla-third-quarter-2025-production-deliveries-deployments"
     },
     {
-        "headline": "Tesla, Inc. (TSLA) Stock Price, News, Quote & History - Yahoo Finance",
-        "source": "ca.finance.yahoo.com",
-        "date": "9 hours ago ... Tesla (TSLA) hit a new record high, while Alphabet (GOOG, GOOGL) announced plans to acquire Intersect in a $4.5 billion deal. Ahead of the new\u00a0...",
-        "link": "https://ca.finance.yahoo.com/quote/TSLA/"
-    },
-    {
         "headline": "Tesla First Quarter 2025 Production, Deliveries & Deployments",
         "source": "ir.tesla.com",
         "date": "Apr 2, 2025 ... At that time, Tesla will issue a brief advisory containing a link to the Q1 2025 update which will be available on Tesla's Investor Relations\u00a0...",
@@ -58,5 +52,11 @@
         "source": "ir.tesla.com",
         "date": "Dec 12, 2012 ... The new Tesla European Distribution Center will lead to the creation of approximately 50 jobs in the next few years. Tesla's decision to locate\u00a0...",
         "link": "https://ir.tesla.com/press-release/tesla-motors-announces-major-european-distribution-center"
+    },
+    {
+        "headline": "Tesla Motors Announces 2012 Annual Shareholder Meeting | Tesla ...",
+        "source": "ir.tesla.com",
+        "date": "May 2, 2012 ... PALO ALTO, CA -- (Marketwire) -- 05/02/12 -- Tesla Motors, Inc. (NASDAQ: TSLA) today announced the date and location of its 2012 Annual\u00a0...",
+        "link": "https://ir.tesla.com/press-release/tesla-motors-announces-2012-annual-shareholder-meeting"
     }
 ]
