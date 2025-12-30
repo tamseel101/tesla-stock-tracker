@@ -2,13 +2,13 @@
     {
         "headline": "Tesla Investor Relations",
         "source": "ir.tesla.com",
-        "date": "... Tesla builds not only all ... Tesla's Special Meeting of ShareholdersSolarCity Corporation Transaction. 2014. Tesla Motors Corporate Presentation\u00a0...",
+        "date": "Tesla's mission is to accelerate the world's transition to sustainable energy. Today, Tesla builds not only all-electric vehicles but also infinitely\u00a0...",
         "link": "https://ir.tesla.com/"
     },
     {
         "headline": "Press Releases | Tesla Investor Relations",
         "source": "ir.tesla.com",
-        "date": "Tesla has released its financial results for the first quarter of 2025 by posting an update on its Investor Relations website.",
+        "date": "Tesla Releases Third Quarter 2025 Financial Results. Business Wire. Oct 22, 2025. AUSTIN, Texas, October 22, 2025 \u2013 Tesla has released its financial results\u00a0...",
         "link": "https://ir.tesla.com/press"
     },
     {
@@ -16,6 +16,12 @@
         "source": "ir.tesla.com",
         "date": "Mar 16, 2008 ... Regular production of the 2008 Tesla Roadster commenced today, marking an historical milestone for Tesla Motors and a watershed in the development of clean,\u00a0...",
         "link": "https://ir.tesla.com/press-release/tesla-motors-begins-regular-production-2008-tesla-roadster"
+    },
+    {
+        "headline": "Tesla, Inc. (TSLA) Stock Price, News, Quote & History - Yahoo Finance",
+        "source": "ca.finance.yahoo.com",
+        "date": "Tesla: We See Little Effect From California Ruling to Suspend Production and Sales for 30 Days. Tesla is a vertically integrated battery electric vehicle\u00a0...",
+        "link": "https://ca.finance.yahoo.com/quote/TSLA/"
     },
     {
         "headline": "Tesla Motors to Manufacture Sedan in California | Tesla Investor ...",
@@ -30,16 +36,16 @@
         "link": "https://ir.tesla.com/press-release/tesla-motors-announces-offerings-common-stock-and-convertible"
     },
     {
-        "headline": "Tesla First Quarter 2025 Production, Deliveries & Deployments",
-        "source": "ir.tesla.com",
-        "date": "Apr 2, 2025 ... At that time, Tesla will issue a brief advisory containing a link to the Q1 2025 update which will be available on Tesla's Investor Relations\u00a0...",
-        "link": "https://ir.tesla.com/press-release/tesla-first-quarter-2025-production-deliveries-and-deployments"
-    },
-    {
         "headline": "Tesla Motors to Begin Customer Deliveries of Model S on June 22nd ...",
         "source": "ir.tesla.com",
         "date": "May 22, 2012 ... Tesla Motors (NASDAQ: TSLA) will begin delivering Model S, the world's first premium electric sedan, to customers on June 22nd, 2012.",
         "link": "https://ir.tesla.com/press-release/tesla-motors-begin-customer-deliveries-model-s-june-22nd"
+    },
+    {
+        "headline": "Tesla First Quarter 2025 Production, Deliveries & Deployments",
+        "source": "ir.tesla.com",
+        "date": "Apr 2, 2025 ... At that time, Tesla will issue a brief advisory containing a link to the Q1 2025 update which will be available on Tesla's Investor Relations\u00a0...",
+        "link": "https://ir.tesla.com/press-release/tesla-first-quarter-2025-production-deliveries-and-deployments"
     },
     {
         "headline": "Tesla Third Quarter 2025 Production, Deliveries & Deployments",
@@ -52,11 +58,5 @@
         "source": "ir.tesla.com",
         "date": "Dec 12, 2012 ... The new Tesla European Distribution Center will lead to the creation of approximately 50 jobs in the next few years. Tesla's decision to locate\u00a0...",
         "link": "https://ir.tesla.com/press-release/tesla-motors-announces-major-european-distribution-center"
-    },
-    {
-        "headline": "Tesla Motors Announces 2012 Annual Shareholder Meeting | Tesla ...",
-        "source": "ir.tesla.com",
-        "date": "May 2, 2012 ... PALO ALTO, CA -- (Marketwire) -- 05/02/12 -- Tesla Motors, Inc. (NASDAQ: TSLA) today announced the date and location of its 2012 Annual\u00a0...",
-        "link": "https://ir.tesla.com/press-release/tesla-motors-announces-2012-annual-shareholder-meeting"
     }
 ]
