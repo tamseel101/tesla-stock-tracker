@@ -8,7 +8,7 @@
     {
         "headline": "Press Releases | Tesla Investor Relations",
         "source": "ir.tesla.com",
-        "date": "Tesla Releases Third Quarter 2025 Financial Results. Business Wire. Oct 22, 2025. AUSTIN, Texas, October 22, 2025 \u2013 Tesla has released its financial results\u00a0...",
+        "date": "AUSTIN, Texas, October 22, 2025 \u2013 Tesla has released its financial results for the third quarter of 2025 by posting an update on its Investor Relations website.",
         "link": "https://ir.tesla.com/press"
     },
     {
@@ -18,16 +18,22 @@
         "link": "https://ir.tesla.com/press-release/tesla-motors-begins-regular-production-2008-tesla-roadster"
     },
     {
-        "headline": "Tesla, Inc. (TSLA) Stock Price, News, Quote & History - Yahoo Finance",
-        "source": "ca.finance.yahoo.com",
-        "date": "Tesla: We See Little Effect From California Ruling to Suspend Production and Sales for 30 Days. Tesla is a vertically integrated battery electric vehicle\u00a0...",
-        "link": "https://ca.finance.yahoo.com/quote/TSLA/"
+        "headline": "Tesla Third Quarter 2025 Production, Deliveries & Deployments",
+        "source": "ir.tesla.com",
+        "date": "Oct 2, 2025 ... At that time, Tesla will issue a brief advisory containing a link to the Q3 2025 update, which will be available on Tesla's Investor Relations\u00a0...",
+        "link": "https://ir.tesla.com/press-release/tesla-third-quarter-2025-production-deliveries-deployments"
     },
     {
         "headline": "Tesla Motors to Manufacture Sedan in California | Tesla Investor ...",
         "source": "ir.tesla.com",
         "date": "Jun 29, 2008 ... Tesla's next product, a 4-door, 5-passenger sedan, will be manufactured at a facility in the state of California.",
         "link": "https://ir.tesla.com/press-release/tesla-motors-manufacture-sedan-california"
+    },
+    {
+        "headline": "Tesla, Inc. (TSLA) Stock Price, News, Quote & History - Yahoo Finance",
+        "source": "ca.finance.yahoo.com",
+        "date": "Tesla: We See Little Effect From California Ruling to Suspend Production and Sales for 30 Days. Tesla is a vertically integrated battery electric vehicle\u00a0...",
+        "link": "https://ca.finance.yahoo.com/quote/TSLA/"
     },
     {
         "headline": "Tesla Motors Announces Offerings of Common Stock and ...",
@@ -46,12 +52,6 @@
         "source": "ir.tesla.com",
         "date": "Apr 2, 2025 ... At that time, Tesla will issue a brief advisory containing a link to the Q1 2025 update which will be available on Tesla's Investor Relations\u00a0...",
         "link": "https://ir.tesla.com/press-release/tesla-first-quarter-2025-production-deliveries-and-deployments"
-    },
-    {
-        "headline": "Tesla Third Quarter 2025 Production, Deliveries & Deployments",
-        "source": "ir.tesla.com",
-        "date": "Oct 2, 2025 ... At that time, Tesla will issue a brief advisory containing a link to the Q3 2025 update, which will be available on Tesla's Investor Relations\u00a0...",
-        "link": "https://ir.tesla.com/press-release/tesla-third-quarter-2025-production-deliveries-deployments"
     },
     {
         "headline": "Tesla Motors Announces Major European Distribution Center in the ...",

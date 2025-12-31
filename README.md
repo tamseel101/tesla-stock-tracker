@@ -69,7 +69,8 @@ For automated daily updates on GitHub, you need to set your API keys as **GitHub
 
 ## Tesla Stock Chart
 
-![Tesla Stock Chart](charts/tesla_stock_chart.png?20251230144546)
+![Tesla Stock Chart](charts/tesla_stock_chart.png?20251231144308)
+
 
 
 
@@ -208,19 +209,23 @@ _Source: ir.tesla.com - Tesla's mission is to accelerate the world's transition 
 
 **[Press Releases | Tesla Investor Relations](https://ir.tesla.com/press)**
 
-_Source: ir.tesla.com - Tesla Releases Third Quarter 2025 Financial Results. Business Wire. Oct 22, 2025. AUSTIN, Texas, October 22, 2025 – Tesla has released its financial results ..._
+_Source: ir.tesla.com - AUSTIN, Texas, October 22, 2025 – Tesla has released its financial results for the third quarter of 2025 by posting an update on its Investor Relations website._
 
 **[Tesla Motors Begins Regular Production of 2008 Tesla Roadster ...](https://ir.tesla.com/press-release/tesla-motors-begins-regular-production-2008-tesla-roadster)**
 
 _Source: ir.tesla.com - Mar 16, 2008 ... Regular production of the 2008 Tesla Roadster commenced today, marking an historical milestone for Tesla Motors and a watershed in the development of clean, ..._
 
-**[Tesla, Inc. (TSLA) Stock Price, News, Quote & History - Yahoo Finance](https://ca.finance.yahoo.com/quote/TSLA/)**
+**[Tesla Third Quarter 2025 Production, Deliveries & Deployments](https://ir.tesla.com/press-release/tesla-third-quarter-2025-production-deliveries-deployments)**
 
-_Source: ca.finance.yahoo.com - Tesla: We See Little Effect From California Ruling to Suspend Production and Sales for 30 Days. Tesla is a vertically integrated battery electric vehicle ..._
+_Source: ir.tesla.com - Oct 2, 2025 ... At that time, Tesla will issue a brief advisory containing a link to the Q3 2025 update, which will be available on Tesla's Investor Relations ..._
 
 **[Tesla Motors to Manufacture Sedan in California | Tesla Investor ...](https://ir.tesla.com/press-release/tesla-motors-manufacture-sedan-california)**
 
 _Source: ir.tesla.com - Jun 29, 2008 ... Tesla's next product, a 4-door, 5-passenger sedan, will be manufactured at a facility in the state of California._
+
+**[Tesla, Inc. (TSLA) Stock Price, News, Quote & History - Yahoo Finance](https://ca.finance.yahoo.com/quote/TSLA/)**
+
+_Source: ca.finance.yahoo.com - Tesla: We See Little Effect From California Ruling to Suspend Production and Sales for 30 Days. Tesla is a vertically integrated battery electric vehicle ..._
 
 **[Tesla Motors Announces Offerings of Common Stock and ...](https://ir.tesla.com/press-release/tesla-motors-announces-offerings-common-stock-and-convertible)**
 
@@ -233,10 +238,6 @@ _Source: ir.tesla.com - May 22, 2012 ... Tesla Motors (NASDAQ: TSLA) will begin 
 **[Tesla First Quarter 2025 Production, Deliveries & Deployments](https://ir.tesla.com/press-release/tesla-first-quarter-2025-production-deliveries-and-deployments)**
 
 _Source: ir.tesla.com - Apr 2, 2025 ... At that time, Tesla will issue a brief advisory containing a link to the Q1 2025 update which will be available on Tesla's Investor Relations ..._
-
-**[Tesla Third Quarter 2025 Production, Deliveries & Deployments](https://ir.tesla.com/press-release/tesla-third-quarter-2025-production-deliveries-deployments)**
-
-_Source: ir.tesla.com - Oct 2, 2025 ... At that time, Tesla will issue a brief advisory containing a link to the Q3 2025 update, which will be available on Tesla's Investor Relations ..._
 
 **[Tesla Motors Announces Major European Distribution Center in the ...](https://ir.tesla.com/press-release/tesla-motors-announces-major-european-distribution-center)**
 
