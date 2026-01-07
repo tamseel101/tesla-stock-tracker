@@ -69,7 +69,8 @@ For automated daily updates on GitHub, you need to set your API keys as **GitHub
 
 ## Tesla Stock Chart
 
-![Tesla Stock Chart](charts/tesla_stock_chart.png?20260106144800)
+![Tesla Stock Chart](charts/tesla_stock_chart.png?20260107144918)
+
 
 
 
@@ -241,11 +242,11 @@ _Source: ir.tesla.com - Jun 29, 2008 ... Tesla's next product, a 4-door, 5-passe
 
 _Source: ir.tesla.com - Oct 2, 2025 ... At that time, Tesla will issue a brief advisory containing a link to the Q3 2025 update, which will be available on Tesla's Investor Relations ..._
 
-**[Tesla Motors to Begin Customer Deliveries of Model S on June 22nd ...](https://ir.tesla.com/press-release/tesla-motors-begin-customer-deliveries-model-s-june-22nd)**
-
-_Source: ir.tesla.com - May 22, 2012 ... Tesla Motors (NASDAQ: TSLA) will begin delivering Model S, the world's first premium electric sedan, to customers on June 22nd, 2012._
-
 **[Tesla Motors Launches Revolutionary Supercharger Enabling ...](https://ir.tesla.com/press-release/tesla-motors-launches-revolutionary-supercharger-enabling)**
 
 _Source: ir.tesla.com - Sep 24, 2012 ... Tesla revealed the locations of the first six Supercharger stations, which will allow the Model S to travel long distances with ultra fast charging._
+
+**[Tesla Motors Announces Major European Distribution Center in the ...](https://ir.tesla.com/press-release/tesla-motors-announces-major-european-distribution-center)**
+
+_Source: ir.tesla.com - Dec 12, 2012 ... The new Tesla European Distribution Center will lead to the creation of approximately 50 jobs in the next few years. Tesla's decision to locate ..._
 
