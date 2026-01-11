@@ -69,7 +69,8 @@ For automated daily updates on GitHub, you need to set your API keys as **GitHub
 
 ## Tesla Stock Chart
 
-![Tesla Stock Chart](charts/tesla_stock_chart.png?20260110144128)
+![Tesla Stock Chart](charts/tesla_stock_chart.png?20260111144147)
+
 
 
 
@@ -229,17 +230,17 @@ _Source: ir.tesla.com - Mar 16, 2008 ... Regular production of the 2008 Tesla Ro
 
 _Source: ir.tesla.com - Apr 2, 2025 ... At that time, Tesla will issue a brief advisory containing a link to the Q1 2025 update which will be available on Tesla's Investor Relations ..._
 
+**[Tesla Motors Announces Offerings of Common Stock and ...](https://ir.tesla.com/press-release/tesla-motors-announces-offerings-common-stock-and-convertible)**
+
+_Source: ir.tesla.com - May 15, 2013 ... PALO ALTO, CA -- (Marketwired) -- 05/15/13 -- Tesla Motors, Inc. (NASDAQ: TSLA) announced today offerings of 2703027 shares of common stock ..._
+
 **[Tesla Third Quarter 2025 Production, Deliveries & Deployments](https://ir.tesla.com/press-release/tesla-third-quarter-2025-production-deliveries-deployments)**
 
 _Source: ir.tesla.com - Oct 2, 2025 ... At that time, Tesla will issue a brief advisory containing a link to the Q3 2025 update, which will be available on Tesla's Investor Relations ..._
 
 **[Tesla, Inc. (TSLA) Stock Price, News, Quote & History - Yahoo Finance](https://ca.finance.yahoo.com/quote/TSLA/)**
 
-_Source: ca.finance.yahoo.com - Tesla, Inc. (TSLA) · 1.58% · -0.04% · 50.40% · -1.05% · 12.68% · 51.70% · 35,032.36%. Key Events. Mountain. Advanced Chart. Loading chart ..._
-
-**[Tesla Motors Announces Offerings of Common Stock and ...](https://ir.tesla.com/press-release/tesla-motors-announces-offerings-common-stock-and-convertible)**
-
-_Source: ir.tesla.com - May 15, 2013 ... In addition, Tesla has granted the underwriters a 30-day option to purchase up to an additional 405,454 shares of common stock and $67.5 million ..._
+_Source: ca.finance.yahoo.com - Tesla: Shares Fall on Fourth-Quarter Deliveries Decline. Tesla is a vertically integrated battery electric vehicle automaker and developer of real world ..._
 
 **[Tesla Motors to Manufacture Sedan in California | Tesla Investor ...](https://ir.tesla.com/press-release/tesla-motors-manufacture-sedan-california)**
 
@@ -249,7 +250,7 @@ _Source: ir.tesla.com - Jun 29, 2008 ... Tesla's next product, a 4-door, 5-passe
 
 _Source: ir.tesla.com - Sep 24, 2012 ... Tesla revealed the locations of the first six Supercharger stations, which will allow the Model S to travel long distances with ultra fast charging._
 
-**[Tesla Motors Announces Major European Distribution Center in the ...](https://ir.tesla.com/press-release/tesla-motors-announces-major-european-distribution-center)**
+**[Tesla Motors Announces Date for Second Quarter 2012 Financial ...](https://ir.tesla.com/press-release/tesla-motors-announces-date-second-quarter-2012-financial)**
 
-_Source: ir.tesla.com - Dec 12, 2012 ... Tesla's decision to locate the new European Distribution Center in Tilburg is the result of almost two years of on-going cooperation between ..._
+_Source: ir.tesla.com - Jul 19, 2012 ... Tesla Motors, Inc. (NASDAQ: TSLA) announced today that it will post its financial results for the second quarter ended June 30, 2012, after market close on ..._
 
