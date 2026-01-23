@@ -69,7 +69,8 @@ For automated daily updates on GitHub, you need to set your API keys as **GitHub
 
 ## Tesla Stock Chart
 
-![Tesla Stock Chart](charts/tesla_stock_chart.png?20260122145509)
+![Tesla Stock Chart](charts/tesla_stock_chart.png?20260123145133)
+
 
 
 
@@ -229,10 +230,6 @@ For automated daily updates on GitHub, you need to set your API keys as **GitHub
 
 _Source: ir.tesla.com - Tesla's mission is to accelerate the world's transition to sustainable energy. Today, Tesla builds not only all-electric vehicles but also infinitely ..._
 
-**[Tesla Motors Announces Offerings of Common Stock and ...](https://ir.tesla.com/press-release/tesla-motors-announces-offerings-common-stock-and-convertible)**
-
-_Source: ir.tesla.com - May 15, 2013 ... Of this amount, approximately $45 million would be purchased in the common stock offering, and approximately $55 million would be purchased ..._
-
 **[Tesla Motors Begins Regular Production of 2008 Tesla Roadster ...](https://ir.tesla.com/press-release/tesla-motors-begins-regular-production-2008-tesla-roadster)**
 
 _Source: ir.tesla.com - Mar 16, 2008 ... Regular production of the 2008 Tesla Roadster commenced today, marking an historical milestone for Tesla Motors and a watershed in the development of clean, ..._
@@ -241,27 +238,31 @@ _Source: ir.tesla.com - Mar 16, 2008 ... Regular production of the 2008 Tesla Ro
 
 _Source: ir.tesla.com - Please find below the latest company-compiled delivery consensus of sell-side analysts. Tesla does not endorse any information, recommendations or ..._
 
+**[Tesla Motors Announces Offerings of Common Stock and ...](https://ir.tesla.com/press-release/tesla-motors-announces-offerings-common-stock-and-convertible)**
+
+_Source: ir.tesla.com - May 15, 2013 ... In addition, Tesla has granted the underwriters a 30-day option to purchase up to an additional 405,454 shares of common stock and $67.5 million ..._
+
 **[Tesla Motors Announces Major European Distribution Center in the ...](https://ir.tesla.com/press-release/tesla-motors-announces-major-european-distribution-center)**
 
 _Source: ir.tesla.com - Dec 12, 2012 ... Tesla's new 62,000 square foot facility is centrally located to enable efficient, timely and cost effective operations throughout Europe._
 
-**[Tesla Motors Announces Date for Second Quarter 2012 Financial ...](https://ir.tesla.com/press-release/tesla-motors-announces-date-second-quarter-2012-financial)**
+**[Tesla First Quarter 2025 Production, Deliveries & Deployments](https://ir.tesla.com/press-release/tesla-first-quarter-2025-production-deliveries-and-deployments)**
 
-_Source: ir.tesla.com - Jul 19, 2012 ... Tesla Motors, Inc. (NASDAQ: TSLA) announced today that it will post its financial results for the second quarter ended June 30, 2012, after market close on ..._
+_Source: ir.tesla.com - Apr 2, 2025 ... At that time, Tesla will issue a brief advisory containing a link to the Q1 2025 update which will be available on Tesla's Investor Relations ..._
 
-**[Tesla Motors Announces Date for First Quarter 2011 Results | Tesla ...](https://ir.tesla.com/press-release/tesla-motors-announces-date-first-quarter-2011-results)**
+**[Tesla Third Quarter 2025 Production, Deliveries & Deployments](https://ir.tesla.com/press-release/tesla-third-quarter-2025-production-deliveries-deployments)**
 
-_Source: ir.tesla.com - Apr 18, 2011 ... Tesla Motors Announces Date for First Quarter 2011 Results ... PALO ALTO, Calif.--(BUSINESS WIRE)-- Tesla Motors, Inc. (Nasdaq: TSLA) announced ..._
+_Source: ir.tesla.com - Oct 2, 2025 ... At that time, Tesla will issue a brief advisory containing a link to the Q3 2025 update, which will be available on Tesla's Investor Relations ..._
 
 **[Tesla Motors Announces 2012 Annual Shareholder Meeting | Tesla ...](https://ir.tesla.com/press-release/tesla-motors-announces-2012-annual-shareholder-meeting)**
 
 _Source: ir.tesla.com - May 2, 2012 ... Tesla Motors Announces 2012 Annual Shareholder Meeting ... PALO ALTO, CA -- (Marketwire) -- 05/02/12 -- Tesla Motors, Inc. (NASDAQ: TSLA) today ..._
 
-**[Tesla Motors Announces Date for Second Quarter 2013 Financial ...](https://ir.tesla.com/press-release/tesla-motors-announces-date-second-quarter-2013-financial)**
-
-_Source: ir.tesla.com - Jul 16, 2013 ... Tesla Motors Announces Date for Second Quarter 2013 Financial Results ... PALO ALTO, CA -- (Marketwired) -- 07/16/13 -- Tesla Motors, Inc. (NASDAQ ..._
-
 **[Tesla Motors Releases Fourth Quarter & Full Year 2011 Financial ...](https://ir.tesla.com/press-release/tesla-motors-releases-fourth-quarter-full-year-2011-financial)**
 
 _Source: ir.tesla.com - Feb 15, 2012 ... Tesla Motors Releases Fourth Quarter & Full Year 2011 Financial Results ... PALO ALTO, CA -- (MARKET WIRE) -- 02/15/12 -- Tesla Motors, Inc. ( ..._
+
+**[Tesla Motors Announces Date for First Quarter 2011 Results | Tesla ...](https://ir.tesla.com/press-release/tesla-motors-announces-date-first-quarter-2011-results)**
+
+_Source: ir.tesla.com - Apr 18, 2011 ... Tesla Motors Announces Date for First Quarter 2011 Results ... PALO ALTO, Calif.--(BUSINESS WIRE)-- Tesla Motors, Inc. (Nasdaq: TSLA) announced ..._
 
