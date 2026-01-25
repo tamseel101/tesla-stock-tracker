@@ -14,7 +14,7 @@
     {
         "headline": "Press Releases | Tesla Investor Relations",
         "source": "ir.tesla.com",
-        "date": "Please find below the latest company-compiled delivery consensus of sell-side analysts. Tesla does not endorse any information, recommendations or\u00a0...",
+        "date": "Please find below the latest company-compiled earnings consensus estimates of sell-side analysts. Tesla does not endorse any information, recommendations or\u00a0...",
         "link": "https://ir.tesla.com/press"
     },
     {
@@ -36,16 +36,16 @@
         "link": "https://ir.tesla.com/press-release/tesla-first-quarter-2025-production-deliveries-and-deployments"
     },
     {
-        "headline": "Tesla Motors Announces 2012 Annual Shareholder Meeting | Tesla ...",
-        "source": "ir.tesla.com",
-        "date": "May 2, 2012 ... PALO ALTO, CA -- (Marketwire) -- 05/02/12 -- Tesla Motors, Inc. (NASDAQ: TSLA) today announced the date and location of its 2012 Annual\u00a0...",
-        "link": "https://ir.tesla.com/press-release/tesla-motors-announces-2012-annual-shareholder-meeting"
-    },
-    {
         "headline": "Tesla Third Quarter 2025 Production, Deliveries & Deployments",
         "source": "ir.tesla.com",
         "date": "Oct 2, 2025 ... At that time, Tesla will issue a brief advisory containing a link to the Q3 2025 update, which will be available on Tesla's Investor Relations\u00a0...",
         "link": "https://ir.tesla.com/press-release/tesla-third-quarter-2025-production-deliveries-deployments"
+    },
+    {
+        "headline": "Tesla Motors Announces 2012 Annual Shareholder Meeting | Tesla ...",
+        "source": "ir.tesla.com",
+        "date": "May 2, 2012 ... PALO ALTO, CA -- (Marketwire) -- 05/02/12 -- Tesla Motors, Inc. (NASDAQ: TSLA) today announced the date and location of its 2012 Annual\u00a0...",
+        "link": "https://ir.tesla.com/press-release/tesla-motors-announces-2012-annual-shareholder-meeting"
     },
     {
         "headline": "Tesla Motors Announces Date for First Quarter 2011 Results | Tesla ...",
