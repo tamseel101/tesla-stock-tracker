@@ -6,10 +6,16 @@
         "link": "https://ir.tesla.com/"
     },
     {
-        "headline": "Press Releases - Tesla Investor Relations",
+        "headline": "Tesla Announces New Long-Term Performance Award for Elon Musk",
         "source": "ir.tesla.com",
-        "date": "AUSTIN, Texas, January 28, 2026 \u2013 Tesla has released its financial results for the fourth quarter and full year ended December 31, 2025 by posting an update\u00a0...",
-        "link": "https://ir.tesla.com/press"
+        "date": "Jan 23, 2018 ... Primary Logo. Source: Tesla, Inc. News Provided by Acquire Media. Footer. Tesla \u00a9 2026 \u00b7 Subscription Preferences \u00b7 Contact & FAQ \u00b7 Privacy &\u00a0...",
+        "link": "https://ir.tesla.com/press-release/tesla-announces-new-long-term-performance-award-elon-musk"
+    },
+    {
+        "headline": "Tesla Motors Begins Regular Production of 2008 Tesla Roadster",
+        "source": "ir.tesla.com",
+        "date": "Mar 16, 2008 ... ... Roadster commenced today, marking an historical milestone for Tesla Motors and a watershed in the development of clean, zero-emissions vehicles.",
+        "link": "https://ir.tesla.com/press-release/tesla-motors-begins-regular-production-2008-tesla-roadster"
     },
     {
         "headline": "Tesla Motors Announces Offerings of Common Stock and ...",
@@ -30,16 +36,16 @@
         "link": "https://ir.tesla.com/press-release/tesla-motors-announces-date-second-quarter-2013-financial"
     },
     {
-        "headline": "Tesla Motors Begins Regular Production of 2008 Tesla Roadster",
-        "source": "ir.tesla.com",
-        "date": "Mar 16, 2008 ... Regular production of the 2008 Tesla Roadster commenced today, marking an historical milestone for Tesla Motors and a watershed in the development of clean,\u00a0...",
-        "link": "https://ir.tesla.com/press-release/tesla-motors-begins-regular-production-2008-tesla-roadster"
-    },
-    {
         "headline": "Tesla Motors Launches Revolutionary Supercharger Enabling ...",
         "source": "ir.tesla.com",
         "date": "Sep 24, 2012 ... Tesla revealed the locations of the first six Supercharger stations, which will allow the Model S to travel long distances with ultra fast charging.",
         "link": "https://ir.tesla.com/press-release/tesla-motors-launches-revolutionary-supercharger-enabling"
+    },
+    {
+        "headline": "Tesla Motors to Begin Customer Deliveries of Model S on June 22nd",
+        "source": "ir.tesla.com",
+        "date": "May 22, 2012 ... PALO ALTO, CA -- (Marketwire) -- 05/22/12 -- Tesla Motors (NASDAQ: TSLA) will begin delivering Model S, the world's first premium electric\u00a0...",
+        "link": "https://ir.tesla.com/press-release/tesla-motors-begin-customer-deliveries-model-s-june-22nd"
     },
     {
         "headline": "Tesla Motors Releases Second Quarter 2012 Financial Results",
@@ -52,11 +58,5 @@
         "source": "ir.tesla.com",
         "date": "Feb 15, 2012 ... PALO ALTO, CA -- (MARKET WIRE) -- 02/15/12 -- Tesla Motors, Inc. (NASDAQ: TSLA) today released its fourth quarter and full year 2011\u00a0...",
         "link": "https://ir.tesla.com/press-release/tesla-motors-releases-fourth-quarter-full-year-2011-financial"
-    },
-    {
-        "headline": "Tesla Motors Announces Date for First Quarter 2011 Results",
-        "source": "ir.tesla.com",
-        "date": "Apr 18, 2011 ... (Nasdaq: TSLA) announced today that it will release its financial results for the first quarter ended March 31, 2011, after market close on\u00a0...",
-        "link": "https://ir.tesla.com/press-release/tesla-motors-announces-date-first-quarter-2011-results"
     }
 ]
