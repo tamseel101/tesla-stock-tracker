@@ -69,7 +69,8 @@ For automated daily updates on GitHub, you need to set your API keys as **GitHub
 
 ## Tesla Stock Chart
 
-![Tesla Stock Chart](charts/tesla_stock_chart.png?20260306150318)
+![Tesla Stock Chart](charts/tesla_stock_chart.png?20260307144809)
+
 
 
 
@@ -280,31 +281,31 @@ _Source: ir.tesla.com - AUSTIN, Texas, January 28, 2026 – Tesla has released i
 
 _Source: ir.tesla.com - Sep 24, 2012 ... Tesla revealed the locations of the first six Supercharger stations, which will allow the Model S to travel long distances with ultra fast charging._
 
-**[Tesla Motors Announces 2013 Annual Shareholder Meeting Webcast](https://ir.tesla.com/press-release/tesla-motors-announces-2013-annual-shareholder-meeting-webcast)**
-
-_Source: ir.tesla.com - Jun 3, 2013 ... PALO ALTO, CA -- (Marketwired) -- 06/03/13 -- Tesla Motors, Inc. (NASDAQ: TSLA) announces the webcast for its 2013 Annual Shareholder ..._
-
 **[Tesla Motors Announces Date for Second Quarter 2012 Financial ...](https://ir.tesla.com/press-release/tesla-motors-announces-date-second-quarter-2012-financial)**
 
 _Source: ir.tesla.com - Jul 19, 2012 ... Tesla Motors, Inc. (NASDAQ: TSLA) announced today that it will post its financial results for the second quarter ended June 30, 2012, after market close on ..._
-
-**[Tesla Motors Begins Regular Production of 2008 Tesla Roadster](https://ir.tesla.com/press-release/tesla-motors-begins-regular-production-2008-tesla-roadster)**
-
-_Source: ir.tesla.com - Mar 16, 2008 ... Regular production of the 2008 Tesla Roadster commenced today, marking an historical milestone for Tesla Motors and a watershed in the development of clean, ..._
-
-**[Tesla Motors Announces Offerings of Common Stock and ...](https://ir.tesla.com/press-release/tesla-motors-announces-offerings-common-stock-and-convertible)**
-
-_Source: ir.tesla.com - May 15, 2013 ... PALO ALTO, CA -- (Marketwired) -- 05/15/13 -- Tesla Motors, Inc. (NASDAQ: TSLA) announced today offerings of 2703027 shares of common stock ..._
 
 **[Tesla Motors Announces Date for Second Quarter 2013 Financial ...](https://ir.tesla.com/press-release/tesla-motors-announces-date-second-quarter-2013-financial)**
 
 _Source: ir.tesla.com - Jul 16, 2013 ... PALO ALTO, CA -- (Marketwired) -- 07/16/13 -- Tesla Motors, Inc. (NASDAQ: TSLA) announced today that it will post its financial results for ..._
 
+**[Tesla Motors Announces Offerings of Common Stock and ...](https://ir.tesla.com/press-release/tesla-motors-announces-offerings-common-stock-and-convertible)**
+
+_Source: ir.tesla.com - May 15, 2013 ... PALO ALTO, CA -- (Marketwired) -- 05/15/13 -- Tesla Motors, Inc. (NASDAQ: TSLA) announced today offerings of 2703027 shares of common stock ..._
+
+**[Tesla Motors Announces 2013 Annual Shareholder Meeting Webcast](https://ir.tesla.com/press-release/tesla-motors-announces-2013-annual-shareholder-meeting-webcast)**
+
+_Source: ir.tesla.com - Jun 3, 2013 ... PALO ALTO, CA -- (Marketwired) -- 06/03/13 -- Tesla Motors, Inc. (NASDAQ: TSLA) announces the webcast for its 2013 Annual Shareholder ..._
+
 **[Tesla Motors Releases Fourth Quarter & Full Year 2011 Financial ...](https://ir.tesla.com/press-release/tesla-motors-releases-fourth-quarter-full-year-2011-financial)**
 
 _Source: ir.tesla.com - Feb 15, 2012 ... Tesla Motors Releases Fourth Quarter & Full Year 2011 Financial Results ... PALO ALTO, CA -- (MARKET WIRE) -- 02/15/12 -- Tesla Motors, Inc. ( ..._
 
-**[Tesla Motors Releases Second Quarter 2012 Financial Results](https://ir.tesla.com/press-release/tesla-motors-releases-second-quarter-2012-financial-results)**
+**[Tesla Announces New Long-Term Performance Award for Elon Musk](https://ir.tesla.com/press-release/tesla-announces-new-long-term-performance-award-elon-musk)**
 
-_Source: ir.tesla.com - Jul 25, 2012 ... Tesla Motors Releases Second Quarter 2012 Financial Results ... PALO ALTO, CA -- (Marketwire) -- 07/25/12 -- Tesla Motors, Inc. (NASDAQ: TSLA) ..._
+_Source: ir.tesla.com - Jan 23, 2018 ... Primary Logo. Source: Tesla, Inc. News Provided by Acquire Media. Footer. Tesla © 2026 · Subscription Preferences · Contact & FAQ · Privacy & ..._
+
+**[Tesla Motors Begins Regular Production of 2008 Tesla Roadster](https://ir.tesla.com/press-release/tesla-motors-begins-regular-production-2008-tesla-roadster)**
+
+_Source: ir.tesla.com - Mar 16, 2008 ... Regular production of the 2008 Tesla Roadster commenced today, marking an historical milestone for Tesla Motors and a watershed in the development of clean, ..._
 
