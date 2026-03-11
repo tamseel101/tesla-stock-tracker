@@ -69,7 +69,8 @@ For automated daily updates on GitHub, you need to set your API keys as **GitHub
 
 ## Tesla Stock Chart
 
-![Tesla Stock Chart](charts/tesla_stock_chart.png?20260310152843)
+![Tesla Stock Chart](charts/tesla_stock_chart.png?20260311151056)
+
 
 
 
@@ -276,10 +277,6 @@ For automated daily updates on GitHub, you need to set your API keys as **GitHub
 
 _Source: ir.tesla.com - Tesla's mission is to accelerate the world's transition to sustainable energy. Today, Tesla builds not only all-electric vehicles but also infinitely ..._
 
-**[Tesla Motors Begins Regular Production of 2008 Tesla Roadster](https://ir.tesla.com/press-release/tesla-motors-begins-regular-production-2008-tesla-roadster)**
-
-_Source: ir.tesla.com - Mar 16, 2008 ... ... Roadster commenced today, marking an historical milestone for Tesla Motors and a watershed in the development of clean, zero-emissions vehicles._
-
 **[Tesla Motors Launches Revolutionary Supercharger Enabling ...](https://ir.tesla.com/press-release/tesla-motors-launches-revolutionary-supercharger-enabling)**
 
 _Source: ir.tesla.com - Sep 24, 2012 ... Tesla revealed the locations of the first six Supercharger stations, which will allow the Model S to travel long distances with ultra fast charging._
@@ -296,13 +293,13 @@ _Source: ir.tesla.com - May 15, 2013 ... PALO ALTO, CA -- (Marketwired) -- 05/15
 
 _Source: ir.tesla.com - Jul 19, 2012 ... Tesla Motors, Inc. (NASDAQ: TSLA) announced today that it will post its financial results for the second quarter ended June 30, 2012, after market close on ..._
 
-**[Tesla Motors Announces 2013 Annual Shareholder Meeting Webcast](https://ir.tesla.com/press-release/tesla-motors-announces-2013-annual-shareholder-meeting-webcast)**
-
-_Source: ir.tesla.com - Jun 3, 2013 ... PALO ALTO, CA -- (Marketwired) -- 06/03/13 -- Tesla Motors, Inc. (NASDAQ: TSLA) announces the webcast for its 2013 Annual Shareholder ..._
-
 **[Press Releases | Tesla Investor Relations](https://ir.tesla.com/press)**
 
 _Source: ir.tesla.com - AUSTIN, Texas, January 28, 2026 – Tesla has released its financial results for the fourth quarter and full year ended December 31, 2025 by posting an update ..._
+
+**[Tesla Motors Announces 2013 Annual Shareholder Meeting Webcast](https://ir.tesla.com/press-release/tesla-motors-announces-2013-annual-shareholder-meeting-webcast)**
+
+_Source: ir.tesla.com - Jun 3, 2013 ... PALO ALTO, CA -- (Marketwired) -- 06/03/13 -- Tesla Motors, Inc. (NASDAQ: TSLA) announces the webcast for its 2013 Annual Shareholder ..._
 
 **[Tesla Motors Releases Fourth Quarter & Full Year 2011 Financial ...](https://ir.tesla.com/press-release/tesla-motors-releases-fourth-quarter-full-year-2011-financial)**
 
@@ -311,4 +308,8 @@ _Source: ir.tesla.com - Feb 15, 2012 ... Tesla has delivered more than 2,150 Roa
 **[Tesla Motors Releases Second Quarter 2012 Financial Results](https://ir.tesla.com/press-release/tesla-motors-releases-second-quarter-2012-financial-results)**
 
 _Source: ir.tesla.com - Jul 25, 2012 ... PALO ALTO, CA -- (Marketwire) -- 07/25/12 -- Tesla Motors, Inc. (NASDAQ: TSLA) today released its second quarter 2012 financial results by ..._
+
+**[Tesla Motors Delivers World's First Premium Electric Sedan to ...](https://ir.tesla.com/press-release/tesla-motors-delivers-worlds-first-premium-electric-sedan)**
+
+_Source: ir.tesla.com - Jun 22, 2012 ... PALO ALTO, CA -- (Marketwire) -- 06/22/12 -- Tesla Motors (NASDAQ: TSLA) delivered Model S, the world's first premium electric sedan, to its ..._
 

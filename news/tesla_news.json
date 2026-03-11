@@ -6,12 +6,6 @@
         "link": "https://ir.tesla.com/"
     },
     {
-        "headline": "Tesla Motors Begins Regular Production of 2008 Tesla Roadster",
-        "source": "ir.tesla.com",
-        "date": "Mar 16, 2008 ... ... Roadster commenced today, marking an historical milestone for Tesla Motors and a watershed in the development of clean, zero-emissions vehicles.",
-        "link": "https://ir.tesla.com/press-release/tesla-motors-begins-regular-production-2008-tesla-roadster"
-    },
-    {
         "headline": "Tesla Motors Launches Revolutionary Supercharger Enabling ...",
         "source": "ir.tesla.com",
         "date": "Sep 24, 2012 ... Tesla revealed the locations of the first six Supercharger stations, which will allow the Model S to travel long distances with ultra fast charging.",
@@ -36,16 +30,16 @@
         "link": "https://ir.tesla.com/press-release/tesla-motors-announces-date-second-quarter-2012-financial"
     },
     {
-        "headline": "Tesla Motors Announces 2013 Annual Shareholder Meeting Webcast",
-        "source": "ir.tesla.com",
-        "date": "Jun 3, 2013 ... PALO ALTO, CA -- (Marketwired) -- 06/03/13 -- Tesla Motors, Inc. (NASDAQ: TSLA) announces the webcast for its 2013 Annual Shareholder\u00a0...",
-        "link": "https://ir.tesla.com/press-release/tesla-motors-announces-2013-annual-shareholder-meeting-webcast"
-    },
-    {
         "headline": "Press Releases | Tesla Investor Relations",
         "source": "ir.tesla.com",
         "date": "AUSTIN, Texas, January 28, 2026 \u2013 Tesla has released its financial results for the fourth quarter and full year ended December 31, 2025 by posting an update\u00a0...",
         "link": "https://ir.tesla.com/press"
+    },
+    {
+        "headline": "Tesla Motors Announces 2013 Annual Shareholder Meeting Webcast",
+        "source": "ir.tesla.com",
+        "date": "Jun 3, 2013 ... PALO ALTO, CA -- (Marketwired) -- 06/03/13 -- Tesla Motors, Inc. (NASDAQ: TSLA) announces the webcast for its 2013 Annual Shareholder\u00a0...",
+        "link": "https://ir.tesla.com/press-release/tesla-motors-announces-2013-annual-shareholder-meeting-webcast"
     },
     {
         "headline": "Tesla Motors Releases Fourth Quarter & Full Year 2011 Financial ...",
@@ -58,5 +52,11 @@
         "source": "ir.tesla.com",
         "date": "Jul 25, 2012 ... PALO ALTO, CA -- (Marketwire) -- 07/25/12 -- Tesla Motors, Inc. (NASDAQ: TSLA) today released its second quarter 2012 financial results by\u00a0...",
         "link": "https://ir.tesla.com/press-release/tesla-motors-releases-second-quarter-2012-financial-results"
+    },
+    {
+        "headline": "Tesla Motors Delivers World's First Premium Electric Sedan to ...",
+        "source": "ir.tesla.com",
+        "date": "Jun 22, 2012 ... PALO ALTO, CA -- (Marketwire) -- 06/22/12 -- Tesla Motors (NASDAQ: TSLA) delivered Model S, the world's first premium electric sedan, to its\u00a0...",
+        "link": "https://ir.tesla.com/press-release/tesla-motors-delivers-worlds-first-premium-electric-sedan"
     }
 ]
