@@ -69,7 +69,8 @@ For automated daily updates on GitHub, you need to set your API keys as **GitHub
 
 ## Tesla Stock Chart
 
-![Tesla Stock Chart](charts/tesla_stock_chart.png?20260316153827)
+![Tesla Stock Chart](charts/tesla_stock_chart.png?20260317153708)
+
 
 
 
@@ -290,13 +291,13 @@ _Source: ir.tesla.com - Sep 24, 2012 ... HAWTHORNE, CA -- (Marketwire) -- 09/24/
 
 _Source: ir.tesla.com - AUSTIN, Texas, January 28, 2026 – Tesla has released its financial results for the fourth quarter and full year ended December 31, 2025 by posting an update ..._
 
-**[Tesla Motors Releases Fourth Quarter & Full Year 2011 Financial ...](https://ir.tesla.com/press-release/tesla-motors-releases-fourth-quarter-full-year-2011-financial)**
-
-_Source: ir.tesla.com - Feb 15, 2012 ... Tesla has delivered more than 2,150 Roadsters, the world's first electric sports car, to customers world-wide. Model S, the first premium sedan ..._
-
 **[Tesla Motors Announces Date for Second Quarter 2013 Financial ...](https://ir.tesla.com/press-release/tesla-motors-announces-date-second-quarter-2013-financial)**
 
 _Source: ir.tesla.com - Jul 16, 2013 ... PALO ALTO, CA -- (Marketwired) -- 07/16/13 -- Tesla Motors, Inc. (NASDAQ: TSLA) announced today that it will post its financial results for ..._
+
+**[Tesla Motors Releases Fourth Quarter & Full Year 2011 Financial ...](https://ir.tesla.com/press-release/tesla-motors-releases-fourth-quarter-full-year-2011-financial)**
+
+_Source: ir.tesla.com - Feb 15, 2012 ... Tesla has delivered more than 2,150 Roadsters, the world's first electric sports car, to customers world-wide. Model S, the first premium sedan ..._
 
 **[Tesla Motors Announces Offerings of Common Stock and ...](https://ir.tesla.com/press-release/tesla-motors-announces-offerings-common-stock-and-convertible)**
 
@@ -314,7 +315,7 @@ _Source: ir.tesla.com - Jun 22, 2012 ... PALO ALTO, CA -- (Marketwire) -- 06/22/
 
 _Source: ir.tesla.com - Nov 5, 2013 ... PALO ALTO, CA -- (Marketwired) -- 11/05/13 -- Tesla Motors, Inc. (NASDAQ: TSLA) today released its financial results for the third quarter ..._
 
-**[Tesla Motors Announces Date for Fourth Quarter & Year-End 2012 ...](https://ir.tesla.com/press-release/tesla-motors-announces-date-fourth-quarter-year-end-2012)**
+**[Tesla Motors to Begin Customer Deliveries of Model S on June 22nd](https://ir.tesla.com/press-release/tesla-motors-begin-customer-deliveries-model-s-june-22nd)**
 
-_Source: ir.tesla.com - Feb 11, 2013 ... Tesla Motors, Inc. (NASDAQ: TSLA) announced today that it will post its financial results for the fourth quarter and calendar year ended December 31, 2012._
+_Source: ir.tesla.com - May 22, 2012 ... Tesla Motors (NASDAQ: TSLA) will begin delivering Model S, the world's first premium electric sedan, to customers on June 22nd, 2012._
 
