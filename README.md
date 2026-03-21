@@ -69,7 +69,8 @@ For automated daily updates on GitHub, you need to set your API keys as **GitHub
 
 ## Tesla Stock Chart
 
-![Tesla Stock Chart](charts/tesla_stock_chart.png?20260320151025)
+![Tesla Stock Chart](charts/tesla_stock_chart.png?20260321145154)
+
 
 
 
@@ -286,13 +287,13 @@ For automated daily updates on GitHub, you need to set your API keys as **GitHub
 
 _Source: ir.tesla.com - Tesla's mission is to accelerate the world's transition to sustainable energy. Today, Tesla builds not only all-electric vehicles but also infinitely ..._
 
-**[Tesla Motors Launches Revolutionary Supercharger Enabling ...](https://ir.tesla.com/press-release/tesla-motors-launches-revolutionary-supercharger-enabling)**
-
-_Source: ir.tesla.com - Sep 24, 2012 ... HAWTHORNE, CA -- (Marketwire) -- 09/24/12 -- Tesla Motors (NASDAQ: TSLA) today unveiled its highly anticipated Supercharger network._
-
 **[Press Releases | Tesla Investor Relations](https://ir.tesla.com/press)**
 
 _Source: ir.tesla.com - AUSTIN, Texas, January 28, 2026 – Tesla has released its financial results for the fourth quarter and full year ended December 31, 2025 by posting an update ..._
+
+**[Tesla Motors Launches Revolutionary Supercharger Enabling ...](https://ir.tesla.com/press-release/tesla-motors-launches-revolutionary-supercharger-enabling)**
+
+_Source: ir.tesla.com - Sep 24, 2012 ... Tesla revealed the locations of the first six Supercharger stations, which will allow the Model S to travel long distances with ultra fast charging._
 
 **[Tesla Motors Announces Date for Second Quarter 2013 Financial ...](https://ir.tesla.com/press-release/tesla-motors-announces-date-second-quarter-2013-financial)**
 
@@ -314,11 +315,11 @@ _Source: ir.tesla.com - Jul 25, 2012 ... PALO ALTO, CA -- (Marketwire) -- 07/25/
 
 _Source: ir.tesla.com - Nov 5, 2013 ... PALO ALTO, CA -- (Marketwired) -- 11/05/13 -- Tesla Motors, Inc. (NASDAQ: TSLA) today released its financial results for the third quarter ..._
 
-**[Tesla Motors Delivers World's First Premium Electric Sedan to ...](https://ir.tesla.com/press-release/tesla-motors-delivers-worlds-first-premium-electric-sedan)**
-
-_Source: ir.tesla.com - Jun 22, 2012 ... PALO ALTO, CA -- (Marketwire) -- 06/22/12 -- Tesla Motors (NASDAQ: TSLA) delivered Model S, the world's first premium electric sedan, to its ..._
-
 **[Tesla Motors Announces Date for Fourth Quarter & Year-End 2012 ...](https://ir.tesla.com/press-release/tesla-motors-announces-date-fourth-quarter-year-end-2012)**
 
 _Source: ir.tesla.com - Feb 11, 2013 ... Tesla Motors, Inc. (NASDAQ: TSLA) announced today that it will post its financial results for the fourth quarter and calendar year ended December 31, 2012._
+
+**[Tesla Motors Announces 2013 Annual Shareholder Meeting Webcast](https://ir.tesla.com/press-release/tesla-motors-announces-2013-annual-shareholder-meeting-webcast)**
+
+_Source: ir.tesla.com - Jun 3, 2013 ... PALO ALTO, CA -- (Marketwired) -- 06/03/13 -- Tesla Motors, Inc. (NASDAQ: TSLA) announces the webcast for its 2013 Annual Shareholder ..._
 
