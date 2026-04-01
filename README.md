@@ -69,7 +69,8 @@ For automated daily updates on GitHub, you need to set your API keys as **GitHub
 
 ## Tesla Stock Chart
 
-![Tesla Stock Chart](charts/tesla_stock_chart.png?20260331154406)
+![Tesla Stock Chart](charts/tesla_stock_chart.png?20260401155104)
+
 
 
 
@@ -301,10 +302,6 @@ _Source: ir.tesla.com - Tesla's mission is to accelerate the world's transition 
 
 _Source: ir.tesla.com - Sep 24, 2012 ... Tesla revealed the locations of the first six Supercharger stations, which will allow the Model S to travel long distances with ultra fast charging._
 
-**[Tesla Motors Announces Date for Second Quarter 2013 Financial ...](https://ir.tesla.com/press-release/tesla-motors-announces-date-second-quarter-2013-financial)**
-
-_Source: ir.tesla.com - Jul 16, 2013 ... PALO ALTO, CA -- (Marketwired) -- 07/16/13 -- Tesla Motors, Inc. (NASDAQ: TSLA) announced today that it will post its financial results for ..._
-
 **[Tesla Motors Releases Fourth Quarter & Full Year 2011 Financial ...](https://ir.tesla.com/press-release/tesla-motors-releases-fourth-quarter-full-year-2011-financial)**
 
 _Source: ir.tesla.com - Feb 15, 2012 ... Tesla has delivered more than 2,150 Roadsters, the world's first electric sports car, to customers world-wide. Model S, the first premium sedan ..._
@@ -325,11 +322,15 @@ _Source: ir.tesla.com - Apr 18, 2014 ... PALO ALTO, CA -- (Marketwired) -- 04/18
 
 _Source: ir.tesla.com - May 15, 2013 ... PALO ALTO, CA -- (Marketwired) -- 05/15/13 -- Tesla Motors, Inc. (NASDAQ: TSLA) announced today offerings of 2703027 shares of common stock ..._
 
+**[Tesla Motors Announces Date for Second Quarter 2013 Financial ...](https://ir.tesla.com/press-release/tesla-motors-announces-date-second-quarter-2013-financial)**
+
+_Source: ir.tesla.com - Jul 16, 2013 ... PALO ALTO, CA -- (Marketwired) -- 07/16/13 -- Tesla Motors, Inc. (NASDAQ: TSLA) announced today that it will post its financial results for ..._
+
 **[Tesla Announces Release Date for Fourth Quarter and Full Year ...](https://ir.tesla.com/press-release/tesla-announces-release-date-fourth-quarter-and-full-year-2015)**
 
 _Source: ir.tesla.com - Jan 25, 2016 ... Tesla Motors, Inc. (NASDAQ: TSLA) will post its financial results for the fourth quarter and full year ended December 31, 2015, after market close on Wednesday ..._
 
-**[Tesla Motors Releases Second Quarter 2011 Financial Results](https://ir.tesla.com/press-release/tesla-motors-releases-second-quarter-2011-financial-results)**
+**[Tesla Motors Releases Third Quarter 2013 Financial Results](https://ir.tesla.com/press-release/tesla-motors-releases-third-quarter-2013-financial-results)**
 
-_Source: ir.tesla.com - Aug 3, 2011 ... PALO ALTO, CA -- (MARKET WIRE) -- 08/03/11 -- Tesla Motors, Inc. (NASDAQ: TSLA) today released its second quarter 2011 financial results by ..._
+_Source: ir.tesla.com - Nov 5, 2013 ... PALO ALTO, CA -- (Marketwired) -- 11/05/13 -- Tesla Motors, Inc. (NASDAQ: TSLA) today released its financial results for the third quarter ..._
 
