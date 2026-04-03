@@ -69,7 +69,8 @@ For automated daily updates on GitHub, you need to set your API keys as **GitHub
 
 ## Tesla Stock Chart
 
-![Tesla Stock Chart](charts/tesla_stock_chart.png?20260402153406)
+![Tesla Stock Chart](charts/tesla_stock_chart.png?20260403150731)
+
 
 
 
@@ -301,11 +302,15 @@ _Source: ir.tesla.com - Tesla's mission is to accelerate the world's transition 
 
 **[Tesla Motors Launches Revolutionary Supercharger Enabling ...](https://ir.tesla.com/press-release/tesla-motors-launches-revolutionary-supercharger-enabling)**
 
-_Source: ir.tesla.com - Sep 24, 2012 ... Tesla revealed the locations of the first six Supercharger stations, which will allow the Model S to travel long distances with ultra fast charging._
+_Source: ir.tesla.com - Sep 24, 2012 ... The Supercharger is substantially more powerful than any charging technology to date, providing almost 100 kilowatts of power to the Model S, ..._
 
 **[Tesla Motors Delivers World's First Premium Electric Sedan to ...](https://ir.tesla.com/press-release/tesla-motors-delivers-worlds-first-premium-electric-sedan)**
 
-_Source: ir.tesla.com - Jun 22, 2012 ... Tesla Motors (NASDAQ: TSLA) delivered Model S, the world's first premium electric sedan, to its first customers at an invitation-only event at the Tesla ..._
+_Source: ir.tesla.com - Jun 22, 2012 ... Model S is the world's first premium sedan to be built from the ground up as an electric vehicle, meticulously engineered to elevate the ..._
+
+**[Tesla Motors Announces Major European Distribution Center in the ...](https://ir.tesla.com/press-release/tesla-motors-announces-major-european-distribution-center)**
+
+_Source: ir.tesla.com - Dec 12, 2012 ... The new Tesla European Distribution Center will lead to the creation of approximately 50 jobs in the next few years. Tesla's decision to locate ..._
 
 **[Tesla Motors Announces Offerings of Common Stock and ...](https://ir.tesla.com/press-release/tesla-motors-announces-offerings-common-stock-and-convertible)**
 
@@ -319,17 +324,13 @@ _Source: ir.tesla.com - Jul 25, 2012 ... PALO ALTO, CA -- (Marketwire) -- 07/25/
 
 _Source: ir.tesla.com - Jun 3, 2011 ... Tesla intends to use a portion of the net proceeds from this offering and the concurrent private placement to fund the development of its Model ..._
 
-**[Tesla Motors Announces Date for Second Quarter 2013 Financial ...](https://ir.tesla.com/press-release/tesla-motors-announces-date-second-quarter-2013-financial)**
-
-_Source: ir.tesla.com - Jul 16, 2013 ... PALO ALTO, CA -- (Marketwired) -- 07/16/13 -- Tesla Motors, Inc. (NASDAQ: TSLA) announced today that it will post its financial results for ..._
-
-**[Tesla Motors to Manufacture Sedan in California](https://ir.tesla.com/press-release/tesla-motors-manufacture-sedan-california)**
-
-_Source: ir.tesla.com - Jun 29, 2008 ... Tesla's next product, a 4-door, 5-passenger sedan, will be manufactured at a facility in the state of California._
-
 **[Tesla Motors Releases Third Quarter 2013 Financial Results](https://ir.tesla.com/press-release/tesla-motors-releases-third-quarter-2013-financial-results)**
 
 _Source: ir.tesla.com - Nov 5, 2013 ... PALO ALTO, CA -- (Marketwired) -- 11/05/13 -- Tesla Motors, Inc. (NASDAQ: TSLA) today released its financial results for the third quarter ..._
+
+**[Tesla Motors Announces Date for Second Quarter 2013 Financial ...](https://ir.tesla.com/press-release/tesla-motors-announces-date-second-quarter-2013-financial)**
+
+_Source: ir.tesla.com - Jul 16, 2013 ... PALO ALTO, CA -- (Marketwired) -- 07/16/13 -- Tesla Motors, Inc. (NASDAQ: TSLA) announced today that it will post its financial results for ..._
 
 **[Tesla Motors Releases Fourth Quarter & Full Year 2011 Financial ...](https://ir.tesla.com/press-release/tesla-motors-releases-fourth-quarter-full-year-2011-financial)**
 
