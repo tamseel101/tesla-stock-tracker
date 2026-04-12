@@ -69,7 +69,8 @@ For automated daily updates on GitHub, you need to set your API keys as **GitHub
 
 ## Tesla Stock Chart
 
-![Tesla Stock Chart](charts/tesla_stock_chart.png?20260411150051)
+![Tesla Stock Chart](charts/tesla_stock_chart.png?20260412150329)
+
 
 
 
@@ -308,9 +309,9 @@ For automated daily updates on GitHub, you need to set your API keys as **GitHub
 
 _Source: ir.tesla.com - Tesla's mission is to accelerate the world's transition to sustainable energy. Today, Tesla builds not only all-electric vehicles but also infinitely ..._
 
-**[Press Releases | Tesla Investor Relations](https://ir.tesla.com/press)**
+**[Press Releases - Tesla Investor Relations](https://ir.tesla.com/press)**
 
-_Source: ir.tesla.com - AUSTIN, Texas, January 28, 2026 – Tesla has released its financial results for the fourth quarter and full year ended December 31, 2025 by posting an update on ..._
+_Source: ir.tesla.com - Please find below the latest company-compiled delivery consensus of sell-side analysts. Tesla does not endorse any information, recommendations or ..._
 
 **[Tesla Motors Launches Revolutionary Supercharger Enabling ...](https://ir.tesla.com/press-release/tesla-motors-launches-revolutionary-supercharger-enabling)**
 
@@ -332,13 +333,13 @@ _Source: ir.tesla.com - Jun 3, 2011 ... Tesla intends to use a portion of the ne
 
 _Source: ir.tesla.com - Apr 2, 2025 ... At that time, Tesla will issue a brief advisory containing a link to the Q1 2025 update which will be available on Tesla's Investor Relations ..._
 
-**[Panasonic and Tesla Sign Agreement for the Gigafactory](https://ir.tesla.com/press-release/panasonic-and-tesla-sign-agreement-gigafactory)**
-
-_Source: ir.tesla.com - Jul 31, 2014 ... Panasonic Corporation and Tesla Motors, Inc. (NASDAQ: TSLA) have signed an agreement that lays out their cooperation on the construction of a large-scale ..._
-
 **[Tesla Motors Announces Offerings of Common Stock and ...](https://ir.tesla.com/press-release/tesla-motors-announces-offerings-common-stock-and-convertible)**
 
 _Source: ir.tesla.com - May 15, 2013 ... PALO ALTO, CA -- (Marketwired) -- 05/15/13 -- Tesla Motors, Inc. (NASDAQ: TSLA) announced today offerings of 2703027 shares of common stock ..._
+
+**[Panasonic and Tesla Sign Agreement for the Gigafactory](https://ir.tesla.com/press-release/panasonic-and-tesla-sign-agreement-gigafactory)**
+
+_Source: ir.tesla.com - Jul 31, 2014 ... Panasonic Corporation and Tesla Motors, Inc. (NASDAQ: TSLA) have signed an agreement that lays out their cooperation on the construction of a large-scale ..._
 
 **[Tesla Motors Releases Fourth Quarter & Full Year 2011 Financial ...](https://ir.tesla.com/press-release/tesla-motors-releases-fourth-quarter-full-year-2011-financial)**
 
