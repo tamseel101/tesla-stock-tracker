@@ -69,7 +69,8 @@ For automated daily updates on GitHub, you need to set your API keys as **GitHub
 
 ## Tesla Stock Chart
 
-![Tesla Stock Chart](charts/tesla_stock_chart.png?20260413155450)
+![Tesla Stock Chart](charts/tesla_stock_chart.png?20260414154749)
+
 
 
 
@@ -330,10 +331,6 @@ _Source: ir.tesla.com - Jun 22, 2012 ... Tesla Motors (NASDAQ: TSLA) delivered M
 
 _Source: ir.tesla.com - Dec 12, 2012 ... The new Tesla European Distribution Center will lead to the creation of approximately 50 jobs in the next few years. Tesla's decision to locate ..._
 
-**[Tesla First Quarter 2025 Production, Deliveries & Deployments](https://ir.tesla.com/press-release/tesla-first-quarter-2025-production-deliveries-and-deployments)**
-
-_Source: ir.tesla.com - Apr 2, 2025 ... At that time, Tesla will issue a brief advisory containing a link to the Q1 2025 update which will be available on Tesla's Investor Relations ..._
-
 **[Tesla Motors, Inc. Announces Pricing of Its Follow-On Offering](https://ir.tesla.com/press-release/tesla-motors-inc-announces-pricing-its-follow-offering)**
 
 _Source: ir.tesla.com - Jun 3, 2011 ... Tesla intends to use a portion of the net proceeds from this offering and the concurrent private placement to fund the development of its Model ..._
@@ -342,7 +339,11 @@ _Source: ir.tesla.com - Jun 3, 2011 ... Tesla intends to use a portion of the ne
 
 _Source: ir.tesla.com - May 15, 2013 ... PALO ALTO, CA -- (Marketwired) -- 05/15/13 -- Tesla Motors, Inc. (NASDAQ: TSLA) announced today offerings of 2703027 shares of common stock ..._
 
-**[Panasonic and Tesla Sign Agreement for the Gigafactory](https://ir.tesla.com/press-release/panasonic-and-tesla-sign-agreement-gigafactory)**
+**[Tesla Motors Releases Second Quarter 2012 Financial Results](https://ir.tesla.com/press-release/tesla-motors-releases-second-quarter-2012-financial-results)**
 
-_Source: ir.tesla.com - Jul 31, 2014 ... Panasonic Corporation and Tesla Motors, Inc. (NASDAQ: TSLA) have signed an agreement that lays out their cooperation on the construction of a large-scale ..._
+_Source: ir.tesla.com - Jul 25, 2012 ... PALO ALTO, CA -- (Marketwire) -- 07/25/12 -- Tesla Motors, Inc. (NASDAQ: TSLA) today released its second quarter 2012 financial results by ..._
+
+**[Tesla Motors to Manufacture Sedan in California](https://ir.tesla.com/press-release/tesla-motors-manufacture-sedan-california)**
+
+_Source: ir.tesla.com - Jun 29, 2008 ... Tesla's next product, a 4-door, 5-passenger sedan, will be manufactured at a facility in the state of California._
 
