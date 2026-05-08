@@ -69,7 +69,8 @@ For automated daily updates on GitHub, you need to set your API keys as **GitHub
 
 ## Tesla Stock Chart
 
-![Tesla Stock Chart](charts/tesla_stock_chart.png?20260507162047)
+![Tesla Stock Chart](charts/tesla_stock_chart.png?20260508155750)
+
 
 
 
@@ -333,10 +334,6 @@ For automated daily updates on GitHub, you need to set your API keys as **GitHub
 
 _Source: ir.tesla.com - Tesla's mission is to accelerate the world's transition to sustainable energy. Today, Tesla builds not only all-electric vehicles but also infinitely ..._
 
-**[Press Releases - Tesla Investor Relations](https://ir.tesla.com/press)**
-
-_Source: ir.tesla.com - AUSTIN, Texas, April 22, 2026 – Tesla has released its financial results for the first quarter of 2026 by posting an update on its Investor Relations ..._
-
 **[Tesla Motors Announces Offerings of Common Stock and ...](https://ir.tesla.com/press-release/tesla-motors-announces-offerings-common-stock-and-convertible)**
 
 _Source: ir.tesla.com - May 15, 2013 ... PALO ALTO, CA -- (Marketwired) -- 05/15/13 -- Tesla Motors, Inc. (NASDAQ: TSLA) announced today offerings of 2703027 shares of common stock ..._
@@ -364,6 +361,10 @@ _Source: ir.tesla.com - Dec 12, 2012 ... The new Tesla European Distribution Cen
 **[Tesla Motors Releases Second Quarter 2012 Financial Results](https://ir.tesla.com/press-release/tesla-motors-releases-second-quarter-2012-financial-results)**
 
 _Source: ir.tesla.com - Jul 25, 2012 ... PALO ALTO, CA -- (Marketwire) -- 07/25/12 -- Tesla Motors, Inc. (NASDAQ: TSLA) today released its second quarter 2012 financial results by ..._
+
+**[Press Releases - Tesla Investor Relations](https://ir.tesla.com/press)**
+
+_Source: ir.tesla.com - AUSTIN, Texas, April 22, 2026 – Tesla has released its financial results for the first quarter of 2026 by posting an update on its Investor Relations ..._
 
 **[Tesla Motors Announces Date for Second Quarter 2013 Financial ...](https://ir.tesla.com/press-release/tesla-motors-announces-date-second-quarter-2013-financial)**
 
