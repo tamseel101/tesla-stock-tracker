@@ -69,7 +69,8 @@ For automated daily updates on GitHub, you need to set your API keys as **GitHub
 
 ## Tesla Stock Chart
 
-![Tesla Stock Chart](charts/tesla_stock_chart.png?20260509152855)
+![Tesla Stock Chart](charts/tesla_stock_chart.png?20260510153010)
+
 
 
 
@@ -333,7 +334,7 @@ For automated daily updates on GitHub, you need to set your API keys as **GitHub
 
 **[Tesla Investor Relations](https://ir.tesla.com/)**
 
-_Source: ir.tesla.com - Tesla's mission is to accelerate the world's transition to sustainable energy. Today, Tesla builds not only all-electric vehicles but also infinitely ..._
+_Source: ir.tesla.com - ... Tesla builds not only all ... Tesla's Special Meeting of ShareholdersSolarCity Corporation Transaction. 2014. Tesla Motors Corporate Presentation ..._
 
 **[Tesla Motors Announces Offerings of Common Stock and ...](https://ir.tesla.com/press-release/tesla-motors-announces-offerings-common-stock-and-convertible)**
 
@@ -363,7 +364,7 @@ _Source: ir.tesla.com - Dec 12, 2012 ... The new Tesla European Distribution Cen
 
 _Source: ir.tesla.com - Jul 25, 2012 ... PALO ALTO, CA -- (Marketwire) -- 07/25/12 -- Tesla Motors, Inc. (NASDAQ: TSLA) today released its second quarter 2012 financial results by ..._
 
-**[Press Releases - Tesla Investor Relations](https://ir.tesla.com/press)**
+**[Press Releases | Tesla Investor Relations](https://ir.tesla.com/press)**
 
 _Source: ir.tesla.com - AUSTIN, Texas, April 22, 2026 – Tesla has released its financial results for the first quarter of 2026 by posting an update on its Investor Relations ..._
 
