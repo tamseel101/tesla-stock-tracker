@@ -69,7 +69,8 @@ For automated daily updates on GitHub, you need to set your API keys as **GitHub
 
 ## Tesla Stock Chart
 
-![Tesla Stock Chart](charts/tesla_stock_chart.png?20260511170750)
+![Tesla Stock Chart](charts/tesla_stock_chart.png?20260512163655)
+
 
 
 
@@ -345,6 +346,10 @@ _Source: ir.tesla.com - May 15, 2013 ... PALO ALTO, CA -- (Marketwired) -- 05/15
 
 _Source: ir.tesla.com - Sep 24, 2012 ... Tesla revealed the locations of the first six Supercharger stations, which will allow the Model S to travel long distances with ultra fast charging._
 
+**[Press Releases | Tesla Investor Relations](https://ir.tesla.com/press)**
+
+_Source: ir.tesla.com - AUSTIN, Texas, April 22, 2026 – Tesla has released its financial results for the first quarter of 2026 by posting an update on its Investor Relations ..._
+
 **[Tesla Motors Releases Fourth Quarter & Full Year 2011 Financial ...](https://ir.tesla.com/press-release/tesla-motors-releases-fourth-quarter-full-year-2011-financial)**
 
 _Source: ir.tesla.com - Feb 15, 2012 ... PALO ALTO, CA -- (MARKET WIRE) -- 02/15/12 -- Tesla Motors, Inc. (NASDAQ: TSLA) today released its fourth quarter and full year 2011 ..._
@@ -353,21 +358,17 @@ _Source: ir.tesla.com - Feb 15, 2012 ... PALO ALTO, CA -- (MARKET WIRE) -- 02/15
 
 _Source: ir.tesla.com - Jun 22, 2012 ... Tesla Motors (NASDAQ: TSLA) delivered Model S, the world's first premium electric sedan, to its first customers at an invitation-only event at the Tesla ..._
 
-**[Tesla Motors, Inc. Announces Pricing of Its Follow-On Offering](https://ir.tesla.com/press-release/tesla-motors-inc-announces-pricing-its-follow-offering)**
-
-_Source: ir.tesla.com - Jun 3, 2011 ... Tesla intends to use a portion of the net proceeds from this offering and the concurrent private placement to fund the development of its Model ..._
-
 **[Tesla Motors Announces Major European Distribution Center in the ...](https://ir.tesla.com/press-release/tesla-motors-announces-major-european-distribution-center)**
 
 _Source: ir.tesla.com - Dec 12, 2012 ... This new facility will serve as Tesla's European service and parts headquarters, as well as the final assembly and distribution point for Model S vehicles sold ..._
 
+**[Tesla Motors, Inc. Announces Pricing of Its Follow-On Offering](https://ir.tesla.com/press-release/tesla-motors-inc-announces-pricing-its-follow-offering)**
+
+_Source: ir.tesla.com - Jun 3, 2011 ... Tesla intends to use a portion of the net proceeds from this offering and the concurrent private placement to fund the development of its Model ..._
+
 **[Tesla Motors Releases Second Quarter 2012 Financial Results](https://ir.tesla.com/press-release/tesla-motors-releases-second-quarter-2012-financial-results)**
 
 _Source: ir.tesla.com - Jul 25, 2012 ... PALO ALTO, CA -- (Marketwire) -- 07/25/12 -- Tesla Motors, Inc. (NASDAQ: TSLA) today released its second quarter 2012 financial results by ..._
-
-**[Press Releases | Tesla Investor Relations](https://ir.tesla.com/press)**
-
-_Source: ir.tesla.com - AUSTIN, Texas, April 22, 2026 – Tesla has released its financial results for the first quarter of 2026 by posting an update on its Investor Relations ..._
 
 **[Tesla Motors Announces Date for Second Quarter 2013 Financial ...](https://ir.tesla.com/press-release/tesla-motors-announces-date-second-quarter-2013-financial)**
 
