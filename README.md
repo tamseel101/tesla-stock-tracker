@@ -69,7 +69,8 @@ For automated daily updates on GitHub, you need to set your API keys as **GitHub
 
 ## Tesla Stock Chart
 
-![Tesla Stock Chart](charts/tesla_stock_chart.png?20260525163719)
+![Tesla Stock Chart](charts/tesla_stock_chart.png?20260526174115)
+
 
 
 
@@ -378,11 +379,11 @@ _Source: ir.tesla.com - Jun 3, 2011 ... Tesla intends to use a portion of the ne
 
 _Source: ir.tesla.com - Jul 25, 2012 ... PALO ALTO, CA -- (Marketwire) -- 07/25/12 -- Tesla Motors, Inc. (NASDAQ: TSLA) today released its second quarter 2012 financial results by ..._
 
-**[Press Releases | Tesla Investor Relations](https://ir.tesla.com/press)**
-
-_Source: ir.tesla.com - AUSTIN, Texas, April 22, 2026 – Tesla has released its financial results for the first quarter of 2026 by posting an update on its Investor Relations ..._
-
 **[Tesla Motors Wins Three Stevie Awards in 9th Annual American ...](https://ir.tesla.com/press-release/tesla-motors-wins-three-stevie-awards-9th-annual-american)**
 
 _Source: ir.tesla.com - Jun 23, 2011 ... Tesla's site beat out entries from Accenture, AT&T, Webs, Inc., and other highly respected companies in winning the Stevies. Overall, more than ..._
+
+**[Press Releases | Tesla Investor Relations](https://ir.tesla.com/press)**
+
+_Source: ir.tesla.com - AUSTIN, Texas, April 22, 2026 – Tesla has released its financial results for the first quarter of 2026 by posting an update on its Investor Relations ..._
 
