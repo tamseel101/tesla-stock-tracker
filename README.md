@@ -69,7 +69,8 @@ For automated daily updates on GitHub, you need to set your API keys as **GitHub
 
 ## Tesla Stock Chart
 
-![Tesla Stock Chart](charts/tesla_stock_chart.png?20260527173941)
+![Tesla Stock Chart](charts/tesla_stock_chart.png?20260528174757)
+
 
 
 
@@ -364,13 +365,13 @@ _Source: ir.tesla.com - May 15, 2013 ... PALO ALTO, CA -- (Marketwired) -- 05/15
 
 _Source: ir.tesla.com - Dec 12, 2012 ... This new facility will serve as Tesla's European service and parts headquarters, as well as the final assembly and distribution point for Model S vehicles sold ..._
 
-**[Tesla Motors Releases Fourth Quarter & Full Year 2011 Financial ...](https://ir.tesla.com/press-release/tesla-motors-releases-fourth-quarter-full-year-2011-financial)**
-
-_Source: ir.tesla.com - Feb 15, 2012 ... PALO ALTO, CA -- (MARKET WIRE) -- 02/15/12 -- Tesla Motors, Inc. (NASDAQ: TSLA) today released its fourth quarter and full year 2011 financial ..._
-
 **[Tesla Motors Delivers World's First Premium Electric Sedan to ...](https://ir.tesla.com/press-release/tesla-motors-delivers-worlds-first-premium-electric-sedan)**
 
 _Source: ir.tesla.com - Jun 22, 2012 ... Tesla Motors (NASDAQ: TSLA) delivered Model S, the world's first premium electric sedan, to its first customers at an invitation-only event at the Tesla ..._
+
+**[Tesla Motors Releases Fourth Quarter & Full Year 2011 Financial ...](https://ir.tesla.com/press-release/tesla-motors-releases-fourth-quarter-full-year-2011-financial)**
+
+_Source: ir.tesla.com - Feb 15, 2012 ... PALO ALTO, CA -- (MARKET WIRE) -- 02/15/12 -- Tesla Motors, Inc. (NASDAQ: TSLA) today released its fourth quarter and full year 2011 financial ..._
 
 **[Tesla Motors, Inc. Announces Pricing of Its Follow-On Offering](https://ir.tesla.com/press-release/tesla-motors-inc-announces-pricing-its-follow-offering)**
 
@@ -380,11 +381,11 @@ _Source: ir.tesla.com - Jun 3, 2011 ... Tesla intends to use a portion of the ne
 
 _Source: ir.tesla.com - Nov 5, 2013 ... PALO ALTO, CA -- (Marketwired) -- 11/05/13 -- Tesla Motors, Inc. (NASDAQ: TSLA) today released its financial results for the third quarter ..._
 
+**[Tesla Motors Announces Date for First Quarter 2011 Results](https://ir.tesla.com/press-release/tesla-motors-announces-date-first-quarter-2011-results)**
+
+_Source: ir.tesla.com - Apr 18, 2011 ... PALO ALTO, Calif.--(BUSINESS WIRE)-- Tesla Motors, Inc. (Nasdaq: TSLA) announced today that it will release its financial results for the ..._
+
 **[Tesla Motors Releases Second Quarter 2012 Financial Results](https://ir.tesla.com/press-release/tesla-motors-releases-second-quarter-2012-financial-results)**
 
 _Source: ir.tesla.com - Jul 25, 2012 ... PALO ALTO, CA -- (Marketwire) -- 07/25/12 -- Tesla Motors, Inc. (NASDAQ: TSLA) today released its second quarter 2012 financial results by ..._
-
-**[Tesla Motors Wins Three Stevie Awards in 9th Annual American ...](https://ir.tesla.com/press-release/tesla-motors-wins-three-stevie-awards-9th-annual-american)**
-
-_Source: ir.tesla.com - Jun 23, 2011 ... Tesla's site beat out entries from Accenture, AT&T, Webs, Inc., and other highly respected companies in winning the Stevies. Overall, more than ..._
 
