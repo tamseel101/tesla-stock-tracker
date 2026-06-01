@@ -69,7 +69,8 @@ For automated daily updates on GitHub, you need to set your API keys as **GitHub
 
 ## Tesla Stock Chart
 
-![Tesla Stock Chart](charts/tesla_stock_chart.png?20260531154656)
+![Tesla Stock Chart](charts/tesla_stock_chart.png?20260601192736)
+
 
 
 
@@ -368,6 +369,10 @@ _Source: ir.tesla.com - May 15, 2013 ... PALO ALTO, CA -- (Marketwired) -- 05/15
 
 _Source: ir.tesla.com - Dec 12, 2012 ... The new Tesla European Distribution Center will lead to the creation of approximately 50 jobs in the next few years. Tesla's decision to locate ..._
 
+**[Tesla Motors, Inc. Announces Pricing of Its Follow-On Offering](https://ir.tesla.com/press-release/tesla-motors-inc-announces-pricing-its-follow-offering)**
+
+_Source: ir.tesla.com - Jun 3, 2011 ... Tesla intends to use a portion of the net proceeds from this offering and the concurrent private placement to fund the development of its Model ..._
+
 **[Tesla Motors Releases Fourth Quarter & Full Year 2011 Financial ...](https://ir.tesla.com/press-release/tesla-motors-releases-fourth-quarter-full-year-2011-financial)**
 
 _Source: ir.tesla.com - Feb 15, 2012 ... PALO ALTO, CA -- (MARKET WIRE) -- 02/15/12 -- Tesla Motors, Inc. (NASDAQ: TSLA) today released its fourth quarter and full year 2011 financial ..._
@@ -379,10 +384,6 @@ _Source: ir.tesla.com - Jun 22, 2012 ... Tesla Motors (NASDAQ: TSLA) delivered M
 **[Press Releases | Tesla Investor Relations](https://ir.tesla.com/press)**
 
 _Source: ir.tesla.com - AUSTIN, Texas, April 22, 2026 – Tesla has released its financial results for the first quarter of 2026 by posting an update on its Investor Relations ..._
-
-**[Tesla Motors, Inc. Announces Pricing of Its Follow-On Offering](https://ir.tesla.com/press-release/tesla-motors-inc-announces-pricing-its-follow-offering)**
-
-_Source: ir.tesla.com - Jun 3, 2011 ... Tesla intends to use a portion of the net proceeds from this offering and the concurrent private placement to fund the development of its Model ..._
 
 **[Tesla Motors Releases Third Quarter 2013 Financial Results](https://ir.tesla.com/press-release/tesla-motors-releases-third-quarter-2013-financial-results)**
 
