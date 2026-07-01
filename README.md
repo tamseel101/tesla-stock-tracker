@@ -69,7 +69,8 @@ For automated daily updates on GitHub, you need to set your API keys as **GitHub
 
 ## Tesla Stock Chart
 
-![Tesla Stock Chart](charts/tesla_stock_chart.png?20260630163618)
+![Tesla Stock Chart](charts/tesla_stock_chart.png?20260701164324)
+
 
 
 
@@ -388,7 +389,7 @@ _Source: ir.tesla.com - Tesla's mission is to accelerate the world's transition 
 
 **[Press Releases | Tesla Investor Relations](https://ir.tesla.com/press)**
 
-_Source: ir.tesla.com - Jun 26, 2026. Please find below the latest company-compiled delivery consensus of sell-side analysts. Tesla does not endorse any information, recommendations or ..._
+_Source: ir.tesla.com - AUSTIN, Texas, April 22, 2026 – Tesla has released its financial results for the first quarter of 2026 by posting an update on its Investor Relations website._
 
 **[Tesla Motors Announces 2011 Annual Stockholder Meeting](https://ir.tesla.com/press-release/tesla-motors-announces-2011-annual-stockholder-meeting)**
 
