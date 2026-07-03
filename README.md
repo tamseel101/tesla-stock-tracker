@@ -69,7 +69,8 @@ For automated daily updates on GitHub, you need to set your API keys as **GitHub
 
 ## Tesla Stock Chart
 
-![Tesla Stock Chart](charts/tesla_stock_chart.png?20260702161813)
+![Tesla Stock Chart](charts/tesla_stock_chart.png?20260703160526)
+
 
 
 
@@ -390,15 +391,23 @@ _Source: ir.tesla.com - Tesla's mission is to accelerate the world's transition 
 
 **[Press Releases | Tesla Investor Relations](https://ir.tesla.com/press)**
 
-_Source: ir.tesla.com - Please find below the latest company-compiled delivery consensus of sell-side analysts. Tesla does not endorse any information, recommendations or ..._
+_Source: ir.tesla.com - Jun 26, 2026. Please find below the latest company-compiled delivery consensus of sell-side analysts. Tesla does not endorse any information, recommendations or ..._
 
 **[Tesla Motors Wins Three Stevie Awards in 9th Annual American ...](https://ir.tesla.com/press-release/tesla-motors-wins-three-stevie-awards-9th-annual-american)**
 
 _Source: ir.tesla.com - Jun 23, 2011 ... Tesla's site beat out entries from Accenture, AT&T, Webs, Inc., and other highly respected companies in winning the Stevies. Overall, more than ..._
 
+**[Tesla Motors Announces Follow-on Offering | Tesla Investor Relations](https://ir.tesla.com/press-release/tesla-motors-announces-follow-offering?releaseid=709221?releaseid=709221)**
+
+_Source: ir.tesla.com - Sep 25, 2012 ... PALO ALTO, CA -- (Marketwire) -- 09/25/12 -- Tesla Motors, Inc. (NASDAQ: TSLA) announced today a follow-on offering of 4,344,930 shares of ..._
+
 **[Tesla Motors Announces 2011 Annual Stockholder Meeting](https://ir.tesla.com/press-release/tesla-motors-announces-2011-annual-stockholder-meeting)**
 
 _Source: ir.tesla.com - Feb 25, 2011 ... PALO ALTO, Calif.--(BUSINESS WIRE)-- Tesla Motors, Inc. (Nasdaq: TSLA) announced today that its 2011 annual meeting of stockholders will be ..._
+
+**[Tesla Motors Delivers World's First Premium Electric Sedan to ...](https://ir.tesla.com/press-release/tesla-motors-delivers-worlds-first-premium-electric-sedan)**
+
+_Source: ir.tesla.com - Jun 22, 2012 ... Tesla Motors (NASDAQ: TSLA) delivered Model S, the world's first premium electric sedan, to its first customers at an invitation-only event at the Tesla ..._
 
 **[Tesla Motors Launches Revolutionary Supercharger Enabling ...](https://ir.tesla.com/press-release/tesla-motors-launches-revolutionary-supercharger-enabling)**
 
@@ -408,19 +417,11 @@ _Source: ir.tesla.com - Sep 24, 2012 ... Tesla revealed the locations of the fir
 
 _Source: ir.tesla.com - Dec 12, 2012 ... This new facility will serve as Tesla's European service and parts headquarters, as well as the final assembly and distribution point for Model S vehicles sold ..._
 
-**[Tesla Motors Releases Second Quarter 2011 Financial Results](https://ir.tesla.com/press-release/tesla-motors-releases-second-quarter-2011-financial-results)**
-
-_Source: ir.tesla.com - Aug 3, 2011 ... PALO ALTO, CA -- (MARKET WIRE) -- 08/03/11 -- Tesla Motors, Inc. (NASDAQ: TSLA) today released its second quarter 2011 financial results by ..._
-
 **[Tesla Motors Releases Second Quarter 2013 Financial Results](https://ir.tesla.com/press-release/tesla-motors-releases-second-quarter-2013-financial-results)**
 
 _Source: ir.tesla.com - Aug 7, 2013 ... PALO ALTO, CA -- (Marketwired) -- 08/07/13 -- Tesla Motors, Inc. (NASDAQ: TSLA) today released its financial results for the second quarter ..._
 
-**[Tesla Motors Releases Fourth Quarter & Full Year 2011 Financial ...](https://ir.tesla.com/press-release/tesla-motors-releases-fourth-quarter-full-year-2011-financial)**
+**[Tesla Motors Announces Date for First Quarter 2013 Financial Results](https://ir.tesla.com/press-release/tesla-motors-announces-date-first-quarter-2013-financial-results)**
 
-_Source: ir.tesla.com - Feb 15, 2012 ... PALO ALTO, CA -- (MARKET WIRE) -- 02/15/12 -- Tesla Motors, Inc. (NASDAQ: TSLA) today released its fourth quarter and full year 2011 financial ..._
-
-**[Tesla Motors Announces Date for First Quarter 2014 Financial Results](https://ir.tesla.com/press-release/tesla-motors-announces-date-first-quarter-2014-financial-results)**
-
-_Source: ir.tesla.com - Apr 18, 2014 ... PALO ALTO, CA -- (Marketwired) -- 04/18/14 -- Tesla announced today that it will post its financial results for the first quarter ended ..._
+_Source: ir.tesla.com - Apr 23, 2013 ... PALO ALTO, CA -- (Marketwired) -- 04/23/13 -- Tesla Motors, Inc. (NASDAQ: TSLA) announced today that it will post its financial results for ..._
 
