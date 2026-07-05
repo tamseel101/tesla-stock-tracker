@@ -69,7 +69,8 @@ For automated daily updates on GitHub, you need to set your API keys as **GitHub
 
 ## Tesla Stock Chart
 
-![Tesla Stock Chart](charts/tesla_stock_chart.png?20260704154032)
+![Tesla Stock Chart](charts/tesla_stock_chart.png?20260705154513)
+
 
 
 
@@ -390,6 +391,10 @@ For automated daily updates on GitHub, you need to set your API keys as **GitHub
 
 _Source: ir.tesla.com - Tesla's mission is to accelerate the world's transition to sustainable energy. Today, Tesla builds not only all-electric vehicles but also infinitely ..._
 
+**[Tesla Motors Announces Major European Distribution Center in the ...](https://ir.tesla.com/press-release/tesla-motors-announces-major-european-distribution-center)**
+
+_Source: ir.tesla.com - Dec 12, 2012 ... The new Tesla European Distribution Center will lead to the creation of approximately 50 jobs in the next few years. Tesla's decision to locate ..._
+
 **[Tesla Motors Wins Three Stevie Awards in 9th Annual American ...](https://ir.tesla.com/press-release/tesla-motors-wins-three-stevie-awards-9th-annual-american)**
 
 _Source: ir.tesla.com - Jun 23, 2011 ... Tesla's site beat out entries from Accenture, AT&T, Webs, Inc., and other highly respected companies in winning the Stevies. Overall, more than ..._
@@ -406,6 +411,10 @@ _Source: ir.tesla.com - Feb 25, 2011 ... PALO ALTO, Calif.--(BUSINESS WIRE)-- Te
 
 _Source: ir.tesla.com - Jun 26, 2026. Please find below the latest company-compiled delivery consensus of sell-side analysts. Tesla does not endorse any information, recommendations or ..._
 
+**[Tesla Motors Announces 2012 Annual Shareholder Meeting](https://ir.tesla.com/press-release/tesla-motors-announces-2012-annual-shareholder-meeting)**
+
+_Source: ir.tesla.com - May 2, 2012 ... PALO ALTO, CA -- (Marketwire) -- 05/02/12 -- Tesla Motors, Inc. (NASDAQ: TSLA) today announced the date and location of its 2012 Annual ..._
+
 **[Tesla Motors Delivers World's First Premium Electric Sedan to ...](https://ir.tesla.com/press-release/tesla-motors-delivers-worlds-first-premium-electric-sedan)**
 
 _Source: ir.tesla.com - Jun 22, 2012 ... Tesla Motors (NASDAQ: TSLA) delivered Model S, the world's first premium electric sedan, to its first customers at an invitation-only event at the Tesla ..._
@@ -414,15 +423,7 @@ _Source: ir.tesla.com - Jun 22, 2012 ... Tesla Motors (NASDAQ: TSLA) delivered M
 
 _Source: ir.tesla.com - Sep 24, 2012 ... Tesla revealed the locations of the first six Supercharger stations, which will allow the Model S to travel long distances with ultra fast charging._
 
-**[Tesla Motors Announces Major European Distribution Center in the ...](https://ir.tesla.com/press-release/tesla-motors-announces-major-european-distribution-center)**
-
-_Source: ir.tesla.com - Dec 12, 2012 ... This new facility will serve as Tesla's European service and parts headquarters, as well as the final assembly and distribution point for Model S vehicles sold ..._
-
 **[Tesla Motors Releases Second Quarter 2013 Financial Results](https://ir.tesla.com/press-release/tesla-motors-releases-second-quarter-2013-financial-results)**
 
 _Source: ir.tesla.com - Aug 7, 2013 ... PALO ALTO, CA -- (Marketwired) -- 08/07/13 -- Tesla Motors, Inc. (NASDAQ: TSLA) today released its financial results for the second quarter ..._
-
-**[Tesla Motors Announces Date for First Quarter 2013 Financial Results](https://ir.tesla.com/press-release/tesla-motors-announces-date-first-quarter-2013-financial-results)**
-
-_Source: ir.tesla.com - Apr 23, 2013 ... PALO ALTO, CA -- (Marketwired) -- 04/23/13 -- Tesla Motors, Inc. (NASDAQ: TSLA) announced today that it will post its financial results for ..._
 
