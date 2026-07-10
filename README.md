@@ -69,7 +69,8 @@ For automated daily updates on GitHub, you need to set your API keys as **GitHub
 
 ## Tesla Stock Chart
 
-![Tesla Stock Chart](charts/tesla_stock_chart.png?20260709165943)
+![Tesla Stock Chart](charts/tesla_stock_chart.png?20260710163610)
+
 
 
 
@@ -391,13 +392,13 @@ For automated daily updates on GitHub, you need to set your API keys as **GitHub
 
 ## Latest Tesla News
 
-**[Tesla Investor Relations](https://ir.tesla.com/)**
-
-_Source: ir.tesla.com - Tesla's mission is to accelerate the world's transition to sustainable energy. Today, Tesla builds not only all-electric vehicles but also infinitely ..._
-
 **[Press Releases | Tesla Investor Relations](https://ir.tesla.com/press)**
 
 _Source: ir.tesla.com - Jun 26, 2026. Please find below the latest company-compiled delivery consensus of sell-side analysts. Tesla does not endorse any information, recommendations or ..._
+
+**[Tesla Investor Relations](https://ir.tesla.com/)**
+
+_Source: ir.tesla.com - Tesla's mission is to accelerate the world's transition to sustainable energy. Today, Tesla builds not only all-electric vehicles but also infinitely ..._
 
 **[Tesla Motors Releases Fourth Quarter & Full Year 2011 Financial ...](https://ir.tesla.com/press-release/tesla-motors-releases-fourth-quarter-full-year-2011-financial)**
 
@@ -427,7 +428,7 @@ _Source: ir.tesla.com - Sep 24, 2012 ... Tesla revealed the locations of the fir
 
 _Source: ir.tesla.com - May 2, 2012 ... PALO ALTO, CA -- (Marketwire) -- 05/02/12 -- Tesla Motors, Inc. (NASDAQ: TSLA) today announced the date and location of its 2012 Annual ..._
 
-**[Tesla Motors Delivers World's First Premium Electric Sedan to ...](https://ir.tesla.com/press-release/tesla-motors-delivers-worlds-first-premium-electric-sedan)**
+**[Tesla Motors Announces 2011 Annual Stockholder Meeting](https://ir.tesla.com/press-release/tesla-motors-announces-2011-annual-stockholder-meeting)**
 
-_Source: ir.tesla.com - Jun 22, 2012 ... Tesla Motors (NASDAQ: TSLA) delivered Model S, the world's first premium electric sedan, to its first customers at an invitation-only event at the Tesla ..._
+_Source: ir.tesla.com - Feb 25, 2011 ... PALO ALTO, Calif.--(BUSINESS WIRE)-- Tesla Motors, Inc. (Nasdaq: TSLA) announced today that its 2011 annual meeting of stockholders will be ..._
 
