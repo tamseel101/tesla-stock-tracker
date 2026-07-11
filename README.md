@@ -69,7 +69,8 @@ For automated daily updates on GitHub, you need to set your API keys as **GitHub
 
 ## Tesla Stock Chart
 
-![Tesla Stock Chart](charts/tesla_stock_chart.png?20260710163610)
+![Tesla Stock Chart](charts/tesla_stock_chart.png?20260711152909)
+
 
 
 
@@ -392,7 +393,7 @@ For automated daily updates on GitHub, you need to set your API keys as **GitHub
 
 ## Latest Tesla News
 
-**[Press Releases | Tesla Investor Relations](https://ir.tesla.com/press)**
+**[Press Releases - Tesla Investor Relations](https://ir.tesla.com/press)**
 
 _Source: ir.tesla.com - Jun 26, 2026. Please find below the latest company-compiled delivery consensus of sell-side analysts. Tesla does not endorse any information, recommendations or ..._
 
