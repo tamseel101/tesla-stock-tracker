@@ -69,7 +69,8 @@ For automated daily updates on GitHub, you need to set your API keys as **GitHub
 
 ## Tesla Stock Chart
 
-![Tesla Stock Chart](charts/tesla_stock_chart.png?20260808145716)
+![Tesla Stock Chart](charts/tesla_stock_chart.png?20260809145951)
+
 
 
 
@@ -424,7 +425,7 @@ For automated daily updates on GitHub, you need to set your API keys as **GitHub
 
 _Source: ir.tesla.com - Tesla's mission is to accelerate the world's transition to sustainable energy. Today, Tesla builds not only all-electric vehicles but also infinitely ..._
 
-**[Press Releases - Tesla Investor Relations](https://ir.tesla.com/press)**
+**[Press Releases | Tesla Investor Relations](https://ir.tesla.com/press)**
 
 _Source: ir.tesla.com - AUSTIN, Texas, July 22, 2026 – Tesla has released its financial results for the second quarter of 2026 by posting an update on its Investor Relations ..._
 
