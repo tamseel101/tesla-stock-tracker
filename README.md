@@ -69,7 +69,8 @@ For automated daily updates on GitHub, you need to set your API keys as **GitHub
 
 ## Tesla Stock Chart
 
-![Tesla Stock Chart](charts/tesla_stock_chart.png?20260814152015)
+![Tesla Stock Chart](charts/tesla_stock_chart.png?20260815144647)
+
 
 
 
@@ -438,10 +439,6 @@ _Source: ir.tesla.com - AUSTIN, Texas, July 22, 2026 – Tesla has released its 
 
 _Source: ir.tesla.com - Feb 15, 2012 ... PALO ALTO, CA -- (MARKET WIRE) -- 02/15/12 -- Tesla Motors, Inc. (NASDAQ: TSLA) today released its fourth quarter and full year 2011 ..._
 
-**[Tesla Motors Announces Offerings of Common Stock and ...](https://ir.tesla.com/press-release/tesla-motors-announces-offerings-common-stock-and-convertible)**
-
-_Source: ir.tesla.com - May 15, 2013 ... PALO ALTO, CA -- (Marketwired) -- 05/15/13 -- Tesla Motors, Inc. (NASDAQ: TSLA) announced today offerings of 2703027 shares of common stock ..._
-
 **[Tesla Q1 2019 Vehicle Production & Deliveries](https://ir.tesla.com/press-release/tesla-q1-2019-vehicle-production-deliveries)**
 
 _Source: ir.tesla.com - Apr 3, 2019 ... PALO ALTO, Calif., April 03, 2019 (GLOBE NEWSWIRE) -- In the first quarter, we produced approximately 77100 total vehicles, consisting of ..._
@@ -454,10 +451,6 @@ _Source: ir.tesla.com - Dec 12, 2012 ... The new Tesla European Distribution Cen
 
 _Source: ir.tesla.com - Sep 25, 2012 ... (NASDAQ: TSLA) announced today a follow-on offering of 4,344,930 shares of its common stock. All 4,344,930 shares are being offered by the ..._
 
-**[Tesla Motors Delivers World's First Premium Electric Sedan to ...](https://ir.tesla.com/press-release/tesla-motors-delivers-worlds-first-premium-electric-sedan)**
-
-_Source: ir.tesla.com - Jun 22, 2012 ... Model S is the world's first premium sedan to be built from the ground up as an electric vehicle, meticulously engineered to elevate the ..._
-
 **[Tesla Motors Announces 2012 Annual Shareholder Meeting](https://ir.tesla.com/press-release/tesla-motors-announces-2012-annual-shareholder-meeting)**
 
 _Source: ir.tesla.com - May 2, 2012 ... PALO ALTO, CA -- (Marketwire) -- 05/02/12 -- Tesla Motors, Inc. (NASDAQ: TSLA) today announced the date and location of its 2012 Annual ..._
@@ -465,4 +458,12 @@ _Source: ir.tesla.com - May 2, 2012 ... PALO ALTO, CA -- (Marketwire) -- 05/02/1
 **[Tesla Motors Announces Date for First Quarter 2013 Financial Results](https://ir.tesla.com/press-release/tesla-motors-announces-date-first-quarter-2013-financial-results)**
 
 _Source: ir.tesla.com - Apr 23, 2013 ... PALO ALTO, CA -- (Marketwired) -- 04/23/13 -- Tesla Motors, Inc. (NASDAQ: TSLA) announced today that it will post its financial results for ..._
+
+**[Tesla Motors Announces 2011 Annual Stockholder Meeting](https://ir.tesla.com/press-release/tesla-motors-announces-2011-annual-stockholder-meeting)**
+
+_Source: ir.tesla.com - Feb 25, 2011 ... PALO ALTO, Calif.--(BUSINESS WIRE)-- Tesla Motors, Inc. (Nasdaq: TSLA) announced today that its 2011 annual meeting of stockholders will be ..._
+
+**[Tesla Motors Receives $40 Million Financing Commitment](https://ir.tesla.com/press-release/tesla-motors-receives-40-million-financing-commitment)**
+
+_Source: ir.tesla.com - Nov 2, 2008 ... The financing will be used primarily to accelerate manufacturing of the Tesla Roadster, an all-electric, high performance sports car. In ..._
 
