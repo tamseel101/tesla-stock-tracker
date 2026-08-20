@@ -69,7 +69,8 @@ For automated daily updates on GitHub, you need to set your API keys as **GitHub
 
 ## Tesla Stock Chart
 
-![Tesla Stock Chart](charts/tesla_stock_chart.png?20260819150035)
+![Tesla Stock Chart](charts/tesla_stock_chart.png?20260820150336)
+
 
 
 
@@ -455,6 +456,10 @@ _Source: ir.tesla.com - Feb 15, 2012 ... PALO ALTO, CA -- (MARKET WIRE) -- 02/15
 
 _Source: ir.tesla.com - Sep 25, 2012 ... (NASDAQ: TSLA) announced today a follow-on offering of 4,344,930 shares of its common stock. All 4,344,930 shares are being offered by the ..._
 
+**[Tesla Motors Releases Fourth Quarter & Year-End 2012 Financial ...](https://ir.tesla.com/press-release/tesla-motors-releases-fourth-quarter-year-end-2012-financial)**
+
+_Source: ir.tesla.com - Feb 20, 2013 ... PALO ALTO, CA -- (Marketwire) -- 02/20/13 -- Tesla Motors, Inc. (NASDAQ: TSLA) today released its fourth quarter and calendar year ended ..._
+
 **[Tesla Motors Announces 2012 Annual Shareholder Meeting](https://ir.tesla.com/press-release/tesla-motors-announces-2012-annual-shareholder-meeting)**
 
 _Source: ir.tesla.com - May 2, 2012 ... PALO ALTO, CA -- (Marketwire) -- 05/02/12 -- Tesla Motors, Inc. (NASDAQ: TSLA) today announced the date and location of its 2012 Annual ..._
@@ -466,8 +471,4 @@ _Source: ir.tesla.com - Aug 7, 2013 ... PALO ALTO, CA -- (Marketwired) -- 08/07/
 **[Tesla Motors Wins Three Stevie Awards in 9th Annual American ...](https://ir.tesla.com/press-release/tesla-motors-wins-three-stevie-awards-9th-annual-american)**
 
 _Source: ir.tesla.com - Jun 23, 2011 ... Tesla's site beat out entries from Accenture, AT&T, Webs, Inc., and other highly respected companies in winning the Stevies. Overall, more than ..._
-
-**[Tesla Motors Announces Date for First Quarter 2013 Financial Results](https://ir.tesla.com/press-release/tesla-motors-announces-date-first-quarter-2013-financial-results)**
-
-_Source: ir.tesla.com - Apr 23, 2013 ... PALO ALTO, CA -- (Marketwired) -- 04/23/13 -- Tesla Motors, Inc. (NASDAQ: TSLA) announced today that it will post its financial results for ..._
 
