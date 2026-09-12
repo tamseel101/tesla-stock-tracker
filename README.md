@@ -69,7 +69,8 @@ For automated daily updates on GitHub, you need to set your API keys as **GitHub
 
 ## Tesla Stock Chart
 
-![Tesla Stock Chart](charts/tesla_stock_chart.png?20260911174841)
+![Tesla Stock Chart](charts/tesla_stock_chart.png?20260912172042)
+
 
 
 
@@ -490,7 +491,7 @@ _Source: ir.tesla.com - Feb 25, 2011 ... PALO ALTO, Calif.--(BUSINESS WIRE)-- Te
 
 _Source: ir.tesla.com - Feb 20, 2013 ... PALO ALTO, CA -- (Marketwire) -- 02/20/13 -- Tesla Motors, Inc. (NASDAQ: TSLA) today released its fourth quarter and calendar year ended ..._
 
-**[Tesla Motors Announces Date for Second Quarter 2013 Financial ...](https://ir.tesla.com/press-release/tesla-motors-announces-date-second-quarter-2013-financial)**
+**[Tesla Motors Announces Date for Second Quarter 2012 Financial ...](https://ir.tesla.com/press-release/tesla-motors-announces-date-second-quarter-2012-financial)**
 
-_Source: ir.tesla.com - Jul 16, 2013 ... PALO ALTO, CA -- (Marketwired) -- 07/16/13 -- Tesla Motors, Inc. (NASDAQ: TSLA) announced today that it will post its financial results for ..._
+_Source: ir.tesla.com - Jul 19, 2012 ... PALO ALTO, CA -- (Marketwire) -- 07/19/12 -- Tesla Motors, Inc. (NASDAQ: TSLA) announced today that it will post its financial results for ..._
 
