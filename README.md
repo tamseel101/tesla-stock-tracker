@@ -69,7 +69,8 @@ For automated daily updates on GitHub, you need to set your API keys as **GitHub
 
 ## Tesla Stock Chart
 
-![Tesla Stock Chart](charts/tesla_stock_chart.png?20260913173042)
+![Tesla Stock Chart](charts/tesla_stock_chart.png?20260914193114)
+
 
 
 
@@ -468,7 +469,7 @@ _Source: ir.tesla.com - Apr 3, 2019 ... PALO ALTO, Calif., April 03, 2019 (GLOBE
 
 _Source: ir.tesla.com - Nov 2, 2008 ... The financing will be used primarily to accelerate manufacturing of the Tesla Roadster, an all-electric, high performance sports car. In ..._
 
-**[Press Releases | Tesla Investor Relations](https://ir.tesla.com/press)**
+**[Press Releases - Tesla Investor Relations](https://ir.tesla.com/press)**
 
 _Source: ir.tesla.com - AUSTIN, Texas, July 22, 2026 – Tesla has released its financial results for the second quarter of 2026 by posting an update on its Investor Relations ..._
 
