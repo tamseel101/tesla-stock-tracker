@@ -69,7 +69,8 @@ For automated daily updates on GitHub, you need to set your API keys as **GitHub
 
 ## Tesla Stock Chart
 
-![Tesla Stock Chart](charts/tesla_stock_chart.png?20260914193114)
+![Tesla Stock Chart](charts/tesla_stock_chart.png?20260915182104)
+
 
 
 
@@ -481,10 +482,6 @@ _Source: ir.tesla.com - Sep 25, 2012 ... PALO ALTO, CA -- (Marketwire) -- 09/25/
 
 _Source: ir.tesla.com - May 2, 2012 ... PALO ALTO, CA -- (Marketwire) -- 05/02/12 -- Tesla Motors, Inc. (NASDAQ: TSLA) today announced the date and location of its 2012 Annual ..._
 
-**[Tesla Motors Announces 2011 Annual Stockholder Meeting](https://ir.tesla.com/press-release/tesla-motors-announces-2011-annual-stockholder-meeting)**
-
-_Source: ir.tesla.com - Feb 25, 2011 ... PALO ALTO, Calif.--(BUSINESS WIRE)-- Tesla Motors, Inc. (Nasdaq: TSLA) announced today that its 2011 annual meeting of stockholders will be ..._
-
 **[Tesla Motors Releases Fourth Quarter & Year-End 2012 Financial ...](https://ir.tesla.com/press-release/tesla-motors-releases-fourth-quarter-year-end-2012-financial)**
 
 _Source: ir.tesla.com - Feb 20, 2013 ... PALO ALTO, CA -- (Marketwire) -- 02/20/13 -- Tesla Motors, Inc. (NASDAQ: TSLA) today released its fourth quarter and calendar year ended ..._
@@ -496,4 +493,8 @@ _Source: ir.tesla.com - Jul 19, 2012 ... PALO ALTO, CA -- (Marketwire) -- 07/19/
 **[Tesla Motors Announces 2013 Annual Shareholder Meeting Webcast](https://ir.tesla.com/press-release/tesla-motors-announces-2013-annual-shareholder-meeting-webcast)**
 
 _Source: ir.tesla.com - Jun 3, 2013 ... PALO ALTO, CA -- (Marketwired) -- 06/03/13 -- Tesla Motors, Inc. (NASDAQ: TSLA) announces the webcast for its 2013 Annual Shareholder ..._
+
+**[Tesla Motors Releases Fourth Quarter & Full Year 2011 Financial ...](https://ir.tesla.com/press-release/tesla-motors-releases-fourth-quarter-full-year-2011-financial)**
+
+_Source: ir.tesla.com - Feb 15, 2012 ... Tesla has delivered more than 2,150 Roadsters, the world's first electric sports car, to customers world-wide. Model S, the first premium sedan ..._
 
