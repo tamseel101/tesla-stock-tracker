@@ -69,7 +69,8 @@ For automated daily updates on GitHub, you need to set your API keys as **GitHub
 
 ## Tesla Stock Chart
 
-![Tesla Stock Chart](charts/tesla_stock_chart.png?20260919172114)
+![Tesla Stock Chart](charts/tesla_stock_chart.png?20260920173321)
+
 
 
 
@@ -462,18 +463,6 @@ For automated daily updates on GitHub, you need to set your API keys as **GitHub
 
 ## Latest Tesla News
 
-**[Tesla Investor Relations](https://ir.tesla.com/)**
-
-_Source: ir.tesla.com - Tesla's mission is to accelerate the world's transition to sustainable energy. Today, Tesla builds not only all-electric vehicles but also infinitely ..._
-
-**[Tesla Q1 2019 Vehicle Production & Deliveries](https://ir.tesla.com/press-release/tesla-q1-2019-vehicle-production-deliveries)**
-
-_Source: ir.tesla.com - Apr 3, 2019 ... PALO ALTO, Calif., April 03, 2019 (GLOBE NEWSWIRE) -- In the first quarter, we produced approximately 77100 total vehicles, consisting of ..._
-
-**[Press Releases | Tesla Investor Relations](https://ir.tesla.com/press)**
-
-_Source: ir.tesla.com - AUSTIN, Texas, July 22, 2026 – Tesla has released its financial results for the second quarter of 2026 by posting an update on its Investor Relations ..._
-
 **[Tesla Motors Receives $40 Million Financing Commitment](https://ir.tesla.com/press-release/tesla-motors-receives-40-million-financing-commitment)**
 
 _Source: ir.tesla.com - Nov 2, 2008 ... The financing will be used primarily to accelerate manufacturing of the Tesla Roadster, an all-electric, high performance sports car. In ..._
@@ -486,19 +475,31 @@ _Source: ir.tesla.com - Sep 25, 2012 ... PALO ALTO, CA -- (Marketwire) -- 09/25/
 
 _Source: ir.tesla.com - May 2, 2012 ... PALO ALTO, CA -- (Marketwire) -- 05/02/12 -- Tesla Motors, Inc. (NASDAQ: TSLA) today announced the date and location of its 2012 Annual ..._
 
+**[Press Releases | Tesla Investor Relations](https://ir.tesla.com/press)**
+
+_Source: ir.tesla.com - AUSTIN, Texas, July 22, 2026 – Tesla has released its financial results for the second quarter of 2026 by posting an update on its Investor Relations ..._
+
 **[Tesla Motors Launches Revolutionary Supercharger Enabling ...](https://ir.tesla.com/press-release/tesla-motors-launches-revolutionary-supercharger-enabling)**
 
 _Source: ir.tesla.com - Sep 24, 2012 ... The Supercharger is substantially more powerful than any charging technology to date, providing almost 100 kilowatts of power to the Model S, ..._
 
-**[Tesla Motors Releases Fourth Quarter & Year-End 2012 Financial ...](https://ir.tesla.com/press-release/tesla-motors-releases-fourth-quarter-year-end-2012-financial)**
+**[Tesla Investor Relations](https://ir.tesla.com/)**
 
-_Source: ir.tesla.com - Feb 20, 2013 ... PALO ALTO, CA -- (Marketwire) -- 02/20/13 -- Tesla Motors, Inc. (NASDAQ: TSLA) today released its fourth quarter and calendar year ended ..._
+_Source: ir.tesla.com - Tesla's mission is to accelerate the world's transition to sustainable energy. Today, Tesla builds not only all-electric vehicles but also infinitely ..._
 
-**[Tesla Motors Announces Date for Second Quarter 2012 Financial ...](https://ir.tesla.com/press-release/tesla-motors-announces-date-second-quarter-2012-financial)**
+**[Tesla Motors to Officially Open Tesla Factory - Home of the Model S](https://ir.tesla.com/press-release/tesla-motors-officially-open-tesla-factory-home-model-s)**
 
-_Source: ir.tesla.com - Jul 19, 2012 ... PALO ALTO, CA -- (Marketwire) -- 07/19/12 -- Tesla Motors, Inc. (NASDAQ: TSLA) announced today that it will post its financial results for ..._
+_Source: ir.tesla.com - Oct 26, 2010 ... Tesla officially unveils the Tesla Factory in Fremont, CA. The former NUMMI factory closed in April 2010. Tesla purchased the factory in May to ..._
 
-**[Tesla Motors Announces 2013 Annual Shareholder Meeting Webcast](https://ir.tesla.com/press-release/tesla-motors-announces-2013-annual-shareholder-meeting-webcast)**
+**[Tesla Motors Releases Fourth Quarter & Full Year 2011 Financial ...](https://ir.tesla.com/press-release/tesla-motors-releases-fourth-quarter-full-year-2011-financial)**
 
-_Source: ir.tesla.com - Jun 3, 2013 ... PALO ALTO, CA -- (Marketwired) -- 06/03/13 -- Tesla Motors, Inc. (NASDAQ: TSLA) announces the webcast for its 2013 Annual Shareholder ..._
+_Source: ir.tesla.com - Feb 15, 2012 ... Tesla has delivered more than 2,150 Roadsters, the world's first electric sports car, to customers world-wide. Model S, the first premium sedan ..._
+
+**[Tesla Motors Announces Major European Distribution Center in the ...](https://ir.tesla.com/press-release/tesla-motors-announces-major-european-distribution-center)**
+
+_Source: ir.tesla.com - Dec 12, 2012 ... The new Tesla European Distribution Center will lead to the creation of approximately 50 jobs in the next few years. Tesla's decision to locate ..._
+
+**[Tesla Motors to Manufacture Sedan in California](https://ir.tesla.com/press-release/tesla-motors-manufacture-sedan-california)**
+
+_Source: ir.tesla.com - Jun 29, 2008 ... Tesla's sedan, which is targeted for late 2010 production, will utilize Tesla Motors' leading electric powertrain design in a car that is both ..._
 
