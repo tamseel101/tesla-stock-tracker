@@ -69,7 +69,8 @@ For automated daily updates on GitHub, you need to set your API keys as **GitHub
 
 ## Tesla Stock Chart
 
-![Tesla Stock Chart](charts/tesla_stock_chart.png?20260920173321)
+![Tesla Stock Chart](charts/tesla_stock_chart.png?20260921193824)
+
 
 
 
@@ -467,25 +468,17 @@ For automated daily updates on GitHub, you need to set your API keys as **GitHub
 
 _Source: ir.tesla.com - Nov 2, 2008 ... The financing will be used primarily to accelerate manufacturing of the Tesla Roadster, an all-electric, high performance sports car. In ..._
 
-**[Tesla Motors Announces Follow-on Offering - Tesla Investor Relations](https://ir.tesla.com/press-release/tesla-motors-announces-follow-offering?releaseid=709221?releaseid=709221)**
+**[Press Releases | Tesla Investor Relations](https://ir.tesla.com/press)**
 
-_Source: ir.tesla.com - Sep 25, 2012 ... PALO ALTO, CA -- (Marketwire) -- 09/25/12 -- Tesla Motors, Inc. (NASDAQ: TSLA) announced today a follow-on offering of 4,344,930 shares of ..._
+_Source: ir.tesla.com - AUSTIN, Texas, July 22, 2026 – Tesla has released its financial results for the second quarter of 2026 by posting an update on its Investor Relations ..._
 
 **[Tesla Motors Announces 2012 Annual Shareholder Meeting](https://ir.tesla.com/press-release/tesla-motors-announces-2012-annual-shareholder-meeting)**
 
 _Source: ir.tesla.com - May 2, 2012 ... PALO ALTO, CA -- (Marketwire) -- 05/02/12 -- Tesla Motors, Inc. (NASDAQ: TSLA) today announced the date and location of its 2012 Annual ..._
 
-**[Press Releases | Tesla Investor Relations](https://ir.tesla.com/press)**
-
-_Source: ir.tesla.com - AUSTIN, Texas, July 22, 2026 – Tesla has released its financial results for the second quarter of 2026 by posting an update on its Investor Relations ..._
-
 **[Tesla Motors Launches Revolutionary Supercharger Enabling ...](https://ir.tesla.com/press-release/tesla-motors-launches-revolutionary-supercharger-enabling)**
 
 _Source: ir.tesla.com - Sep 24, 2012 ... The Supercharger is substantially more powerful than any charging technology to date, providing almost 100 kilowatts of power to the Model S, ..._
-
-**[Tesla Investor Relations](https://ir.tesla.com/)**
-
-_Source: ir.tesla.com - Tesla's mission is to accelerate the world's transition to sustainable energy. Today, Tesla builds not only all-electric vehicles but also infinitely ..._
 
 **[Tesla Motors to Officially Open Tesla Factory - Home of the Model S](https://ir.tesla.com/press-release/tesla-motors-officially-open-tesla-factory-home-model-s)**
 
@@ -495,11 +488,19 @@ _Source: ir.tesla.com - Oct 26, 2010 ... Tesla officially unveils the Tesla Fact
 
 _Source: ir.tesla.com - Feb 15, 2012 ... Tesla has delivered more than 2,150 Roadsters, the world's first electric sports car, to customers world-wide. Model S, the first premium sedan ..._
 
+**[Tesla Investor Relations](https://ir.tesla.com/)**
+
+_Source: ir.tesla.com - Tesla's mission is to accelerate the world's transition to sustainable energy. Today, Tesla builds not only all-electric vehicles but also infinitely ..._
+
 **[Tesla Motors Announces Major European Distribution Center in the ...](https://ir.tesla.com/press-release/tesla-motors-announces-major-european-distribution-center)**
 
 _Source: ir.tesla.com - Dec 12, 2012 ... The new Tesla European Distribution Center will lead to the creation of approximately 50 jobs in the next few years. Tesla's decision to locate ..._
 
-**[Tesla Motors to Manufacture Sedan in California](https://ir.tesla.com/press-release/tesla-motors-manufacture-sedan-california)**
+**[Tesla Motors and Toyota Motor Corporation Intend to Work Jointly ...](https://ir.tesla.com/press-release/tesla-motors-and-toyota-motor-corporation-intend-work-jointly-ev)**
 
-_Source: ir.tesla.com - Jun 29, 2008 ... Tesla's sedan, which is targeted for late 2010 production, will utilize Tesla Motors' leading electric powertrain design in a car that is both ..._
+_Source: ir.tesla.com - May 19, 2010 ... The two companies intend to form a specialist team to further those efforts. TMC has agreed to purchase $50 million of Tesla's common stock ..._
+
+**[Tesla Motors Announces Follow-on Offering - Tesla Investor Relations](https://ir.tesla.com/press-release/tesla-motors-announces-follow-offering?releaseid=709221?releaseid=709221)**
+
+_Source: ir.tesla.com - Sep 25, 2012 ... PALO ALTO, CA -- (Marketwire) -- 09/25/12 -- Tesla Motors, Inc. (NASDAQ: TSLA) announced today a follow-on offering of 4,344,930 shares of ..._
 
