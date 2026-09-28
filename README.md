@@ -69,7 +69,8 @@ For automated daily updates on GitHub, you need to set your API keys as **GitHub
 
 ## Tesla Stock Chart
 
-![Tesla Stock Chart](charts/tesla_stock_chart.png?20260927183422)
+![Tesla Stock Chart](charts/tesla_stock_chart.png?20260928203905)
+
 
 
 
@@ -486,7 +487,7 @@ _Source: ir.tesla.com - Sep 24, 2012 ... The Supercharger is substantially more 
 
 _Source: ir.tesla.com - Dec 12, 2012 ... The new Tesla European Distribution Center will lead to the creation of approximately 50 jobs in the next few years. Tesla's decision to locate ..._
 
-**[Press Releases - Tesla Investor Relations](https://ir.tesla.com/press)**
+**[Press Releases | Tesla Investor Relations](https://ir.tesla.com/press)**
 
 _Source: ir.tesla.com - AUSTIN, Texas, July 22, 2026 – Tesla has released its financial results for the second quarter of 2026 by posting an update on its Investor Relations ..._
 
