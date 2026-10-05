@@ -69,7 +69,8 @@ For automated daily updates on GitHub, you need to set your API keys as **GitHub
 
 ## Tesla Stock Chart
 
-![Tesla Stock Chart](charts/tesla_stock_chart.png?20261004181608)
+![Tesla Stock Chart](charts/tesla_stock_chart.png?20261005213345)
+
 
 
 
@@ -513,7 +514,7 @@ _Source: ir.tesla.com - Oct 26, 2010 ... Tesla officially unveils the Tesla Fact
 
 _Source: ir.tesla.com - May 19, 2010 ... The two companies intend to form a specialist team to further those efforts. TMC has agreed to purchase $50 million of Tesla's common stock ..._
 
-**[Tesla Motors Announces Follow-on Offering - Tesla Investor Relations](https://ir.tesla.com/press-release/tesla-motors-announces-follow-offering?releaseid=709221?releaseid=709221)**
+**[Tesla Motors Selects BorgWarner for Production of New Gearbox for ...](https://ir.tesla.com/press-release/tesla-motors-selects-borgwarner-production-new-gearbox-tesla)**
 
-_Source: ir.tesla.com - Sep 25, 2012 ... PALO ALTO, CA -- (Marketwire) -- 09/25/12 -- Tesla Motors, Inc. (NASDAQ: TSLA) announced today a follow-on offering of 4,344,930 shares of ..._
+_Source: ir.tesla.com - Sep 8, 2008 ... The new gearbox is an integral part of an enhanced powertrain with significant performance and efficiency improvements. The new powertrain ..._
 
