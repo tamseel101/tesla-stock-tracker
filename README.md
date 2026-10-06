@@ -69,7 +69,8 @@ For automated daily updates on GitHub, you need to set your API keys as **GitHub
 
 ## Tesla Stock Chart
 
-![Tesla Stock Chart](charts/tesla_stock_chart.png?20261005213345)
+![Tesla Stock Chart](charts/tesla_stock_chart.png?20261006193934)
+
 
 
 
@@ -516,5 +517,5 @@ _Source: ir.tesla.com - May 19, 2010 ... The two companies intend to form a spec
 
 **[Tesla Motors Selects BorgWarner for Production of New Gearbox for ...](https://ir.tesla.com/press-release/tesla-motors-selects-borgwarner-production-new-gearbox-tesla)**
 
-_Source: ir.tesla.com - Sep 8, 2008 ... The new gearbox is an integral part of an enhanced powertrain with significant performance and efficiency improvements. The new powertrain ..._
+_Source: ir.tesla.com - Sep 8, 2008 ... The new powertrain achieves an EPA combined range of 244 miles on a single charge, up from Tesla's previously announced EPA range of 221 miles._
 
