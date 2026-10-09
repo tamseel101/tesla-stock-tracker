@@ -69,7 +69,8 @@ For automated daily updates on GitHub, you need to set your API keys as **GitHub
 
 ## Tesla Stock Chart
 
-![Tesla Stock Chart](charts/tesla_stock_chart.png?20261008200153)
+![Tesla Stock Chart](charts/tesla_stock_chart.png?20261009193624)
+
 
 
 
@@ -517,7 +518,7 @@ _Source: ir.tesla.com - Oct 26, 2010 ... Tesla officially unveils the Tesla Fact
 
 _Source: ir.tesla.com - May 19, 2010 ... The two companies intend to form a specialist team to further those efforts. TMC has agreed to purchase $50 million of Tesla's common stock ..._
 
-**[Tesla Motors Selects BorgWarner for Production of New Gearbox for ...](https://ir.tesla.com/press-release/tesla-motors-selects-borgwarner-production-new-gearbox-tesla)**
+**[Tesla Motors Announces Follow-on Offering - Tesla Investor Relations](https://ir.tesla.com/press-release/tesla-motors-announces-follow-offering?releaseid=709221?releaseid=709221)**
 
-_Source: ir.tesla.com - Sep 8, 2008 ... The new powertrain achieves an EPA combined range of 244 miles on a single charge, up from Tesla's previously announced EPA range of 221 miles._
+_Source: ir.tesla.com - Sep 25, 2012 ... PALO ALTO, CA -- (Marketwire) -- 09/25/12 -- Tesla Motors, Inc. (NASDAQ: TSLA) announced today a follow-on offering of 4,344,930 shares of ..._
 
