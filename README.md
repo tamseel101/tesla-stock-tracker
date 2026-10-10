@@ -69,7 +69,8 @@ For automated daily updates on GitHub, you need to set your API keys as **GitHub
 
 ## Tesla Stock Chart
 
-![Tesla Stock Chart](charts/tesla_stock_chart.png?20261009193624)
+![Tesla Stock Chart](charts/tesla_stock_chart.png?20261010184505)
+
 
 
 
@@ -502,10 +503,6 @@ _Source: ir.tesla.com - Sep 24, 2012 ... The Supercharger is substantially more 
 
 _Source: ir.tesla.com - Sep 29, 2026. Please find below the latest company-compiled delivery consensus of sell-side analysts. Tesla does not endorse any information, recommendations or ..._
 
-**[Tesla Investor Relations](https://ir.tesla.com/)**
-
-_Source: ir.tesla.com - Tesla's mission is to accelerate the world's transition to sustainable energy. Today, Tesla builds not only all-electric vehicles but also infinitely ..._
-
 **[Tesla Motors Releases Fourth Quarter & Full Year 2011 Financial ...](https://ir.tesla.com/press-release/tesla-motors-releases-fourth-quarter-full-year-2011-financial)**
 
 _Source: ir.tesla.com - Feb 15, 2012 ... Tesla has delivered more than 2,150 Roadsters, the world's first electric sports car, to customers world-wide. Model S, the first premium sedan ..._
@@ -513,6 +510,10 @@ _Source: ir.tesla.com - Feb 15, 2012 ... Tesla has delivered more than 2,150 Roa
 **[Tesla Motors to Officially Open Tesla Factory - Home of the Model S](https://ir.tesla.com/press-release/tesla-motors-officially-open-tesla-factory-home-model-s)**
 
 _Source: ir.tesla.com - Oct 26, 2010 ... Tesla officially unveils the Tesla Factory in Fremont, CA. The former NUMMI factory closed in April 2010. Tesla purchased the factory in May to ..._
+
+**[Tesla Investor Relations](https://ir.tesla.com/)**
+
+_Source: ir.tesla.com - Tesla's mission is to accelerate the world's transition to sustainable energy. Today, Tesla builds not only all-electric vehicles but also infinitely ..._
 
 **[Tesla Motors and Toyota Motor Corporation Intend to Work Jointly ...](https://ir.tesla.com/press-release/tesla-motors-and-toyota-motor-corporation-intend-work-jointly-ev)**
 
