@@ -69,7 +69,8 @@ For automated daily updates on GitHub, you need to set your API keys as **GitHub
 
 ## Tesla Stock Chart
 
-![Tesla Stock Chart](charts/tesla_stock_chart.png?20261017172457)
+![Tesla Stock Chart](charts/tesla_stock_chart.png?20261018172734)
+
 
 
 
@@ -510,21 +511,21 @@ _Source: ir.tesla.com - Dec 12, 2012 ... The new Tesla European Distribution Cen
 
 _Source: ir.tesla.com - Sep 24, 2012 ... The Supercharger is substantially more powerful than any charging technology to date, providing almost 100 kilowatts of power to the Model S, ..._
 
-**[Tesla Investor Relations](https://ir.tesla.com/)**
-
-_Source: ir.tesla.com - Tesla's mission is to accelerate the world's transition to sustainable energy. Today, Tesla builds not only all-electric vehicles but also infinitely ..._
-
 **[Tesla Motors to Officially Open Tesla Factory - Home of the Model S](https://ir.tesla.com/press-release/tesla-motors-officially-open-tesla-factory-home-model-s)**
 
 _Source: ir.tesla.com - Oct 26, 2010 ... Tesla officially unveils the Tesla Factory in Fremont, CA. The former NUMMI factory closed in April 2010. Tesla purchased the factory in May to ..._
 
-**[Tesla Motors Announces Follow-on Offering - Tesla Investor Relations](https://ir.tesla.com/press-release/tesla-motors-announces-follow-offering?releaseid=709221?releaseid=709221)**
+**[Tesla Investor Relations](https://ir.tesla.com/)**
 
-_Source: ir.tesla.com - Sep 25, 2012 ... PALO ALTO, CA -- (Marketwire) -- 09/25/12 -- Tesla Motors, Inc. (NASDAQ: TSLA) announced today a follow-on offering of 4,344,930 shares of ..._
+_Source: ir.tesla.com - Tesla's mission is to accelerate the world's transition to sustainable energy. Today, Tesla builds not only all-electric vehicles but also infinitely ..._
+
+**[Tesla Motors Releases Fourth Quarter & Full Year 2011 Financial ...](https://ir.tesla.com/press-release/tesla-motors-releases-fourth-quarter-full-year-2011-financial)**
+
+_Source: ir.tesla.com - Feb 15, 2012 ... PALO ALTO, CA -- (MARKET WIRE) -- 02/15/12 -- Tesla Motors, Inc. (NASDAQ: TSLA) today released its fourth quarter and full year 2011 ..._
 
 **[Tesla Motors Selects BorgWarner for Production of New Gearbox for ...](https://ir.tesla.com/press-release/tesla-motors-selects-borgwarner-production-new-gearbox-tesla)**
 
-_Source: ir.tesla.com - Sep 8, 2008 ... The new powertrain achieves an EPA combined range of 244 miles on a single charge, up from Tesla's previously announced EPA range of 221 miles._
+_Source: ir.tesla.com - Sep 8, 2008 ... The new gearbox is an integral part of an enhanced powertrain with significant performance and efficiency improvements. The new powertrain ..._
 
 **[Tesla Motors and Toyota Motor Corporation Intend to Work Jointly ...](https://ir.tesla.com/press-release/tesla-motors-and-toyota-motor-corporation-intend-work-jointly-ev)**
 
