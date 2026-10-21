@@ -2,7 +2,7 @@
     {
         "headline": "Press Releases | Tesla Investor Relations",
         "source": "ir.tesla.com",
-        "date": "Please find below the latest company-compiled earnings consensus estimates of sell-side analysts. Tesla does not endorse any information, recommendations or\u00a0...",
+        "date": "Oct 19, 2026. Please find below the latest company-compiled earnings consensus estimates of sell-side analysts. Tesla does not endorse any information,\u00a0...",
         "link": "https://ir.tesla.com/press"
     },
     {
@@ -12,16 +12,16 @@
         "link": "https://ir.tesla.com/press-release/tesla-motors-receives-40-million-financing-commitment"
     },
     {
-        "headline": "Tesla Motors Announces 2012 Annual Shareholder Meeting",
-        "source": "ir.tesla.com",
-        "date": "May 2, 2012 ... PALO ALTO, CA -- (Marketwire) -- 05/02/12 -- Tesla Motors, Inc. (NASDAQ: TSLA) today announced the date and location of its 2012 Annual\u00a0...",
-        "link": "https://ir.tesla.com/press-release/tesla-motors-announces-2012-annual-shareholder-meeting"
-    },
-    {
         "headline": "Tesla Motors Launches Revolutionary Supercharger Enabling ...",
         "source": "ir.tesla.com",
         "date": "Sep 24, 2012 ... The Supercharger is substantially more powerful than any charging technology to date, providing almost 100 kilowatts of power to the Model S,\u00a0...",
         "link": "https://ir.tesla.com/press-release/tesla-motors-launches-revolutionary-supercharger-enabling"
+    },
+    {
+        "headline": "Tesla Motors Announces 2012 Annual Shareholder Meeting",
+        "source": "ir.tesla.com",
+        "date": "May 2, 2012 ... PALO ALTO, CA -- (Marketwire) -- 05/02/12 -- Tesla Motors, Inc. (NASDAQ: TSLA) today announced the date and location of its 2012 Annual\u00a0...",
+        "link": "https://ir.tesla.com/press-release/tesla-motors-announces-2012-annual-shareholder-meeting"
     },
     {
         "headline": "Tesla Motors Announces Major European Distribution Center in the ...",
@@ -30,16 +30,22 @@
         "link": "https://ir.tesla.com/press-release/tesla-motors-announces-major-european-distribution-center"
     },
     {
-        "headline": "Tesla Motors to Officially Open Tesla Factory - Home of the Model S",
-        "source": "ir.tesla.com",
-        "date": "Oct 26, 2010 ... Tesla officially unveils the Tesla Factory in Fremont, CA. The former NUMMI factory closed in April 2010. Tesla purchased the factory in May to\u00a0...",
-        "link": "https://ir.tesla.com/press-release/tesla-motors-officially-open-tesla-factory-home-model-s"
-    },
-    {
         "headline": "Tesla Investor Relations",
         "source": "ir.tesla.com",
         "date": "Tesla's mission is to accelerate the world's transition to sustainable energy. Today, Tesla builds not only all-electric vehicles but also infinitely\u00a0...",
         "link": "https://ir.tesla.com/"
+    },
+    {
+        "headline": "Tesla Motors Selects BorgWarner for Production of New Gearbox for ...",
+        "source": "ir.tesla.com",
+        "date": "Sep 8, 2008 ... The new powertrain achieves an EPA combined range of 244 miles on a single charge, up from Tesla's previously announced EPA range of 221 miles.",
+        "link": "https://ir.tesla.com/press-release/tesla-motors-selects-borgwarner-production-new-gearbox-tesla"
+    },
+    {
+        "headline": "Tesla Motors to Officially Open Tesla Factory - Home of the Model S",
+        "source": "ir.tesla.com",
+        "date": "Oct 26, 2010 ... Tesla officially unveils the Tesla Factory in Fremont, CA. The former NUMMI factory closed in April 2010. Tesla purchased the factory in May to\u00a0...",
+        "link": "https://ir.tesla.com/press-release/tesla-motors-officially-open-tesla-factory-home-model-s"
     },
     {
         "headline": "Tesla Motors Releases Fourth Quarter & Full Year 2011 Financial ...",
@@ -52,11 +58,5 @@
         "source": "ir.tesla.com",
         "date": "Jun 22, 2012 ... Model S is the world's first premium sedan to be built from the ground up as an electric vehicle, meticulously engineered to elevate the\u00a0...",
         "link": "https://ir.tesla.com/press-release/tesla-motors-delivers-worlds-first-premium-electric-sedan"
-    },
-    {
-        "headline": "Tesla Motors Selects BorgWarner for Production of New Gearbox for ...",
-        "source": "ir.tesla.com",
-        "date": "Sep 8, 2008 ... The new powertrain achieves an EPA combined range of 244 miles on a single charge, up from Tesla's previously announced EPA range of 221 miles.",
-        "link": "https://ir.tesla.com/press-release/tesla-motors-selects-borgwarner-production-new-gearbox-tesla"
     }
 ]
