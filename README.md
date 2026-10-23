@@ -69,7 +69,8 @@ For automated daily updates on GitHub, you need to set your API keys as **GitHub
 
 ## Tesla Stock Chart
 
-![Tesla Stock Chart](charts/tesla_stock_chart.png?20261022184059)
+![Tesla Stock Chart](charts/tesla_stock_chart.png?20261023183500)
+
 
 
 
@@ -521,15 +522,15 @@ _Source: ir.tesla.com - Tesla's mission is to accelerate the world's transition 
 
 **[Tesla Motors Selects BorgWarner for Production of New Gearbox for ...](https://ir.tesla.com/press-release/tesla-motors-selects-borgwarner-production-new-gearbox-tesla)**
 
-_Source: ir.tesla.com - Sep 8, 2008 ... The new powertrain achieves an EPA combined range of 244 miles on a single charge, up from Tesla's previously announced EPA range of 221 miles._
-
-**[Tesla Motors Releases Fourth Quarter & Full Year 2011 Financial ...](https://ir.tesla.com/press-release/tesla-motors-releases-fourth-quarter-full-year-2011-financial)**
-
-_Source: ir.tesla.com - Feb 15, 2012 ... PALO ALTO, CA -- (MARKET WIRE) -- 02/15/12 -- Tesla Motors, Inc. (NASDAQ: TSLA) today released its fourth quarter and full year 2011 ..._
+_Source: ir.tesla.com - Sep 8, 2008 ... The new gearbox is an integral part of an enhanced powertrain with significant performance and efficiency improvements. The new powertrain ..._
 
 **[Tesla Motors to Officially Open Tesla Factory - Home of the Model S](https://ir.tesla.com/press-release/tesla-motors-officially-open-tesla-factory-home-model-s)**
 
 _Source: ir.tesla.com - Oct 26, 2010 ... Tesla officially unveils the Tesla Factory in Fremont, CA. The former NUMMI factory closed in April 2010. Tesla purchased the factory in May to ..._
+
+**[Tesla Motors Releases Fourth Quarter & Full Year 2011 Financial ...](https://ir.tesla.com/press-release/tesla-motors-releases-fourth-quarter-full-year-2011-financial)**
+
+_Source: ir.tesla.com - Feb 15, 2012 ... PALO ALTO, CA -- (MARKET WIRE) -- 02/15/12 -- Tesla Motors, Inc. (NASDAQ: TSLA) today released its fourth quarter and full year 2011 ..._
 
 **[Tesla Motors Delivers World's First Premium Electric Sedan to ...](https://ir.tesla.com/press-release/tesla-motors-delivers-worlds-first-premium-electric-sedan)**
 
