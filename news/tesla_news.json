@@ -1,15 +1,15 @@
 [
     {
-        "headline": "Press Releases - Tesla Investor Relations",
-        "source": "ir.tesla.com",
-        "date": "AUSTIN, Texas, October 21, 2026 \u2013 Tesla has released its financial results for the third quarter of 2026 by posting an update on its Investor Relations\u00a0...",
-        "link": "https://ir.tesla.com/press"
-    },
-    {
         "headline": "Tesla Motors Launches Revolutionary Supercharger Enabling ...",
         "source": "ir.tesla.com",
         "date": "Sep 24, 2012 ... The Supercharger is substantially more powerful than any charging technology to date, providing almost 100 kilowatts of power to the Model S,\u00a0...",
         "link": "https://ir.tesla.com/press-release/tesla-motors-launches-revolutionary-supercharger-enabling"
+    },
+    {
+        "headline": "Press Releases - Tesla Investor Relations",
+        "source": "ir.tesla.com",
+        "date": "AUSTIN, Texas, October 21, 2026 \u2013 Tesla has released its financial results for the third quarter of 2026 by posting an update on its Investor Relations\u00a0...",
+        "link": "https://ir.tesla.com/press"
     },
     {
         "headline": "Tesla Motors Receives $40 Million Financing Commitment",
@@ -24,12 +24,6 @@
         "link": "https://ir.tesla.com/press-release/tesla-motors-announces-2012-annual-shareholder-meeting"
     },
     {
-        "headline": "Tesla Motors Announces Major European Distribution Center in the ...",
-        "source": "ir.tesla.com",
-        "date": "Dec 12, 2012 ... The new Tesla European Distribution Center will lead to the creation of approximately 50 jobs in the next few years. Tesla's decision to locate\u00a0...",
-        "link": "https://ir.tesla.com/press-release/tesla-motors-announces-major-european-distribution-center"
-    },
-    {
         "headline": "Tesla Motors Reports Fourth Quarter and Full Year 2010 Results",
         "source": "ir.tesla.com",
         "date": "Feb 15, 2011 ... Revenues for the fourth quarter of 2010 were $36.3 million, a 16% increase from the $31.2 million reported in the prior quarter. Gross margin\u00a0...",
@@ -42,9 +36,21 @@
         "link": "https://ir.tesla.com/"
     },
     {
+        "headline": "Tesla Motors Announces Major European Distribution Center in the ...",
+        "source": "ir.tesla.com",
+        "date": "Dec 12, 2012 ... The new Tesla European Distribution Center will lead to the creation of approximately 50 jobs in the next few years. Tesla's decision to locate\u00a0...",
+        "link": "https://ir.tesla.com/press-release/tesla-motors-announces-major-european-distribution-center"
+    },
+    {
+        "headline": "Tesla Motors Delivers World's First Premium Electric Sedan to ...",
+        "source": "ir.tesla.com",
+        "date": "Jun 22, 2012 ... Model S is the world's first premium sedan to be built from the ground up as an electric vehicle, meticulously engineered to elevate the\u00a0...",
+        "link": "https://ir.tesla.com/press-release/tesla-motors-delivers-worlds-first-premium-electric-sedan"
+    },
+    {
         "headline": "Tesla Motors Selects BorgWarner for Production of New Gearbox for ...",
         "source": "ir.tesla.com",
-        "date": "Sep 8, 2008 ... The new gearbox is an integral part of an enhanced powertrain with significant performance and efficiency improvements. The new powertrain\u00a0...",
+        "date": "Sep 8, 2008 ... The new powertrain achieves an EPA combined range of 244 miles on a single charge, up from Tesla's previously announced EPA range of 221 miles.",
         "link": "https://ir.tesla.com/press-release/tesla-motors-selects-borgwarner-production-new-gearbox-tesla"
     },
     {
@@ -52,11 +58,5 @@
         "source": "ir.tesla.com",
         "date": "Feb 15, 2012 ... PALO ALTO, CA -- (MARKET WIRE) -- 02/15/12 -- Tesla Motors, Inc. (NASDAQ: TSLA) today released its fourth quarter and full year 2011\u00a0...",
         "link": "https://ir.tesla.com/press-release/tesla-motors-releases-fourth-quarter-full-year-2011-financial"
-    },
-    {
-        "headline": "Tesla Motors Delivers World's First Premium Electric Sedan to ...",
-        "source": "ir.tesla.com",
-        "date": "Jun 22, 2012 ... Model S is the world's first premium sedan to be built from the ground up as an electric vehicle, meticulously engineered to elevate the\u00a0...",
-        "link": "https://ir.tesla.com/press-release/tesla-motors-delivers-worlds-first-premium-electric-sedan"
     }
 ]
