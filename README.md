@@ -69,7 +69,8 @@ For automated daily updates on GitHub, you need to set your API keys as **GitHub
 
 ## Tesla Stock Chart
 
-![Tesla Stock Chart](charts/tesla_stock_chart.png?20261030193328)
+![Tesla Stock Chart](charts/tesla_stock_chart.png?20261031184032)
+
 
 
 
@@ -511,7 +512,7 @@ _Source: ir.tesla.com - Sep 24, 2012 ... The Supercharger is substantially more 
 
 _Source: ir.tesla.com - Nov 2, 2008 ... The financing will be used primarily to accelerate manufacturing of the Tesla Roadster, an all-electric, high performance sports car. In ..._
 
-**[Press Releases | Tesla Investor Relations](https://ir.tesla.com/press)**
+**[Press Releases - Tesla Investor Relations](https://ir.tesla.com/press)**
 
 _Source: ir.tesla.com - AUSTIN, Texas, October 21, 2026 – Tesla has released its financial results for the third quarter of 2026 by posting an update on its Investor Relations ..._
 
@@ -537,7 +538,7 @@ _Source: ir.tesla.com - Dec 12, 2012 ... The new Tesla European Distribution Cen
 
 **[Tesla Motors Selects BorgWarner for Production of New Gearbox for ...](https://ir.tesla.com/press-release/tesla-motors-selects-borgwarner-production-new-gearbox-tesla)**
 
-_Source: ir.tesla.com - Sep 8, 2008 ... The new powertrain achieves an EPA combined range of 244 miles on a single charge, up from Tesla's previously announced EPA range of 221 miles._
+_Source: ir.tesla.com - Sep 8, 2008 ... The new gearbox is an integral part of an enhanced powertrain with significant performance and efficiency improvements. The new powertrain ..._
 
 **[Tesla Motors Releases Fourth Quarter & Full Year 2011 Financial ...](https://ir.tesla.com/press-release/tesla-motors-releases-fourth-quarter-full-year-2011-financial)**
 
